@@ -3,7 +3,7 @@ import random
 
 import numpy as np
 
-from compare import feature_table, kmer_table, pca, window_table
+from compare import feature_table, pca, signature_distance, signature_table, window_table
 from sequence import translate
 
 random.seed(1)
@@ -25,12 +25,12 @@ assert f.loc["GC0", "gc_region_%"] > 60 > f.loc["AT0", "gc_region_%"]
 w = window_table(genes, window=1000)
 assert len(w) == 6 * (len(genes[0]["region"]) // 1000)  # full windows only
 
-k = kmer_table(genes)
-assert np.allclose(k.sum(axis=1), 1)
+d = signature_distance(signature_table(genes))
+assert np.allclose(np.diag(d), 0) and np.allclose(d, d.T)
+assert d.loc["AT0", "AT1"] < 50  # same made-up composition -> near-identical signatures
 
-for table in (f, k):  # PC1 should split the AT-rich genes from the GC-rich ones
-    scores, var = pca(table)
-    pc1 = scores["PC1"]
-    assert (pc1.filter(like="AT") > 0).all() != (pc1.filter(like="GC") > 0).all()
-    assert 0 < var[1] <= var[0] <= 100
+scores, var = pca(f)  # PC1 should split the AT-rich genes from the GC-rich ones
+pc1 = scores["PC1"]
+assert (pc1.filter(like="AT") > 0).all() != (pc1.filter(like="GC") > 0).all()
+assert 0 < var[1] <= var[0] <= 100
 print("all checks passed")

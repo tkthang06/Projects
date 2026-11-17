@@ -5,7 +5,7 @@ from collections import Counter
 from Bio.Seq import Seq
 from Bio.SeqUtils import gc_fraction
 
-from sequence import (cpg_islands, cpg_obs_exp, find_orfs, gc_content, kmer_counts,
+from sequence import (cpg_islands, cpg_obs_exp, dinucleotide_rho, find_orfs, gc_content, kmer_counts,
                       parse_fasta, reverse_complement, transcribe, translate)
 
 
@@ -61,4 +61,12 @@ islands = cpg_islands(seq)
 assert islands == [(starts[0], starts[-1] + 200)], islands  # one merged island spanning every passing window
 assert islands[0][0] <= 1000 and islands[0][1] >= 1600
 assert cpg_islands("AT" * 500) == []
+
+# Genomic signature: ~1 everywhere for random DNA, strand-symmetric, and GC content alone doesn't move it
+rho = dinucleotide_rho("".join(random.choices("ACGT", k=200000)))
+assert all(abs(v - 1) < 0.05 for v in rho.values()), rho
+assert abs(rho["AC"] - rho["GT"]) < 1e-12 and abs(rho["CA"] - rho["TG"]) < 1e-12
+gc_rich = dinucleotide_rho("".join(random.choices("GGGCCCAT", k=200000)))
+assert all(abs(v - 1) < 0.05 for v in gc_rich.values())  # 75% GC, but no dinucleotide preference
+assert dinucleotide_rho("ACGT" * 1000)["CG"] > 3  # CG over-represented in this repeat
 print("all checks passed")

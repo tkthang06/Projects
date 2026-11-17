@@ -1,4 +1,6 @@
-streamlit>=1.40
+streamlit>=1.67
+altair>=5.0
+py3Dmol>=2.0
 biopython>=1.84
 numpy>=2.0
 pandas>=2.2

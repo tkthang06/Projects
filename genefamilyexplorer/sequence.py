@@ -119,6 +119,21 @@ def cpg_islands(seq, window=200, min_gc=50, min_oe=0.6, min_len=200):
     return [(s, e) for s, e in islands if e - s >= min_len]
 
 
+def dinucleotide_rho(seq):
+    """Karlin's genomic signature: rho_XY = f(XY) / (f(X) f(Y)) for all 16 dinucleotides.
+
+    Dividing by the base frequencies removes overall GC content, so what is left
+    is dinucleotide preference (CpG depletion, TpA avoidance, ...). Counted on
+    both strands, as in Karlin's definition, so e.g. rho_AC == rho_GT.
+    """
+    both = seq + "N" + reverse_complement(seq)  # the N stops a dinucleotide across the join
+    di = kmer_counts(both, 2)
+    mono = kmer_counts(both, 1)
+    n_di, n_mono = sum(di.values()), sum(mono.values())
+    return {x + y: (di[x + y] / n_di) / (mono[x] / n_mono * mono[y] / n_mono)
+            for x in "ACGT" for y in "ACGT"}
+
+
 def kmer_counts(seq, k=3):
     """Counts of each k-mer made only of A/C/G/T."""
     return Counter(kmer for kmer in (seq[i:i + k] for i in range(len(seq) - k + 1))

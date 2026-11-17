@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 from scipy.stats import kruskal
 
-from sequence import cpg_islands, cpg_obs_exp, find_orfs, gc_content, kmer_counts
+from sequence import cpg_islands, cpg_obs_exp, dinucleotide_rho, find_orfs, gc_content
 
 DEFAULT_GENES = ["ADAMTS1", "ADAMTS4", "ADAMTS5", "ADAMTS8", "ADAMTS9", "ADAMTS15", "GAPDH"]
 
@@ -42,14 +42,20 @@ def feature_table(genes):
     return pd.DataFrame({g["symbol"]: gene_features(g) for g in genes}).T
 
 
-def kmer_table(genes, k=3):
-    """Gene x k-mer frequency table (each row sums to 1), from the genomic region."""
-    rows = {}
-    for g in genes:
-        counts = kmer_counts(g["region"], k)
-        total = sum(counts.values())
-        rows[g["symbol"]] = {kmer: n / total for kmer, n in counts.items()}
-    return pd.DataFrame(rows).T.fillna(0).sort_index(axis=1)
+def signature_table(genes):
+    """Gene x 16 dinucleotide relative abundances (Karlin's rho), from the genomic region."""
+    return pd.DataFrame({g["symbol"]: dinucleotide_rho(g["region"]) for g in genes}).T
+
+
+def signature_distance(signatures):
+    """Karlin's delta*: mean |rho difference| over the 16 dinucleotides, x1000.
+
+    Lower = more similar; read values relative to each other. Short regions
+    (a few kb) give noisier signatures.
+    """
+    X = signatures.to_numpy(float)
+    d = np.abs(X[:, None, :] - X[None, :, :]).mean(axis=2) * 1000
+    return pd.DataFrame(d, index=signatures.index, columns=signatures.index)
 
 
 def pca(table, n=2):
@@ -98,6 +104,21 @@ def plot_feature_heatmap(features):
     return fig
 
 
+def plot_distance(dist):
+    fig, ax = plt.subplots(figsize=(6, 5))
+    im = ax.imshow(dist.to_numpy(float), cmap="viridis_r")
+    ax.set_xticks(range(len(dist)), dist.columns, rotation=45, ha="right")
+    ax.set_yticks(range(len(dist)), dist.index)
+    for i in range(len(dist)):
+        for j in range(len(dist)):
+            ax.text(j, i, f"{dist.iat[i, j]:.0f}", ha="center", va="center", fontsize=8,
+                    color="black" if dist.iat[i, j] < dist.to_numpy().max() / 2 else "white")
+    fig.colorbar(im, ax=ax, label="δ* x1000 (lower = more similar)")
+    ax.set_title("Genomic signature distance (GC-corrected)")
+    fig.tight_layout()
+    return fig
+
+
 def plot_pca(scores, var, title):
     fig, ax = plt.subplots(figsize=(5, 4.5))
     ax.scatter(scores["PC1"], scores["PC2"])
@@ -138,6 +159,6 @@ if __name__ == "__main__":
     os.makedirs(out, exist_ok=True)
     plot_feature_heatmap(features).savefig(os.path.join(out, "features.png"), dpi=150)
     plot_pca(*pca(features), "PCA of gene features").savefig(os.path.join(out, "pca_features.png"), dpi=150)
-    plot_pca(*pca(kmer_table(genes)), "PCA of 3-mer composition").savefig(os.path.join(out, "pca_kmers.png"), dpi=150)
+    plot_distance(signature_distance(signature_table(genes))).savefig(os.path.join(out, "signature_distance.png"), dpi=150)
     plot_windows(windows).savefig(os.path.join(out, "window_gc.png"), dpi=150)
     print(f"\nCharts saved to {out}")
