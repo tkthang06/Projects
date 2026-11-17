@@ -1,0 +1,321 @@
+LOCUS       NM_002427               2714 bp    mRNA    linear   PRI 28-APR-2025
+DEFINITION  Homo sapiens matrix metallopeptidase 13 (MMP13), mRNA.
+ACCESSION   NM_002427
+VERSION     NM_002427.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2714)
+  AUTHORS   Valeriano,A.T., Camara,L.S., Bernardes,V.F., Pais,F.S.,
+            Araujo,F.M.G., Salim,A.C.M., Fernandes,G.D.R., Stussi,F.,
+            Gomes,C.C., de Andrade Santos,P.P., de Souza,L.B., Gomez,R.S. and
+            Diniz,M.G.
+  TITLE     MMP13 Expression and Activity Suggest Its Role in Bone Resorption
+            in Ameloblastomas
+  JOURNAL   J Oral Pathol Med 53 (9), 577-583 (2024)
+   PUBMED   39192690
+  REMARK    GeneRIF: MMP13 Expression and Activity Suggest Its Role in Bone
+            Resorption in Ameloblastomas.
+REFERENCE   2  (bases 1 to 2714)
+  AUTHORS   VAN Nguyen,S., Shamoun,L., Landerholm,K., Wagsater,D. and
+            Dimberg,J.
+  TITLE     Association of Clinicopathological Factors With MMP13 (rs2252070)
+            Gene Polymorphism in Swedish Patients With Colorectal Cancer
+  JOURNAL   In Vivo 38 (4), 1775-1782 (2024)
+   PUBMED   38936942
+  REMARK    GeneRIF: Association of Clinicopathological Factors With MMP13
+            (rs2252070) Gene Polymorphism in Swedish Patients With Colorectal
+            Cancer.
+REFERENCE   3  (bases 1 to 2714)
+  AUTHORS   Yu,J., Wang,W., Jiang,Z. and Liu,H.
+  TITLE     TPX2 upregulates MMP13 to promote the progression of
+            lipopolysaccharide-induced osteoarthritis
+  JOURNAL   PeerJ 12, e17032 (2024)
+   PUBMED   38770093
+  REMARK    GeneRIF: TPX2 upregulates MMP13 to promote the progression of
+            lipopolysaccharide-induced osteoarthritis.
+REFERENCE   4  (bases 1 to 2714)
+  AUTHORS   Luo,J., Zhou,J., Luo,J.Z., Wang,H.L., Zhao,X.L. and Zhou,R.D.
+  TITLE     Inhibiting MMP13 Attenuates Deep Vein Thrombosis in a Mouse Model
+            by Reducing the Expression of Pdpn
+  JOURNAL   Curr Med Sci 44 (2), 369-379 (2024)
+   PUBMED   38619683
+  REMARK    GeneRIF: Inhibiting MMP13 Attenuates Deep Vein Thrombosis in a
+            Mouse Model by Reducing the Expression of Pdpn.
+REFERENCE   5  (bases 1 to 2714)
+  AUTHORS   Mastalier Manolescu,B.S., Lazar,A.M., Tiplica,G.S., Zurac,S.A.,
+            Rebosapca,A., Andreescu,B. and Popp,C.G.
+  TITLE     MMP1, MMP9, MMP11 and MMP13 in melanoma and its metastasis - key
+            points in understanding the mechanisms and celerity of tumor
+            dissemination
+  JOURNAL   Rom J Morphol Embryol 65 (1), 45-52 (2024)
+   PUBMED   38527983
+  REMARK    GeneRIF: MMP1, MMP9, MMP11 and MMP13 in melanoma and its metastasis
+            - key points in understanding the mechanisms and celerity of tumor
+            dissemination.
+REFERENCE   6  (bases 1 to 2714)
+  AUTHORS   Knauper,V., Will,H., Lopez-Otin,C., Smith,B., Atkinson,S.J.,
+            Stanton,H., Hembry,R.M. and Murphy,G.
+  TITLE     Cellular mechanisms for human procollagenase-3 (MMP-13) activation.
+            Evidence that MT1-MMP (MMP-14) and gelatinase a (MMP-2) are able to
+            generate active enzyme
+  JOURNAL   J Biol Chem 271 (29), 17124-17131 (1996)
+   PUBMED   8663255
+REFERENCE   7  (bases 1 to 2714)
+  AUTHORS   Mitchell,P.G., Magna,H.A., Reeves,L.M., Lopresti-Morrow,L.L.,
+            Yocum,S.A., Rosner,P.J., Geoghegan,K.F. and Hambor,J.E.
+  TITLE     Cloning, expression, and type II collagenolytic activity of matrix
+            metalloproteinase-13 from human osteoarthritic cartilage
+  JOURNAL   J Clin Invest 97 (3), 761-768 (1996)
+   PUBMED   8609233
+REFERENCE   8  (bases 1 to 2714)
+  AUTHORS   Knauper,V., Lopez-Otin,C., Smith,B., Knight,G. and Murphy,G.
+  TITLE     Biochemical characterization of human collagenase-3
+  JOURNAL   J Biol Chem 271 (3), 1544-1550 (1996)
+   PUBMED   8576151
+REFERENCE   9  (bases 1 to 2714)
+  AUTHORS   Pendas,A.M., Matilla,T., Estivill,X. and Lopez-Otin,C.
+  TITLE     The human collagenase-3 (CLG3) gene is located on chromosome
+            11q22.3 clustered to other members of the matrix metalloproteinase
+            gene family
+  JOURNAL   Genomics 26 (3), 615-618 (1995)
+   PUBMED   7607691
+REFERENCE   10 (bases 1 to 2714)
+  AUTHORS   Freije,J.M., Diez-Itza,I., Balbin,M., Sanchez,L.M., Blasco,R.,
+            Tolivia,J. and Lopez-Otin,C.
+  TITLE     Molecular cloning and expression of collagenase-3, a novel human
+            matrix metalloproteinase produced by breast carcinomas
+  JOURNAL   J Biol Chem 269 (24), 16766-16773 (1994)
+   PUBMED   8207000
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK292211.1, AK222748.1,
+            X75308.1 and CA413743.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_002427.3.
+            
+            Summary: This gene encodes a member of the peptidase M10 family of
+            matrix metalloproteinases (MMPs). Proteins in this family are
+            involved in the breakdown of extracellular matrix in normal
+            physiological processes, such as embryonic development,
+            reproduction, and tissue remodeling, as well as in disease
+            processes, such as arthritis and metastasis. The encoded
+            preproprotein is proteolytically processed to generate the mature
+            protease. This protease cleaves type II collagen more efficiently
+            than types I and III. It may be involved in articular cartilage
+            turnover and cartilage pathophysiology associated with
+            osteoarthritis. Mutations in this gene are associated with
+            metaphyseal anadysplasia. This gene is part of a cluster of MMP
+            genes on chromosome 11. [provided by RefSeq, Jan 2016].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X75308.1, AK222748.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02400289 [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000260302.8/ ENSP00000260302.3
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1338              AK292211.1         3-1340
+            1339-1916           AK222748.1         1341-1918
+            1917-2327           X75308.1           1894-2304
+            2328-2714           CA413743.1         20-406              c
+FEATURES             Location/Qualifiers
+     source          1..2714
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q22.2"
+     gene            1..2714
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="matrix metallopeptidase 13"
+                     /db_xref="GeneID:4322"
+                     /db_xref="HGNC:HGNC:7159"
+                     /db_xref="MIM:600108"
+     exon            1..147
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             28..1443
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /EC_number="3.4.24.-"
+                     /note="matrix metalloproteinase 13 (collagenase 3)"
+                     /codon_start=1
+                     /product="collagenase 3 preproprotein"
+                     /protein_id="NP_002418.1"
+                     /db_xref="CCDS:CCDS8324.1"
+                     /db_xref="GeneID:4322"
+                     /db_xref="HGNC:HGNC:7159"
+                     /db_xref="MIM:600108"
+                     /translation="MHPGVLAAFLFLSWTHCRALPLPSGGDEDDLSEEDLQFAERYLR
+                     SYYHPTNLAGILKENAASSMTERLREMQSFFGLEVTGKLDDNTLDVMKKPRCGVPDVG
+                     EYNVFPRTLKWSKMNLTYRIVNYTPDMTHSEVEKAFKKAFKVWSDVTPLNFTRLHDGI
+                     ADIMISFGIKEHGDFYPFDGPSGLLAHAFPPGPNYGGDAHFDDDETWTSSSKGYNLFL
+                     VAAHEFGHSLGLDHSKDPGALMFPIYTYTGKSHFMLPDDDVQGIQSLYGPGDEDPNPK
+                     HPKTPDKCDPSLSLDAITSLRGETMIFKDRFFWRLHPQQVDAELFLTKSFWPELPNRI
+                     DAAYEHPSHDLIFIFRGRKFWALNGYDILEGYPKKISELGLPKEVKKISAAVHFEDTG
+                     KTLLFSGNQVWRYDDTNHIMDKDYPRLIEEDFPGIGDKVDAVYEKNGYIYFFNGPIQF
+                     EYSIWSNRIVRVMPANSILWC"
+     sig_peptide     28..84
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     misc_feature    307..330
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="propagated from UniProtKB/Swiss-Prot (P45452.1);
+                     Region: Cysteine switch. /evidence=ECO:0000250"
+     mat_peptide     337..1440
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /product="Collagenase 3. /id=PRO_0000028789"
+                     /note="propagated from UniProtKB/Swiss-Prot (P45452.1)"
+     misc_feature    376..378
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:8576151; propagated from
+                     UniProtKB/Swiss-Prot (P45452.1); glycosylation site"
+     misc_feature    481..483
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P45452.1); glycosylation site"
+     misc_feature    553..765
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="propagated from UniProtKB/Swiss-Prot (P45452.1);
+                     Region: Interaction with TIMP2"
+     misc_feature    814..879
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="propagated from UniProtKB/Swiss-Prot (P45452.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    829..1440
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="propagated from UniProtKB/Swiss-Prot (P45452.1);
+                     Region: Interaction with collagen"
+     misc_feature    1123..1125
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="Phosphotyrosine, by PKDCC.
+                     /evidence=ECO:0000303|PubMed:25171405; propagated from
+                     UniProtKB/Swiss-Prot (P45452.1); phosphorylation site"
+     exon            148..389
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     exon            390..538
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     exon            539..664
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     exon            665..826
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     exon            827..944
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     exon            945..1078
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1079..1238
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1239..1342
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1343..2714
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1930..1935
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="hexamer: AATAAT"
+     polyA_site      1954
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+     regulatory      2692..2697
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="hexamer: AATAAA"
+     polyA_site      2714
+                     /gene="MMP13"
+                     /gene_synonym="CLG3; MANDP1; MDST; MMP-13"
+                     /note="major polyA site"
+ORIGIN      
+        1 aacagtcccc aggcatcacc attcaagatg catccagggg tcctggctgc cttcctcttc
+       61 ttgagctgga ctcattgtcg ggccctgccc cttcccagtg gtggtgatga agatgatttg
+      121 tctgaggaag acctccagtt tgcagagcgc tacctgagat catactacca tcctacaaat
+      181 ctcgcgggaa tcctgaagga gaatgcagca agctccatga ctgagaggct ccgagaaatg
+      241 cagtctttct tcggcttaga ggtgactggc aaacttgacg ataacacctt agatgtcatg
+      301 aaaaagccaa gatgcggggt tcctgatgtg ggtgaataca atgttttccc tcgaactctt
+      361 aaatggtcca aaatgaattt aacctacaga attgtgaatt acacccctga tatgactcat
+      421 tctgaagtcg aaaaggcatt caaaaaagcc ttcaaagttt ggtccgatgt aactcctctg
+      481 aattttacca gacttcacga tggcattgct gacatcatga tctcttttgg aattaaggag
+      541 catggcgact tctacccatt tgatgggccc tctggcctgc tggctcatgc ttttcctcct
+      601 gggccaaatt atggaggaga tgcccatttt gatgatgatg aaacctggac aagtagttcc
+      661 aaaggctaca acttgtttct tgttgctgcg catgagttcg gccactcctt aggtcttgac
+      721 cactccaagg accctggagc actcatgttt cctatctaca cctacaccgg caaaagccac
+      781 tttatgcttc ctgatgacga tgtacaaggg atccagtctc tctatggtcc aggagatgaa
+      841 gaccccaacc ctaaacatcc aaaaacgcca gacaaatgtg acccttcctt atcccttgat
+      901 gccattacca gtctccgagg agaaacaatg atctttaaag acagattctt ctggcgcctg
+      961 catcctcagc aggttgatgc ggagctgttt ttaacgaaat cattttggcc agaacttccc
+     1021 aaccgtattg atgctgcata tgagcaccct tctcatgacc tcatcttcat cttcagaggt
+     1081 agaaaatttt gggctcttaa tggttatgac attctggaag gttatcccaa aaaaatatct
+     1141 gaactgggtc ttccaaaaga agttaagaag ataagtgcag ctgttcactt tgaggataca
+     1201 ggcaagactc tcctgttctc aggaaaccag gtctggagat atgatgatac taaccatatt
+     1261 atggataaag actatccgag actaatagaa gaagacttcc caggaattgg tgataaagta
+     1321 gatgctgtct atgagaaaaa tggttatatc tattttttca acggacccat acagtttgaa
+     1381 tacagcatct ggagtaaccg tattgttcgc gtcatgccag caaattccat tttgtggtgt
+     1441 taagtgtctt tttaaaaatt gttatttaaa tcctgaagag catttggggt aatacttcca
+     1501 gaagtgcggg gtaggggaag aagagctatc aggagaaagc ttggttctgt gaacaagctt
+     1561 cagtaagtta tctttgaata tgtagtatct atatgactat gcgtggctgg aaccacattg
+     1621 aagaatgtta gagtaatgaa atggaggatc tctaaagagc atctgattct tgttgctgta
+     1681 caaaagcaat ggttgatgat acttcccaca ccacaaatgg gacacatggt ctgtcaatga
+     1741 gagcataatt taaaaatata tttataagga aattttacaa gggcataaag taaatacatg
+     1801 catataatga ataaatcatt cttactaaaa agtataaaat agtatgaaaa tggaaatttg
+     1861 ggagagccat acataaaaga aataaaccaa aggaaaatgt ctgtaataat agactgtaac
+     1921 ttccaaataa ataattttca ttttgcactg aggatattca gatgtatgtg cccttcttca
+     1981 cacagacact aacgaaatat caaagtcatt aaagacagga gacaaaagag cagtggtaag
+     2041 aatagtagat gtggcctttg aattctgttt aattttcact tttggcaatg actcaaagtc
+     2101 tgctctcata taagacaaat attcctttgc atattataaa ggataaagaa ggatgatgtc
+     2161 tttttattaa aatatttcag gttcttcaga agtcacacat tacaaagtta aaattgttat
+     2221 caaaatagtc taaggccatg gcatcccttt ttcataaatt atttgattat ttaagactaa
+     2281 aagttgcatt ttaaccctat tttacctagc taattattta attgtccagt ttgtcttgga
+     2341 tatataggct attttctaaa gacttgtata gcatgaaata aaatatatct tataaagtgg
+     2401 aagtatgtat attaaaaaag agacatccaa attttttttt aaagcagtct actagattgt
+     2461 gatcccttga gatatggaag gatgcctttt tttctctgca tttaaaaaaa tcccccagca
+     2521 cttcccacag tgcctattga tacttgggga gggtgcttgg cacttattga atatatgatc
+     2581 ggccatcaag ggaagaacta ttgtgctcag agacactgtt gataaaaact caggcaaaga
+     2641 aaatgaaatg catatttgca aagtgtatta ggaagtgttt atgttgttta taataaaaat
+     2701 atattttcaa caga
+//
+

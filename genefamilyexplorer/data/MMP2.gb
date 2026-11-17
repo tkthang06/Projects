@@ -1,0 +1,375 @@
+LOCUS       NM_004530               3514 bp    mRNA    linear   PRI 25-AUG-2026
+DEFINITION  Homo sapiens matrix metallopeptidase 2 (MMP2), transcript variant
+            1, mRNA.
+ACCESSION   NM_004530
+VERSION     NM_004530.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3514)
+  AUTHORS   Schaffer,L.V., Hu,M., Qian,G., Moon,K.M., Pal,A., Soni,N.,
+            Latham,A.P., Pontano Vaites,L., Tsai,D., Mattson,N.M., Licon,K.,
+            Bachelder,R., Cesnik,A., Gaur,I., Le,T., Leineweber,W., Palar,A.,
+            Pulido,E., Qin,Y., Zhao,X., Churas,C., Lenkiewicz,J., Chen,J.,
+            Ono,K., Pratt,D., Zage,P., Echeverria,I., Sali,A., Harper,J.W.,
+            Gygi,S.P., Foster,L.J., Huttlin,E.L., Lundberg,E. and Ideker,T.
+  TITLE     Multimodal cell maps as a foundation for structural and functional
+            genomics
+  JOURNAL   Nature 642 (8066), 222-231 (2025)
+   PUBMED   40205054
+  REMARK    Erratum:[Nature. 2025 Oct;646(8086):E16. doi:
+            10.1038/s41586-025-09648-x. PMID: 41039152]
+REFERENCE   2  (bases 1 to 3514)
+  AUTHORS   Hung,C.C., Tsai,C.L., Chin,Y.T., Wang,Y.C., Liu,C.H., Lin,M.L.,
+            Chen,S.S., He,J.L., Tsai,C.W., Su,C.H., Bau,D.T. and Chang,W.S.
+  TITLE     Impacts of Matrix Metalloproteinase-2 Promoter Genotypes on Breast
+            Cancer Risk
+  JOURNAL   Cancer Genomics Proteomics 21 (5), 502-510 (2024)
+   PUBMED   39191502
+  REMARK    GeneRIF: Impacts of Matrix Metalloproteinase-2 Promoter Genotypes
+            on Breast Cancer Risk.
+REFERENCE   3  (bases 1 to 3514)
+  AUTHORS   Liang,S., Li,L., Guo,Z., Sun,H. and Yang,Y.
+  TITLE     Co-expression of CD44v6 and MMP2 predicts lung metastasis and
+            unfavorable prognosis in osteosarcoma
+  JOURNAL   Future Oncol 20 (25), 1799-1806 (2024)
+   PUBMED   39011948
+  REMARK    GeneRIF: Co-expression of CD44v6 and MMP2 predicts lung metastasis
+            and unfavorable prognosis in osteosarcoma.
+REFERENCE   4  (bases 1 to 3514)
+  AUTHORS   DeCoux,A., Lindsey,M.L., Villarreal,F., Garcia,R.A. and Schulz,R.
+  TITLE     Myocardial matrix metalloproteinase-2: inside out and upside down
+  JOURNAL   J Mol Cell Cardiol 77, 64-72 (2014)
+   PUBMED   25261607
+  REMARK    GeneRIF: The roles of MMP-2 in cardiac injury and repair. [Review]
+            Review article
+REFERENCE   5  (bases 1 to 3514)
+  AUTHORS   Verslegers,M., Lemmens,K., Van Hove,I. and Moons,L.
+  TITLE     Matrix metalloproteinase-2 and -9 as promising benefactors in
+            development, plasticity and repair of the nervous system
+  JOURNAL   Prog Neurobiol 105, 60-78 (2013)
+   PUBMED   23567503
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 3514)
+  AUTHORS   Nagase,H., Visse,R. and Murphy,G.
+  TITLE     Structure and function of matrix metalloproteinases and TIMPs
+  JOURNAL   Cardiovasc Res 69 (3), 562-573 (2006)
+   PUBMED   16405877
+  REMARK    Review article
+REFERENCE   7  (bases 1 to 3514)
+  AUTHORS   Bhavani,G.S., Shah,H., Shukla,A. and Girisha,K.M.
+  TITLE     Multicentric Osteolysis Nodulosis and Arthropathy
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   27413800
+REFERENCE   8  (bases 1 to 3514)
+  AUTHORS   Devarajan,P., Johnston,J.J., Ginsberg,S.S., Van Wart,H.E. and
+            Berliner,N.
+  TITLE     Structure and expression of neutrophil gelatinase cDNA. Identity
+            with type IV collagenase from HT1080 cells
+  JOURNAL   J Biol Chem 267 (35), 25228-25232 (1992)
+   PUBMED   1460022
+REFERENCE   9  (bases 1 to 3514)
+  AUTHORS   Levy,A.T., Cioce,V., Sobel,M.E., Garbisa,S., Grigioni,W.F.,
+            Liotta,L.A. and Stetler-Stevenson,W.G.
+  TITLE     Increased expression of the Mr 72,000 type IV collagenase in human
+            colonic adenocarcinoma
+  JOURNAL   Cancer Res 51 (1), 439-444 (1991)
+   PUBMED   1846313
+REFERENCE   10 (bases 1 to 3514)
+  AUTHORS   Huhtala,P., Chow,L.T. and Tryggvason,K.
+  TITLE     Structure of the human type IV collagenase gene
+  JOURNAL   J Biol Chem 265 (19), 11077-11082 (1990)
+   PUBMED   2162831
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BP341649.1, AK312711.1,
+            AC007336.6, BX357054.2 and BQ004983.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 22, 2018 this sequence version replaced NM_004530.5.
+            
+            Summary: This gene is a member of the matrix metalloproteinase
+            (MMP) gene family, that are zinc-dependent enzymes capable of
+            cleaving components of the extracellular matrix and molecules
+            involved in signal transduction. The protein encoded by this gene
+            is a gelatinase A, type IV collagenase, that contains three
+            fibronectin type II repeats in its catalytic site that allow
+            binding of denatured type IV and V collagen and elastin. Unlike
+            most MMP family members, activation of this protein can occur on
+            the cell membrane. This enzyme can be activated extracellularly by
+            proteases, or, intracellulary by its S-glutathiolation with no
+            requirement for proteolytical removal of the pro-domain. This
+            protein is thought to be involved in multiple pathways including
+            roles in the nervous system, endometrial menstrual breakdown,
+            regulation of vascularization, and metastasis. Mutations in this
+            gene have been associated with Winchester syndrome and
+            Nodulosis-Arthropathy-Osteolysis (NAO) syndrome. Alternative
+            splicing results in multiple transcript variants encoding different
+            isoforms. [provided by RefSeq, Oct 2014].
+            
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC002576.2, SRR1803614.166162.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000219070.9/ ENSP00000219070.4
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-5                 BP341649.1         30-34
+            6-1430              AK312711.1         1-1425
+            1431-1431           AC007336.6         105247-105247
+            1432-1917           AK312711.1         1427-1912
+            1918-1918           AC007336.6         113769-113769
+            1919-2134           AK312711.1         1914-2129
+            2135-2135           AC007336.6         118316-118316
+            2136-2265           AK312711.1         2131-2260
+            2266-2988           BX357054.2         41-763              c
+            2989-3514           BQ004983.1         16-541              c
+FEATURES             Location/Qualifiers
+     source          1..3514
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16q12.2"
+     gene            1..3514
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="matrix metallopeptidase 2"
+                     /db_xref="GeneID:4313"
+                     /db_xref="HGNC:HGNC:7166"
+                     /db_xref="MIM:120360"
+     exon            1..435
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    136..138
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="upstream in-frame stop codon"
+     CDS             283..2265
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /EC_number="3.4.24.24"
+                     /note="isoform 1 preproprotein is encoded by transcript
+                     variant 1; neutrophil gelatinase; matrix
+                     metalloproteinase-II; collagenase type IV-A; matrix
+                     metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa
+                     type IV collagenase); matrix metalloproteinase-2"
+                     /codon_start=1
+                     /product="72 kDa type IV collagenase isoform 1
+                     preproprotein"
+                     /protein_id="NP_004521.1"
+                     /db_xref="CCDS:CCDS10752.1"
+                     /db_xref="GeneID:4313"
+                     /db_xref="HGNC:HGNC:7166"
+                     /db_xref="MIM:120360"
+                     /translation="MEALMARGALTGPLRALCLLGCLLSHAAAAPSPIIKFPGDVAPK
+                     TDKELAVQYLNTFYGCPKESCNLFVLKDTLKKMQKFFGLPQTGDLDQNTIETMRKPRC
+                     GNPDVANYNFFPRKPKWDKNQITYRIIGYTPDLDPETVDDAFARAFQVWSDVTPLRFS
+                     RIHDGEADIMINFGRWEHGDGYPFDGKDGLLAHAFAPGTGVGGDSHFDDDELWTLGEG
+                     QVVRVKYGNADGEYCKFPFLFNGKEYNSCTDTGRSDGFLWCSTTYNFEKDGKYGFCPH
+                     EALFTMGGNAEGQPCKFPFRFQGTSYDSCTTEGRTDGYRWCGTTEDYDRDKKYGFCPE
+                     TAMSTVGGNSEGAPCVFPFTFLGNKYESCTSAGRSDGKMWCATTANYDDDRKWGFCPD
+                     QGYSLFLVAAHEFGHAMGLEHSQDPGALMAPIYTYTKNFRLSQDDIKGIQELYGASPD
+                     IDLGTGPTPTLGPVTPEICKQDIVFDGIAQIRGEIFFFKDRFIWRTVTPRDKPMGPLL
+                     VATFWPELPEKIDAVYEAPQEEKAVFFAGNEYWIYSASTLERGYPKPLTSLGLPPDVQ
+                     RVDAAFNWSKNKKTYIFAGDKFWRYNEVKKKMDPGFPKLIADAWNAIPDNLDAVVDLQ
+                     GGGHSYFFKGAYYLKLENQSLKSVKFGSIKSDWLGC"
+     sig_peptide     283..369
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     misc_feature    580..603
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08253.2);
+                     Region: Cysteine switch. /evidence=ECO:0000250"
+     mat_peptide     610..2262
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /product="72 kDa type IV collagenase. /id=PRO_0000028715"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08253.2)"
+     misc_feature    610..945
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08253.2);
+                     Region: Collagenase-like 1"
+     misc_feature    946..1470
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08253.2);
+                     Region: Collagen-binding"
+     misc_feature    1471..1677
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08253.2);
+                     Region: Collagenase-like 2"
+     misc_feature    1522..2262
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08253.2);
+                     Region: Required for inhibitor TIMP2 binding.
+                     /evidence=ECO:0000269|PubMed:1655733"
+     mat_peptide     1615..2262
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /product="PEX. /id=PRO_0000391626"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08253.2)"
+     misc_feature    1999..2001
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P08253.2); glycosylation site"
+     misc_feature    2206..2208
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P08253.2); glycosylation site"
+     exon            436..662
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            663..811
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            812..940
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            941..1114
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1115..1288
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1289..1462
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1463..1618
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1619..1754
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1755..1891
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1892..2051
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2052..2161
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2162..3514
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3040..3045
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="hexamer: AATAAA"
+     polyA_site      3062
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="major polyA site"
+     regulatory      3472..3477
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+                     /note="hexamer: AATAAA"
+     polyA_site      3514
+                     /gene="MMP2"
+                     /gene_synonym="CLG4; CLG4A; MMP-2; MMP-II; MONA; TBE-1"
+ORIGIN      
+        1 gctgcatcca gacttcctca ggcggtggct ggaggctgcg catctggggc tttaaacata
+       61 caaagggatt gccaggacct gcggcggcgg cggcggcggc gggggctggg gcgcgggggc
+      121 cggaccatga gccgctgagc cgggcaaacc ccaggccacc gagccagcgg accctcggag
+      181 cgcagccctg cgccgcggag caggctccaa ccaggcggcg aggcggccac acgcaccgag
+      241 ccagcgaccc ccgggcgacg cgcggggcca gggagcgcta cgatggaggc gctaatggcc
+      301 cggggcgcgc tcacgggtcc cctgagggcg ctctgtctcc tgggctgcct gctgagccac
+      361 gccgccgccg cgccgtcgcc catcatcaag ttccccggcg atgtcgcccc caaaacggac
+      421 aaagagttgg cagtgcaata cctgaacacc ttctatggct gccccaagga gagctgcaac
+      481 ctgtttgtgc tgaaggacac actaaagaag atgcagaagt tctttggact gccccagaca
+      541 ggtgatcttg accagaatac catcgagacc atgcggaagc cacgctgcgg caacccagat
+      601 gtggccaact acaacttctt ccctcgcaag cccaagtggg acaagaacca gatcacatac
+      661 aggatcattg gctacacacc tgatctggac ccagagacag tggatgatgc ctttgctcgt
+      721 gccttccaag tctggagcga tgtgacccca ctgcggtttt ctcgaatcca tgatggagag
+      781 gcagacatca tgatcaactt tggccgctgg gagcatggcg atggataccc ctttgacggt
+      841 aaggacggac tcctggctca tgccttcgcc ccaggcactg gtgttggggg agactcccat
+      901 tttgatgacg atgagctatg gaccttggga gaaggccaag tggtccgtgt gaagtatggg
+      961 aacgccgatg gggagtactg caagttcccc ttcttgttca atggcaagga gtacaacagc
+     1021 tgcactgata ccggccgcag cgatggcttc ctctggtgct ccaccaccta caactttgag
+     1081 aaggatggca agtacggctt ctgtccccat gaagccctgt tcaccatggg cggcaacgct
+     1141 gaaggacagc cctgcaagtt tccattccgc ttccagggca catcctatga cagctgcacc
+     1201 actgagggcc gcacggatgg ctaccgctgg tgcggcacca ctgaggacta cgaccgcgac
+     1261 aagaagtatg gcttctgccc tgagaccgcc atgtccactg ttggtgggaa ctcagaaggt
+     1321 gccccctgtg tcttcccctt cactttcctg ggcaacaaat atgagagctg caccagcgcc
+     1381 ggccgcagtg acggaaagat gtggtgtgcg accacagcca actacgatga tgaccgcaag
+     1441 tggggcttct gccctgacca agggtacagc ctgttcctcg tggcagccca cgagtttggc
+     1501 cacgccatgg ggctggagca ctcccaagac cctggggccc tgatggcacc catttacacc
+     1561 tacaccaaga acttccgtct gtcccaggat gacatcaagg gcattcagga gctctatggg
+     1621 gcctctcctg acattgacct tggcaccggc cccaccccca cgctgggccc tgtcactcct
+     1681 gagatctgca aacaggacat tgtatttgat ggcatcgctc agatccgtgg tgagatcttc
+     1741 ttcttcaagg accggttcat ttggcggact gtgacgccac gtgacaagcc catggggccc
+     1801 ctgctggtgg ccacattctg gcctgagctc ccggaaaaga ttgatgcggt atacgaggcc
+     1861 ccacaggagg agaaggctgt gttctttgca gggaatgaat actggatcta ctcagccagc
+     1921 accctggagc gagggtaccc caagccactg accagcctgg gactgccccc tgatgtccag
+     1981 cgagtggatg ccgcctttaa ctggagcaaa aacaagaaga catacatctt tgctggagac
+     2041 aaattctgga gatacaatga ggtgaagaag aaaatggatc ctggcttccc caagctcatc
+     2101 gcagatgcct ggaatgccat ccccgataac ctggatgccg tcgtggacct gcagggcggc
+     2161 ggtcacagct acttcttcaa gggtgcctat tacctgaagc tggagaacca aagtctgaag
+     2221 agcgtgaagt ttggaagcat caaatccgac tggctaggct gctgagctgg ccctggctcc
+     2281 cacaggccct tcctctccac tgccttcgat acaccgggcc tggagaacta gagaaggacc
+     2341 cggaggggcc tggcagccgt gccttcagct ctacagctaa tcagcattct cactcctacc
+     2401 tggtaattta agattccaga gagtggctcc tcccggtgcc caagaataga tgctgactgt
+     2461 actcctccca ggcgcccctt ccccctccaa tcccaccaac cctcagagcc acccctaaag
+     2521 agatactttg atattttcaa cgcagccctg ctttgggctg ccctggtgct gccacacttc
+     2581 aggctcttct cctttcacaa ccttctgtgg ctcacagaac ccttggagcc aatggagact
+     2641 gtctcaagag ggcactggtg gcccgacagc ctggcacagg gcagtgggac agggcatggc
+     2701 caggtggcca ctccagaccc ctggcttttc actgctggct gccttagaac ctttcttaca
+     2761 ttagcagttt gctttgtatg cactttgttt ttttctttgg gtcttgtttt ttttttccac
+     2821 ttagaaattg catttcctga cagaaggact caggttgtct gaagtcactg cacagtgcat
+     2881 ctcagcccac atagtgatgg ttcccctgtt cactctactt agcatgtccc taccgagtct
+     2941 cttctccact ggatggagga aaaccaagcc gtggcttccc gctcagccct ccctgcccct
+     3001 cccttcaacc attccccatg ggaaatgtca acaagtatga ataaagacac ctactgagtg
+     3061 gccgtgtttg ccatctgttt tagcagagcc tagacaaggg ccacagaccc agccagaagc
+     3121 ggaaacttaa aaagtccgaa tctctgctcc ctgcagggca caggtgatgg tgtctgctgg
+     3181 aaaggtcaga gcttccaaag taaacagcaa gagaacctca gggagagtaa gctctagtcc
+     3241 ctctgtcctg tagaaagagc cctgaagaat cagcaatttt gttgctttat tgtggcatct
+     3301 gttcgaggtt tgcttcctct ttaagtctgt ttcttcatta gcaatcatat cagttttaat
+     3361 gctactacta acaatgaaca gtaacaataa tatccccctc aattaataga gtgctttcta
+     3421 tgtgcaaggc acttttcacg tgtcacctat tttaaccttt ccaaccacat aaataaaaaa
+     3481 ggccattatt agttgaatct tattgatgaa gaga
+//
+

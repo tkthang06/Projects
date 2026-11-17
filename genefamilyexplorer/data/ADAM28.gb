@@ -1,0 +1,508 @@
+LOCUS       NM_014265               7019 bp    mRNA    linear   PRI 22-JUN-2025
+DEFINITION  Homo sapiens ADAM metallopeptidase domain 28 (ADAM28), transcript
+            variant 1, mRNA.
+ACCESSION   NM_014265 NM_021778
+VERSION     NM_014265.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7019)
+  AUTHORS   Xie,Y., Zheng,Z.W., He,H.T. and Chang,Z.B.
+  TITLE     LncRNA NEAT1 induces autophagy through the miR-128-3p/ADAM28 axis
+            to suppress apoptosis of nonsmall-cell lung cancer
+  JOURNAL   Kaohsiung J Med Sci 38 (10), 933-949 (2022)
+   PUBMED   36054559
+  REMARK    GeneRIF: LncRNA NEAT1 induces autophagy through the
+            miR-128-3p/ADAM28 axis to suppress apoptosis of nonsmall-cell lung
+            cancer.
+REFERENCE   2  (bases 1 to 7019)
+  AUTHORS   Yin,Q., Gu,J., Qi,Y., Lu,Y., Yang,L., Liu,J. and Liang,X.
+  TITLE     ADAM28 from both endothelium and gastric cancer cleaves von
+            Willebrand Factor to eliminate von Willebrand Factor-induced
+            apoptosis of gastric cancer cells
+  JOURNAL   Eur J Pharmacol 898, 173994 (2021)
+   PUBMED   33675784
+  REMARK    GeneRIF: ADAM28 from both endothelium and gastric cancer cleaves
+            von Willebrand Factor to eliminate von Willebrand Factor-induced
+            apoptosis of gastric cancer cells.
+REFERENCE   3  (bases 1 to 7019)
+  AUTHORS   Hubeau,C., Rocks,N. and Cataldo,D.
+  TITLE     ADAM28: Another ambivalent protease in cancer
+  JOURNAL   Cancer Lett 494, 18-26 (2020)
+   PUBMED   32861707
+  REMARK    GeneRIF: ADAM28: Another ambivalent protease in cancer.
+            Review article
+REFERENCE   4  (bases 1 to 7019)
+  AUTHORS   Zhao,Z., Qiu,H.Y., Fu,L. and Li,J.
+  TITLE     [Construction of ADAM28 shRNA interference vector and its
+            inhibitory effect on human periodontal ligament stem cells]
+  JOURNAL   Shanghai Kou Qiang Yi Xue 29 (5), 476-481 (2020)
+   PUBMED   33543212
+  REMARK    GeneRIF: [Construction of ADAM28 shRNA interference vector and its
+            inhibitory effect on human periodontal ligament stem cells].
+REFERENCE   5  (bases 1 to 7019)
+  AUTHORS   Fourie,A.M., Coles,F., Moreno,V. and Karlsson,L.
+  TITLE     Catalytic activity of ADAM8, ADAM15, and MDC-L (ADAM28) on
+            synthetic peptide substrates and in ectodomain cleavage of CD23
+  JOURNAL   J Biol Chem 278 (33), 30469-30477 (2003)
+   PUBMED   12777399
+  REMARK    GeneRIF: ADAM8, ADAM15, and ADAM28, but not ADAM17, catalyzed
+            ectodomain shedding of CD23, the low affinity IgE receptor.
+REFERENCE   6  (bases 1 to 7019)
+  AUTHORS   Bridges,L.C., Hanson,K.R., Tani,P.H., Mather,T. and Bowditch,R.D.
+  TITLE     Integrin alpha4beta1-dependent adhesion to ADAM 28 (MDC-L) requires
+            an extended surface of the disintegrin domain
+  JOURNAL   Biochemistry 42 (13), 3734-3741 (2003)
+   PUBMED   12667064
+REFERENCE   7  (bases 1 to 7019)
+  AUTHORS   Bridges,L.C., Tani,P.H., Hanson,K.R., Roberts,C.M., Judkins,M.B.
+            and Bowditch,R.D.
+  TITLE     The lymphocyte metalloprotease MDC-L (ADAM 28) is a ligand for the
+            integrin alpha4beta1
+  JOURNAL   J Biol Chem 277 (5), 3784-3792 (2002)
+   PUBMED   11724793
+REFERENCE   8  (bases 1 to 7019)
+  AUTHORS   Howard,L., Maciewicz,R.A. and Blobel,C.P.
+  TITLE     Cloning and characterization of ADAM28: evidence for autocatalytic
+            pro-domain removal and for cell surface localization of mature
+            ADAM28
+  JOURNAL   Biochem J 348 Pt 1 (Pt 1), 21-27 (2000)
+   PUBMED   10794709
+REFERENCE   9  (bases 1 to 7019)
+  AUTHORS   Jury,J.A., Perry,A.C. and Hall,L.
+  TITLE     Identification, sequence analysis and expression of transcripts
+            encoding a putative metalloproteinase, eMDC II, in human and
+            macaque epididymis
+  JOURNAL   Mol Hum Reprod 5 (12), 1127-1134 (1999)
+   PUBMED   10587367
+REFERENCE   10 (bases 1 to 7019)
+  AUTHORS   Roberts,C.M., Tani,P.H., Bridges,L.C., Laszik,Z. and Bowditch,R.D.
+  TITLE     MDC-L, a novel metalloprotease disintegrin cysteine-rich protein
+            family member expressed by human lymphocytes
+  JOURNAL   J Biol Chem 274 (41), 29251-29259 (1999)
+   PUBMED   10506182
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA933009.1, AJ242015.1,
+            AC120193.5, BE833805.1 and BM992381.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On May 17, 2019 this sequence version replaced NM_014265.5.
+            
+            Summary: This gene encodes a member of the ADAM (a disintegrin and
+            metalloprotease domain) family. Members of this family are
+            membrane-anchored proteins structurally related to snake venom
+            disintegrins, and have been implicated in a variety of biological
+            processes involving cell-cell and cell-matrix interactions,
+            including fertilization, muscle development, and neurogenesis. The
+            protein encoded by this gene is a lymphocyte-expressed ADAM
+            protein. This gene is present in a gene cluster with other members
+            of the ADAM family on chromosome 8. Alternative splicing results in
+            multiple transcript variants. [provided by RefSeq, Jan 2015].
+            
+            Transcript Variant: This variant (1, also known as MDC-Lm) encodes
+            the longest isoform (1).
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660803.136616.1,
+                                           SRR1803616.56624.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000265769.9/ ENSP00000265769.4
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-38                DA933009.1         30-67
+            39-2373             AJ242015.1         5-2339
+            2374-2374           AC120193.5         56727-56727
+            2375-2491           AJ242015.1         2341-2457
+            2492-2495           BE833805.1         398-401
+            2496-3086           AJ242015.1         2458-3048
+            3087-6823           AC120193.5         57991-61727
+            6824-7019           BM992381.1         23-218              c
+FEATURES             Location/Qualifiers
+     source          1..7019
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8p21.2"
+     gene            1..7019
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="ADAM metallopeptidase domain 28"
+                     /db_xref="GeneID:10863"
+                     /db_xref="HGNC:HGNC:206"
+                     /db_xref="MIM:606188"
+     exon            1..127
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    40..42
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="upstream in-frame stop codon"
+     CDS             82..2409
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="isoform 1 preproprotein is encoded by transcript
+                     variant 1; disintegrin and metalloproteinase
+                     domain-containing protein 28; metalloproteinase-like,
+                     disintegrin-like, and cysteine-rich protein-L; epididymial
+                     metalloproteinase-like, disintegrin-like, and
+                     cysteine-rich protein II; epididymal
+                     metalloproteinase-like, disintegrin-like, and
+                     cysteine-rich protein II; epididymis secretory sperm
+                     binding protein"
+                     /codon_start=1
+                     /product="disintegrin and metalloproteinase
+                     domain-containing protein 28 isoform 1 preproprotein"
+                     /protein_id="NP_055080.2"
+                     /db_xref="CCDS:CCDS34865.1"
+                     /db_xref="GeneID:10863"
+                     /db_xref="HGNC:HGNC:206"
+                     /db_xref="MIM:606188"
+                     /translation="MLQGLLPVSLLLSVAVSAIKELPGVKKYEVVYPIRLHPLHKREA
+                     KEPEQQEQFETELKYKMTINGKIAVLYLKKNKNLLAPGYTETYYNSTGKEITTSPQIM
+                     DDCYYQGHILNEKVSDASISTCRGLRGYFSQGDQRYFIEPLSPIHRDGQEHALFKYNP
+                     DEKNYDSTCGMDGVLWAHDLQQNIALPATKLVKLKDRKVQEHEKYIEYYLVLDNGEFK
+                     RYNENQDEIRKRVFEMANYVNMLYKKLNTHVALVGMEIWTDKDKIKITPNASFTLENF
+                     SKWRGSVLSRRKRHDIAQLITATELAGTTVGLAFMSTMCSPYSVGVVQDHSDNLLRVA
+                     GTMAHEMGHNFGMFHDDYSCKCPSTICVMDKALSFYIPTDFSSCSRLSYDKFFEDKLS
+                     NCLFNAPLPTDIISTPICGNQLVEMGEDCDCGTSEECTNICCDAKTCKIKATFQCALG
+                     ECCEKCQFKKAGMVCRPAKDECDLPEMCNGKSGNCPDDRFQVNGFPCHHGKGHCLMGT
+                     CPTLQEQCTELWGPGTEVADKSCYNRNEGGSKYGYCRRVDDTLIPCKANDTMCGKLFC
+                     QGGSDNLPWKGRIVTFLTCKTFDPEDTSQEIGMVANGTKCGDNKVCINAECVDIEKAY
+                     KSTNCSSKCKGHAVCDHELQCQCEEGWIPPDCDDSSVVFHFSIVVGVLFPMAVIFVVV
+                     AMVIRHQSSREKQKKDQRPLSTTGTRPHKQKRKPQMVKAVQPQEMSQMKPHVYDLPVE
+                     GNEPPASFHKDTNALPPTVFKDNPVSTPKDSNPKA"
+     sig_peptide     82..135
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     misc_feature    580..603
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UKQ2.3);
+                     Region: Cysteine switch. /evidence=ECO:0000250"
+     mat_peptide     676..2406
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /product="Disintegrin and metalloproteinase
+                     domain-containing protein 28. /id=PRO_0000029129"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UKQ2.3)"
+     misc_feature    883..885
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UKQ2.3); glycosylation site"
+     misc_feature    904..906
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UKQ2.3); glycosylation site"
+     misc_feature    1750..1752
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UKQ2.3); glycosylation site"
+     misc_feature    1885..1887
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UKQ2.3); glycosylation site"
+     misc_feature    1963..1965
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UKQ2.3); glycosylation site"
+     misc_feature    2077..2139
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UKQ2.3);
+                     transmembrane region"
+     misc_feature    2149..2406
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UKQ2.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            128..231
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            232..308
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            309..387
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            388..464
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            465..657
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            658..729
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            730..801
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            802..971
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            972..1053
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1054..1184
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1185..1362
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1363..1452
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1453..1648
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1649..1751
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1752..1911
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1912..1992
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1993..2071
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2072..2180
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2181..2259
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2260..2325
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2326..2388
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2389..7019
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2823..2828
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="hexamer: ATTACA"
+     polyA_site      2847
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="major polyA site"
+     regulatory      6127..6132
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="hexamer: ATTAAA"
+     polyA_site      6153
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="major polyA site"
+     regulatory      6168..6173
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="hexamer: AGTAAA"
+     polyA_site      6188
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+     regulatory      6817..6822
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="hexamer: ATTAAA"
+     polyA_site      6843
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+     regulatory      6845..6850
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="hexamer: ATTAAA"
+     polyA_site      6866
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+     regulatory      6885..6890
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+                     /note="hexamer: ATTAAA"
+     polyA_site      6902
+                     /gene="ADAM28"
+                     /gene_synonym="ADAM 28; eMDC II; eMDCII; MDC-L; MDCL"
+ORIGIN      
+        1 actggagagg aggcagggac agacccagca gcacccacct gagcgagaag agcagacacc
+       61 gtgctcctgg aatcacccag catgttgcaa ggtctcctgc cagtcagtct cctcctctct
+      121 gttgcagtaa gtgctataaa agaactccct ggggtgaaga agtatgaagt ggtttatcct
+      181 ataagacttc atccactgca taaaagagag gccaaagagc cagagcaaca ggaacaattt
+      241 gaaactgaat taaagtataa aatgacaatt aatggaaaaa ttgcagtgct ttatttgaaa
+      301 aaaaacaaga acctccttgc accaggctac acggaaacat attataattc cactggaaag
+      361 gagatcacca caagcccaca aattatggat gattgttatt atcaaggaca tattcttaat
+      421 gaaaaggttt ctgacgctag catcagcaca tgtaggggtc taaggggcta cttcagtcag
+      481 ggggatcaaa gatactttat tgaaccttta agccccatac atcgggatgg acaggagcat
+      541 gcactcttca agtataaccc tgatgaaaag aattatgaca gcacctgtgg gatggatggt
+      601 gtgttgtggg cccacgattt gcagcagaac attgccctac ctgccaccaa actagtaaaa
+      661 ttgaaagaca ggaaggttca ggaacatgag aaatacatag aatattattt ggtcctggat
+      721 aatggtgagt ttaaaaggta caatgagaat caagatgaga tcagaaagag ggtatttgag
+      781 atggctaatt atgtcaacat gctttataaa aagctcaata ctcatgtggc cttagttggt
+      841 atggaaatct ggactgacaa ggataagata aagataaccc caaatgcaag cttcaccttg
+      901 gagaattttt ctaaatggag ggggagtgtt ctctcaagaa gaaagcgtca tgatattgct
+      961 cagttaatca cagcaacaga acttgctgga acgactgtgg gtcttgcatt tatgtctaca
+     1021 atgtgttctc cttattctgt tggcgttgtt caggaccaca gcgataatct tcttagagtt
+     1081 gcagggacaa tggcacatga aatgggccac aactttggaa tgtttcatga cgactattct
+     1141 tgcaagtgtc cttctacaat atgtgtgatg gacaaagcac tgagcttcta tatacccaca
+     1201 gacttcagtt cctgcagccg tctcagctat gacaagtttt ttgaagataa attatcaaat
+     1261 tgcctcttta atgctccatt gcctacagat atcatatcca ctccaatttg tgggaaccag
+     1321 ttggtggaaa tgggagagga ctgtgattgt gggacatctg aggaatgtac caatatttgc
+     1381 tgtgatgcta agacatgtaa aatcaaagca acttttcaat gtgcattagg agaatgttgt
+     1441 gaaaaatgcc aatttaaaaa ggctgggatg gtgtgcagac cagcaaaaga tgagtgcgac
+     1501 ctgcctgaaa tgtgtaatgg taaatctggt aattgtcctg atgatagatt ccaagtcaat
+     1561 ggcttccctt gccatcacgg gaagggccac tgcttgatgg ggacatgccc cacactgcag
+     1621 gagcagtgca cagagctgtg gggaccagga actgaggttg cagataagtc atgttacaac
+     1681 aggaatgaag gtgggtcaaa gtacgggtac tgtcgcagag tggatgacac actcattccc
+     1741 tgcaaagcaa atgataccat gtgtgggaag ttgttctgtc aaggtgggtc ggataatttg
+     1801 ccctggaaag gacggatagt gactttcctg acatgtaaaa catttgatcc tgaagacaca
+     1861 agtcaagaaa taggcatggt ggccaatgga actaagtgtg gcgataacaa ggtttgcatt
+     1921 aatgcagaat gtgtggatat tgagaaagcc tacaaatcaa ccaattgctc atctaagtgc
+     1981 aaaggacatg ctgtgtgtga ccatgagctc cagtgtcaat gtgaggaagg atggatccct
+     2041 cccgactgcg atgactcctc agtggtcttc cacttctcca ttgtggttgg ggtgctgttc
+     2101 ccaatggcgg tcatttttgt ggtggttgct atggtaatcc ggcaccagag ctccagagaa
+     2161 aagcagaaga aagatcagag gccactatct accactggca ccaggccaca caaacagaag
+     2221 aggaaacccc agatggtaaa ggctgttcaa ccccaagaga tgagtcagat gaagccccat
+     2281 gtgtatgatc tgccagtaga aggcaatgag cccccagcct cttttcataa agacacaaac
+     2341 gcacttcccc ctactgtttt caaggataat ccagtgtcta cacctaagga ctcaaatcca
+     2401 aaagcatgaa gcaacagcta agcaagaact aatggctaaa ttatcaactt ggaaaactgg
+     2461 aaaatctgga tggcagagaa atatactatc tatctcacca gtatttgctc tcgactcaag
+     2521 aaggttaaca ttttctgatt catgttagac tttgaagaga ctaaagaaaa ttttcaagag
+     2581 gaacatatgc ctgagaacct ttgcatgaat ttaaaatttc aattatccat tcttataaga
+     2641 aggaagatga ttgtaaagaa atatctccga agttaaaatc tgtaatagga attgattcat
+     2701 tctctaatga aaacaaaaca taaaaacatc acactaatct tggaggaata agaaaaattg
+     2761 tacatccatt aaatgtacaa ttgattgcaa catcttgatt gttttaacca ttaacttgtc
+     2821 aaattacaat cacagttaag aaaatgatgt aaaattctgt tttgtggatc tctttcctag
+     2881 attagcttct gaaatcatta ttagctatat catttgaggt tttctacaat ttggtataac
+     2941 taagaattta aaaatgtttt atcatatata tttgtataat taattactgg catggttaaa
+     3001 gtggttttca ctttttaaat ggagaaaatt tcagttaaat taataggata aaccaggttg
+     3061 cgaactggtg acctgtaggc catgtttgca ctgcaaatat atttggtctg aatgatattg
+     3121 atattggaca catagtactt ttacatgttt tgaatgtatt gctaatattt aaaaattgag
+     3181 agatcttgca taaacaatag attcccagct ttgtcagatg taatctaaaa gtaatccgat
+     3241 gctttgtcaa caacagactt acattgccca tagcaaccgt cagcttagtt gatgggtaat
+     3301 gtagcaaaca ctattggttt cctaccaaat aatccccttt ttcctggctt ttagaacaat
+     3361 aattttgttc acctgcccac ttctaggaaa gaatatccta tctaatctat ctatctcagg
+     3421 gataaatccc tatcctttta agtaagtcaa gtcaattaaa ataacctcat ttttccttgc
+     3481 tagtggtcga cttggagatg attttataat cctccccctc cctttttttt tttgctagta
+     3541 agacgacaga ggaattatgt tacaacactt ctggaaaatt tttcctcgtc tctttttctg
+     3601 gatatgggca tctgaatact ctagctggta ctgctgcgct ccacacggtg attatgaagg
+     3661 ctgaaaaaga tagatagagc agaaagatga aaagaataaa acctggcctt tcaatgatgt
+     3721 catggaattg gtagatcagt gactgctgga gttacctcac actttcttgg tactccttat
+     3781 tatatgagcc atacattttc cttgttgttt aagccatttt gaattggatt ttctctcact
+     3841 ttcaacagag atcatcctaa ctagtaaagt agctgtttcc ataatcaggg aacatgcttt
+     3901 agttcatcat cacagctaca gtttttcttg tatttgtctg cttcacccat ttctatcaat
+     3961 cacttacctg gtccccacag gcctgtcgct tcatgaggaa ctttatggtt catttaccct
+     4021 tgcagtatga ggttctagat aagcccactc tggcctcaaa agtgaagctc agtcctcagg
+     4081 aaatccagag tccactgatc aaatcactgt caaggataca ggctttttct ccatgtggca
+     4141 tttgcagaag aacaacttta aaagtagagc tttatctgcc ctgtgaggtt tcagaagacc
+     4201 ctcccctgac ccagaaataa atccctattt cctggaaagc cattatgtac tcgtgaccaa
+     4261 cttgtgaact tttctgtgtt gttgttgttg ttttttaaat atctgtcccc agtaatagat
+     4321 tcacctaatc cttttttata ctgatggaat ggaaatctta aatctatgaa tcctcaacta
+     4381 gccatgtacc ataacccaag caaaaactaa accatacact ctcaaaagca gtggcatgtg
+     4441 aacatgcctg caagttccta aatgatgtca ctaggtccct gatgcagatg catcatacgt
+     4501 cctatttgaa gagaagaaat gcagtacaat gacaggaaaa ccattatttt atcatagaac
+     4561 tgcgaaccca agtcctacaa tgtttccctt tcagctcaac tgcagaatag tttagaacag
+     4621 actttttgat ttcacaatac tgtttccaca cttacttata tccgtaactt tctaacttta
+     4681 agggaattcc gcttatttga catttaacta cctcagatat gccaccaaac ctgttttcat
+     4741 cattagttat ttttaccttg tctactttaa aacagtgaaa ttattaggtt aaattatgtt
+     4801 tttatccagt tactctaaga taccttagtg tttgtctact tattacaact caccaaatta
+     4861 ctggttttat atggcctttg ggaaggcttt tagcttttta taaaataatg aagtatgcat
+     4921 gaaaagaaag caaattttag ttggttgcag tcagagaata tggaaagggt tattattata
+     4981 attaggattt tattattcac attggaaatc actgctatgt gttaaggaat tgaaggtggc
+     5041 ctctggctag cagccattaa gaaaatgagc ccctgagttc aacgaccctc aaatgaagtg
+     5101 aagtctacca ataaccactg aataagcttg gaattttaga ttccttccca gctgaatctt
+     5161 gacttcagcc ttgtgagaca ccctgaagta gaggatgcag ctaaattttg tccagattac
+     5221 acacccacag aaactgtatg ataattaata tgtgttgttt aaagttgtta tggtttggag
+     5281 atatttgtta tgcagcaata gatagctgat acaaggaagt agagaacaaa cattttctat
+     5341 tagtctgttt tcacatggct ataaagaata ccacctgaga ctgggtaatt tataaagaaa
+     5401 ggaggattaa ttgactcaga tttccacatg gcctaggagg cctcaggaaa cttacaatca
+     5461 tgatgaaaga ggaagcagaa acatctcata tgatggaaga tgtgtatgaa ggaggaactg
+     5521 tcaaacactt ataaaaccat cagatctctt gagagcttac tatctcgaca aaagcatggg
+     5581 ggaaaccacc cccatgatcc aatcacctcc cacctggtcc ctccctcaac atgtggagat
+     5641 tatagcaatt aaaaaaatga gatttggggg gatggacaca gagccaaacc atataatgtt
+     5701 ttaaatgctc cagataggtt taggtaaaat taactatatt taataggctt tcatcactgc
+     5761 aaaacttttt ttcctttctt tgtgtctcta gtctcttcca tttgttctcc cttctttact
+     5821 agcaccgagg atttgcttga aatctctgat agccagtatt ctcatttatc atattctttc
+     5881 tcactttgtg tttccttggt aattttggat aactccttaa atttatcttc caaattactg
+     5941 gtttttatat tctgtactgt cagtcctcct gttcactaat ttcaaaattt atagttgttt
+     6001 ctcttgttta cttatatagt tgtttctctt gtttacttaa taacattctc ttctttccta
+     6061 tcagtttaat tttataaagg ctaaccaatt aactgttttt aacttatatt tccagatatt
+     6121 ttaaaaatta aagcaaaatg tgtataaact ttattactgc ttcccacagt aaatattttt
+     6181 cagaagtaca tgctttctca gccacttgac tagtatgttc cccatcattc aaagacacca
+     6241 ttatttccta agtgttatat tgctattttt cagttggtgc atccaatatt attatcagct
+     6301 ttaatattgt ttcatcatat gtcattgttc aaagaatcca tctcttgagc gtaagctaaa
+     6361 taatttgcat acactagcat ctggatgtaa tatggaaaaa tatggaaatg gttggggtga
+     6421 taagcaagtc ttgcatattc ttttctcctc aatttttttt ctccaaagtg ggccaagcca
+     6481 agagtggcac agctgtgtgg agatactgag ctccaccttg tcagggaaga tcccaactca
+     6541 ggagaaaaca cctctaacaa aatctgtagc cacgttggca catctgccct tgaattcact
+     6601 ttgtctcttt tgctgcttcc ataaaaaggc tttcccttga caatgttagg cactttttag
+     6661 caactaggcc tgggtggtct gctacaatgc ccaacactta atacagtatc actattactg
+     6721 ttagtagtat gctaagcgaa tactattgtt ataaaaaaaa tcctaagcat gaaaattacg
+     6781 gtatacaatt tattgtgaag gcaacttctt gtgaacatta aacggtttat ctccttcacc
+     6841 tcatattaaa gtccatactc ttgggatata tctgacatct caatattaaa tgactaagat
+     6901 gactaagtcg tttatgttgc tcccacctca cacaaagtta aaactatttg ttactttaaa
+     6961 tagtttgaca atgttatttt aaaatctgga caaatcacaa atataaaata cttatttaa
+//
+

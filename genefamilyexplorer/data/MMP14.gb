@@ -1,0 +1,343 @@
+LOCUS       NM_004995               3701 bp    mRNA    linear   PRI 12-JUN-2025
+DEFINITION  Homo sapiens matrix metallopeptidase 14 (MMP14), mRNA.
+ACCESSION   NM_004995
+VERSION     NM_004995.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3701)
+  AUTHORS   Mariappan,V., Shanmugam,L., Ranganathan Green,S., Easow,J.M.,
+            Mutheneni,S.R., Thirugnanasambandhar Sivasubramanian,A. and
+            Balakrishna Pillai,A.
+  TITLE     Increased shedding of PECAM-1 associated with elevated serum MMP-14
+            levels as new blood indicators of dengue disease manifestation
+  JOURNAL   Infect Dis Now 54 (7), 104964 (2024)
+   PUBMED   39181201
+  REMARK    GeneRIF: Increased shedding of PECAM-1 associated with elevated
+            serum MMP-14 levels as new blood indicators of dengue disease
+            manifestation.
+REFERENCE   2  (bases 1 to 3701)
+  AUTHORS   Mlynarczyk,G., Tokarzewicz,A., Gudowska-Sawczuk,M., Mroczko,B.,
+            Novak,V., Novak,A., Mitura,P. and Romanowicz,L.
+  TITLE     MMP-14 Exhibits Greater Expression, Content and Activity Compared
+            to MMP-15 in Human Renal Carcinoma
+  JOURNAL   Int J Mol Sci 25 (15), 8107 (2024)
+   PUBMED   39125675
+  REMARK    GeneRIF: MMP-14 Exhibits Greater Expression, Content and Activity
+            Compared to MMP-15 in Human Renal Carcinoma.
+REFERENCE   3  (bases 1 to 3701)
+  AUTHORS   Li,X., Cao,Q., Xu,C., Wang,J., Pan,T., Liu,Q., Xie,P. and Hu,Z.
+  TITLE     Exosomal lncRNA-MIAT promotes neovascularization via the
+            miR-133a-3p/MMP-X1 axis in diabetic retinopathy
+  JOURNAL   Exp Eye Res 243, 109912 (2024)
+   PUBMED   38670210
+  REMARK    GeneRIF: Exosomal lncRNA-MIAT promotes neovascularization via the
+            miR-133a-3p/MMP-X1 axis in diabetic retinopathy.
+REFERENCE   4  (bases 1 to 3701)
+  AUTHORS   Liang,L., Wang,J., Guo,T., Huang,L., Wu,Y., Xu,R., Huang,T. and
+            Ma,B.
+  TITLE     Calreticulin regulates the expression of MMP14 and ADAR1 through
+            EIF2AK2 signaling to promote the proliferation and progression of
+            malignant melanoma cells
+  JOURNAL   Neoplasma 71 (2), 180-192 (2024)
+   PUBMED   38766853
+  REMARK    GeneRIF: Calreticulin regulates the expression of MMP14 and ADAR1
+            through EIF2AK2 signaling to promote the proliferation and
+            progression of malignant melanoma cells.
+REFERENCE   5  (bases 1 to 3701)
+  AUTHORS   Lohi,J., Lehti,K., Valtanen,H., Parks,W.C. and Keski-Oja,J.
+  TITLE     Structural analysis and promoter characterization of the human
+            membrane-type matrix metalloproteinase-1 (MT1-MMP) gene
+  JOURNAL   Gene 242 (1-2), 75-86 (2000)
+   PUBMED   10721699
+REFERENCE   6  (bases 1 to 3701)
+  AUTHORS   Fernandez-Catalan,C., Bode,W., Huber,R., Turk,D., Calvete,J.J.,
+            Lichte,A., Tschesche,H. and Maskos,K.
+  TITLE     Crystal structure of the complex formed by the membrane type
+            1-matrix metalloproteinase with the tissue inhibitor of
+            metalloproteinases-2, the soluble progelatinase A receptor
+  JOURNAL   EMBO J 17 (17), 5238-5248 (1998)
+   PUBMED   9724659
+REFERENCE   7  (bases 1 to 3701)
+  AUTHORS   Pei,D. and Weiss,S.J.
+  TITLE     Transmembrane-deletion mutants of the membrane-type matrix
+            metalloproteinase-1 process progelatinase A and express intrinsic
+            matrix-degrading activity
+  JOURNAL   J Biol Chem 271 (15), 9135-9140 (1996)
+   PUBMED   8621565
+REFERENCE   8  (bases 1 to 3701)
+  AUTHORS   Will,H. and Hinzmann,B.
+  TITLE     cDNA sequence and mRNA tissue distribution of a novel human matrix
+            metalloproteinase with a potential transmembrane segment
+  JOURNAL   Eur J Biochem 231 (3), 602-608 (1995)
+   PUBMED   7649159
+REFERENCE   9  (bases 1 to 3701)
+  AUTHORS   Takino,T., Sato,H., Yamamoto,E. and Seiki,M.
+  TITLE     Cloning of a human gene potentially encoding a novel matrix
+            metalloproteinase having a C-terminal transmembrane domain
+  JOURNAL   Gene 155 (2), 293-298 (1995)
+   PUBMED   7721107
+REFERENCE   10 (bases 1 to 3701)
+  AUTHORS   Okada,A., Bellocq,J.P., Rouyer,N., Chenard,M.P., Rio,M.C.,
+            Chambon,P. and Basset,P.
+  TITLE     Membrane-type matrix metalloproteinase (MT-MMP) gene is expressed
+            in stromal cells of human colon, breast, and head and neck
+            carcinomas
+  JOURNAL   Proc Natl Acad Sci U S A 92 (7), 2730-2734 (1995)
+   PUBMED   7708715
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from HY075830.1, Z48481.1,
+            AL135998.6 and BQ009340.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_004995.3.
+            
+            Summary: Proteins of the matrix metalloproteinase (MMP) family are
+            involved in the breakdown of extracellular matrix in normal
+            physiological processes, such as embryonic development,
+            reproduction, and tissue remodeling, as well as in disease
+            processes, such as arthritis and metastasis. Most MMP's are
+            secreted as inactive proproteins which are activated when cleaved
+            by extracellular proteinases. However, the protein encoded by this
+            gene is a member of the membrane-type MMP (MT-MMP) subfamily; each
+            member of this subfamily contains a potential transmembrane domain
+            suggesting that these proteins are expressed at the cell surface
+            rather than secreted. This protein activates MMP2 protein, and this
+            activity may be involved in tumor invasion. [provided by RefSeq,
+            Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK312657.1, HE978355.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000311852.11/ ENSP00000308208.6
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-120               HY075830.1         53-172
+            121-2064            Z48481.1           1-1944
+            2065-2065           AL135998.6         59062-59062         c
+            2066-3537           Z48481.1           1946-3417
+            3538-3543           BQ009340.1         16-21               c
+            3544-3701           AL135998.6         57426-57583         c
+FEATURES             Location/Qualifiers
+     source          1..3701
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="14"
+                     /map="14q11.2"
+     gene            1..3701
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /note="matrix metallopeptidase 14"
+                     /db_xref="GeneID:4323"
+                     /db_xref="HGNC:HGNC:7160"
+                     /db_xref="MIM:600754"
+     exon            1..341
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    7
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /note="alternative transcription initiation site as
+                     determined in PubMed ID: 10721699"
+     misc_feature    23
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /note="alternative transcription initiation site as
+                     determined in PubMed ID: 10721699"
+     misc_feature    35
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /note="alternative transcription initiation site as
+                     determined in PubMed ID: 10721699"
+     misc_feature    90..92
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /note="upstream in-frame stop codon"
+     CDS             234..1982
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /EC_number="3.4.24.80"
+                     /note="membrane-type-1 matrix metalloproteinase; membrane
+                     type 1 metalloprotease; matrix metalloproteinase-14;
+                     matrix metallopeptidase 14 (membrane-inserted)"
+                     /codon_start=1
+                     /product="matrix metalloproteinase-14 preproprotein"
+                     /protein_id="NP_004986.1"
+                     /db_xref="CCDS:CCDS9577.1"
+                     /db_xref="GeneID:4323"
+                     /db_xref="HGNC:HGNC:7160"
+                     /db_xref="MIM:600754"
+                     /translation="MSPAPRPPRCLLLPLLTLGTALASLGSAQSSSFSPEAWLQQYGY
+                     LPPGDLRTHTQRSPQSLSAAIAAMQKFYGLQVTGKADADTMKAMRRPRCGVPDKFGAE
+                     IKANVRRKRYAIQGLKWQHNEITFCIQNYTPKVGEYATYEAIRKAFRVWESATPLRFR
+                     EVPYAYIREGHEKQADIMIFFAEGFHGDSTPFDGEGGFLAHAYFPGPNIGGDTHFDSA
+                     EPWTVRNEDLNGNDIFLVAVHELGHALGLEHSSDPSAIMAPFYQWMDTENFVLPDDDR
+                     RGIQQLYGGESGFPTKMPPQPRTTSRPSVPDKPKNPTYGPNICDGNFDTVAMLRGEMF
+                     VFKERWFWRVRNNQVMDGYPMPIGQFWRGLPASINTAYERKDGKFVFFKGDKHWVFDE
+                     ASLEPGYPKHIKELGRGLPTDKIDAALFWMPNGKTYFFRGNKYYRFNEELRAVDSEYP
+                     KNIKVWEGIPESPRGSFMGSDEVFTYFYKGNKYWKFNNQKLKVEPGYPKSALRDWMGC
+                     PSGGRPDEGTEEETEVIIIEVDEEGGGAVSAAAVVLPVLLLLLVLAVGLAVFFFRRHG
+                     TPRRLLYCQRSLLDKV"
+     sig_peptide     234..317
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     proprotein      303..1979
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /product="matrix metalloproteinase-14 proprotein"
+     mat_peptide     567..1979
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /product="matrix metalloproteinase-14"
+     exon            342..490
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            491..613
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            614..921
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            922..1083
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1084..1244
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1245..1383
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1384..1534
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1535..1650
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1651..3701
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /inference="alignment:Splign:2.1.0"
+     polyA_site      2916
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+     regulatory      3684..3689
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /note="hexamer: AATAAA"
+     polyA_site      3701
+                     /gene="MMP14"
+                     /gene_synonym="MMP-14; MMP-X1; MT-MMP; MT-MMP 1; MT1-MMP;
+                     MT1MMP; MTMMP1; WNCHRS"
+                     /note="major polyA site"
+ORIGIN      
+        1 agaccccagt tcgccgacta agcagaagaa agatcaaaaa ccggaaaaga ggagaagagc
+       61 aaacaggcac tttgaggaac aatccccttt aactccaagc cgacagcggt ctaggaattc
+      121 aagttcagtg cctaccgaag acaaaggcgc cccgagggag tggcggtgcg accccagggc
+      181 gtgggcccgg ccgcggagcc cacactgccc ggctgacccg gtggtctcgg accatgtctc
+      241 ccgccccaag acccccccgt tgtctcctgc tccccctgct cacgctcggc accgcgctcg
+      301 cctccctcgg ctcggcccaa agcagcagct tcagccccga agcctggcta cagcaatatg
+      361 gctacctgcc tcccggggac ctacgtaccc acacacagcg ctcaccccag tcactctcag
+      421 cggccatcgc tgccatgcag aagttttacg gcttgcaagt aacaggcaaa gctgatgcag
+      481 acaccatgaa ggccatgagg cgcccccgat gtggtgttcc agacaagttt ggggctgaga
+      541 tcaaggccaa tgttcgaagg aagcgctacg ccatccaggg tctcaaatgg caacataatg
+      601 aaatcacttt ctgcatccag aattacaccc ccaaggtggg cgagtatgcc acatacgagg
+      661 ccattcgcaa ggcgttccgc gtgtgggaga gtgccacacc actgcgcttc cgcgaggtgc
+      721 cctatgccta catccgtgag ggccatgaga agcaggccga catcatgatc ttctttgccg
+      781 agggcttcca tggcgacagc acgcccttcg atggtgaggg cggcttcctg gcccatgcct
+      841 acttcccagg ccccaacatt ggaggagaca cccactttga ctctgccgag ccttggactg
+      901 tcaggaatga ggatctgaat ggaaatgaca tcttcctggt ggctgtgcac gagctgggcc
+      961 atgccctggg gctcgagcat tccagtgacc cctcggccat catggcaccc ttttaccagt
+     1021 ggatggacac ggagaatttt gtgctgcccg atgatgaccg ccggggcatc cagcaacttt
+     1081 atgggggtga gtcagggttc cccaccaaga tgccccctca acccaggact acctcccggc
+     1141 cttctgttcc tgataaaccc aaaaacccca cctatgggcc caacatctgt gacgggaact
+     1201 ttgacaccgt ggccatgctc cgaggggaga tgtttgtctt caaggagcgc tggttctggc
+     1261 gggtgaggaa taaccaagtg atggatggat acccaatgcc cattggccag ttctggcggg
+     1321 gcctgcctgc gtccatcaac actgcctacg agaggaagga tggcaaattc gtcttcttca
+     1381 aaggagacaa gcattgggtg tttgatgagg cgtccctgga acctggctac cccaagcaca
+     1441 ttaaggagct gggccgaggg ctgcctaccg acaagattga tgctgctctc ttctggatgc
+     1501 ccaatggaaa gacctacttc ttccgtggaa acaagtacta ccgtttcaac gaagagctca
+     1561 gggcagtgga tagcgagtac cccaagaaca tcaaagtctg ggaagggatc cctgagtctc
+     1621 ccagagggtc attcatgggc agcgatgaag tcttcactta cttctacaag gggaacaaat
+     1681 actggaaatt caacaaccag aagctgaagg tagaaccggg ctaccccaag tcagccctga
+     1741 gggactggat gggctgccca tcgggaggcc ggccggatga ggggactgag gaggagacgg
+     1801 aggtgatcat cattgaggtg gacgaggagg gcggcggggc ggtgagcgcg gctgccgtgg
+     1861 tgctgcccgt gctgctgctg ctcctggtgc tggcggtggg ccttgcagtc ttcttcttca
+     1921 gacgccatgg gacccccagg cgactgctct actgccagcg ttccctgctg gacaaggtct
+     1981 gacgcccacc gccggcccgc ccactcctac cacaaggact ttgcctctga aggccagtgg
+     2041 cagcaggtgg tggtgggtgg gctgttccca tcgtcccgag ccccctcccc gcagcctcct
+     2101 tgcttctctc tgtcccctgg ctggcctcct tcaccctgac cgcctccctc cctcctgccc
+     2161 cggcattgca tcttccctag ataggtcccc tgagggctga gtgggagggc ggccctttcc
+     2221 agcctctgcc cctcagggga accctgtagc tttgtgtctg tccagcccca tctgaatgtg
+     2281 ttgggggctc tgcacttgaa ggcaggaccc tcagacctcg ctggtaaagg tcaaatgggg
+     2341 tcatctgctc cttttccatc ccctgacata ccttaacctc tgaactctga cctcaggagg
+     2401 ctctgggcac tccagccctg aaagccccag gtgtacccaa ttggcagcct ctcactactc
+     2461 tttctggcta aaaggaatct aatcttgttg agggtagaga ccctgagaca gtgtgagggg
+     2521 gtggggactg ccaagccacc ctaagacctt gggaggaaaa ctcagagagg gtcttcgttg
+     2581 ctcagtcagt caagttcctc ggagatctgc ctctgcctca cctaccccag ggaacttcca
+     2641 aggaaggagc ctgagccact ggggactaag tgggcagaag aaacccttgg cagccctgtg
+     2701 cctctcgaat gttagccttg gatggggctt tcacagttag aagagctgaa accaggggtg
+     2761 cagctgtcag gtagggtggg gccggtggga gaggcccggg tcagagccct gggggtgagc
+     2821 ctgaaggcca cagagaaaga accttgccca aactcaggca gctggggctg aggcccaaag
+     2881 gcagaacagc cagagggggc aggaggggac caaaaaggaa aatgaggacg tgcagcagca
+     2941 ttggaaggct ggggccgggc aggccaggcc aagccaagca gggggccaca gggtgggctg
+     3001 tggagctctc aggaagggcc ctgaggaagg cacacttgct cctgttggtc cctgtccttg
+     3061 ctgcccaggc agcgtggagg ggaagggtag ggcagccaga gaaaggagca gagaaggcac
+     3121 acaaacgagg aatgaggggc ttcacgagag gccacagggc ctggctggcc acgctgtccc
+     3181 ggcctgctca ccatctcagt gaggggcagg agctggggct cgcttaggct gggtccacgc
+     3241 ttccctggtg ccagcacccc tcaagcctgt ctcaccagtg gcctgccctc tcgctccccc
+     3301 acccagccca cccattgaag tctccttggg ccaccaaagg tggtggccat ggtaccgggg
+     3361 acttgggaga gtgagaccca gtggagggag caagaggaga gggatgtcgg gggggtgggg
+     3421 cacggggtag gggaaatggg gtgaacggtg ctggcagttc ggctagattt ctgtcttgtt
+     3481 tgtttttttg ttttgtttaa tgtatatttt tattataatt attatatatg aattccattc
+     3541 aaatcgttcc tttttgttaa caaggggcat ggggaggggt gggggtgggg gggcagaggc
+     3601 gtctgacccc aggaacctgc agggcggggc tgggtcggtg ccctctaagg acaattttga
+     3661 ccttgttcaa cctttccaca aagaataaat tgtgtttcac a
+//
+

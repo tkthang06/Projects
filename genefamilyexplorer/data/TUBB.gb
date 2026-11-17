@@ -1,0 +1,265 @@
+LOCUS       NM_001069               1616 bp    mRNA    linear   PRI 06-SEP-2026
+DEFINITION  Homo sapiens tubulin beta 2A class IIa (TUBB2A), transcript variant
+            1, mRNA.
+ACCESSION   NM_001069
+VERSION     NM_001069.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1616)
+  AUTHORS   Schroter,J., Syring,H., Gohring,G., Kolker,S., Opladen,T.,
+            Hoffmann,G.F., Syrbe,S. and Jung-Klawitter,S.
+  TITLE     Generation of an induced pluripotent stem cell line (DHMCi009-A)
+            from an individual with TUBB2A tubulinopathy
+  JOURNAL   Stem Cell Res 64, 102879 (2022)
+   PUBMED   35930870
+  REMARK    GeneRIF: Generation of an induced pluripotent stem cell line
+            (DHMCi009-A) from an individual with TUBB2A tubulinopathy.
+REFERENCE   2  (bases 1 to 1616)
+  AUTHORS   Salokas,K., Liu,X., Ohman,T., Chowdhury,I., Gawriyski,L.,
+            Keskitalo,S. and Varjosalo,M.
+  TITLE     Physical and functional interactome atlas of human receptor
+            tyrosine kinases
+  JOURNAL   EMBO Rep 23 (6), e54041 (2022)
+   PUBMED   35384245
+REFERENCE   3  (bases 1 to 1616)
+  AUTHORS   Ragoussis,V., Pagnamenta,A.T., Haines,R.L., Giacopuzzi,E.,
+            McClatchey,M.A., Sampson,J.R., Suri,M., Gardham,A., Cobben,J.M.,
+            Osio,D., Fry,A.E. and Taylor,J.C.
+  CONSRTM   Genomics England Research Consortium
+  TITLE     Using data from the 100,000 Genomes Project to resolve conflicting
+            interpretations of a recurrent TUBB2A mutation
+  JOURNAL   J Med Genet 59 (4), 366-369 (2022)
+   PUBMED   33547136
+  REMARK    GeneRIF: Using data from the 100,000 Genomes Project to resolve
+            conflicting interpretations of a recurrent TUBB2A mutation.
+REFERENCE   4  (bases 1 to 1616)
+  AUTHORS   Jin,Y., Zhang,S. and Liu,L.
+  TITLE     Circular RNA circ_C16orf62 Suppresses Cell Growth in Gastric Cancer
+            by miR-421/Tubulin beta-2A Chain (TUBB2A) Axis
+  JOURNAL   Med Sci Monit 26, e924343 (2020)
+   PUBMED   33006960
+  REMARK    GeneRIF: Circular RNA circ_C16orf62 Suppresses Cell Growth in
+            Gastric Cancer by miR-421/Tubulin beta-2A Chain (TUBB2A) Axis.
+REFERENCE   5  (bases 1 to 1616)
+  AUTHORS   Haenig,C., Atias,N., Taylor,A.K., Mazza,A., Schaefer,M.H., Russ,J.,
+            Riechers,S.P., Jain,S., Coughlin,M., Fontaine,J.F., Freibaum,B.D.,
+            Brusendorf,L., Zenkner,M., Porras,P., Stroedicke,M., Schnoegl,S.,
+            Arnsburg,K., Boeddrich,A., Pigazzini,L., Heutink,P., Taylor,J.P.,
+            Kirstein,J., Andrade-Navarro,M.A., Sharan,R. and Wanker,E.E.
+  TITLE     Interactome Mapping Provides a Network of Neurodegenerative Disease
+            Proteins and Uncovers Widespread Protein Aggregation in Affected
+            Brains
+  JOURNAL   Cell Rep 32 (7), 108050 (2020)
+   PUBMED   32814053
+REFERENCE   6  (bases 1 to 1616)
+  AUTHORS   Takahashi,M., Tomizawa,K., Sato,K., Ohtake,A. and Omori,A.
+  TITLE     A novel tau-tubulin kinase from bovine brain
+  JOURNAL   FEBS Lett 372 (1), 59-64 (1995)
+   PUBMED   7556643
+REFERENCE   7  (bases 1 to 1616)
+  AUTHORS   Bahi-Buisson,N. and Maillard,C.
+  TITLE     Tubulinopathies Overview
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   27010057
+REFERENCE   8  (bases 1 to 1616)
+  AUTHORS   Horisberger,M.A.
+  TITLE     Interferon-induced human protein MxA is a GTPase which binds
+            transiently to cellular proteins
+  JOURNAL   J Virol 66 (8), 4705-4709 (1992)
+   PUBMED   1629950
+REFERENCE   9  (bases 1 to 1616)
+  AUTHORS   Wang,D., Villasante,A., Lewis,S.A. and Cowan,N.J.
+  TITLE     The mammalian beta-tubulin repertoire: hematopoietic expression of
+            a novel, heterologous beta-tubulin isotype
+  JOURNAL   J Cell Biol 103 (5), 1903-1910 (1986)
+   PUBMED   3782288
+REFERENCE   10 (bases 1 to 1616)
+  AUTHORS   Lee,M.G., Lewis,S.A., Wilde,C.D. and Cowan,N.J.
+  TITLE     Evolutionary history of a multigene family: an expressed human
+            beta-tubulin gene and three processed pseudogenes
+  JOURNAL   Cell 33 (2), 477-487 (1983)
+   PUBMED   6688039
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL031963.40, X79535.1 and
+            AL038778.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_001069.2.
+            
+            Summary: Microtubules, key participants in processes such as
+            mitosis and intracellular transport, are composed of heterodimers
+            of alpha- and beta-tubulins. The protein encoded by this gene is a
+            beta-tubulin. Defects in this gene are associated with complex
+            cortical dysplasia with other brain malformations-5. Two transcript
+            variants encoding distinct isoforms have been found for this gene.
+            [provided by RefSeq, Jul 2015].
+            
+            Transcript Variant: This variant (1) encodes the longer isoform
+            (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803616.53490.1,
+                                           SRR3476690.1019106.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2154405, SAMEA2154665
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000333628.4/ ENSP00000369703.2
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-18                AL031963.40        119921-119938       c
+            19-644              X79535.1           1-626
+            645-1607            AL031963.40        116069-117031       c
+            1608-1616           AL038778.2         224-232
+FEATURES             Location/Qualifiers
+     source          1..1616
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6p25.2"
+     gene            1..1616
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="tubulin beta 2A class IIa"
+                     /db_xref="GeneID:7280"
+                     /db_xref="HGNC:HGNC:12412"
+                     /db_xref="MIM:615101"
+     exon            1..138
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             82..1419
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     tubulin, beta polypeptide 2; class IIa beta-tubulin;
+                     tubulin beta-2A chain; tubulin, beta 2A"
+                     /codon_start=1
+                     /product="tubulin beta-2A chain isoform 1"
+                     /protein_id="NP_001060.1"
+                     /db_xref="CCDS:CCDS4484.1"
+                     /db_xref="GeneID:7280"
+                     /db_xref="HGNC:HGNC:12412"
+                     /db_xref="MIM:615101"
+                     /translation="MREIVHIQAGQCGNQIGAKFWEVISDEHGIDPTGSYHGDSDLQL
+                     ERINVYYNEAAGNKYVPRAILVDLEPGTMDSVRSGPFGQIFRPDNFVFGQSGAGNNWA
+                     KGHYTEGAELVDSVLDVVRKESESCDCLQGFQLTHSLGGGTGSGMGTLLISKIREEYP
+                     DRIMNTFSVMPSPKVSDTVVEPYNATLSVHQLVENTDETYSIDNEALYDICFRTLKLT
+                     TPTYGDLNHLVSATMSGVTTCLRFPGQLNADLRKLAVNMVPFPRLHFFMPGFAPLTSR
+                     GSQQYRALTVPELTQQMFDSKNMMAACDPRHGRYLTVAAIFRGRMSMKEVDEQMLNVQ
+                     NKNSSYFVEWIPNNVKTAVCDIPPRGLKMSATFIGNSTAIQELFKRISEQFTAMFRRK
+                     AFLHWYTGEGMDEMEFTEAESNMNDLVSEYQQYQDATADEQGEFEEEEGEDEA"
+     misc_feature    82..93
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13885.1);
+                     Region: MREI motif.
+                     /evidence=ECO:0000250|UniProtKB:P07437"
+     misc_feature    199..201
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P99024; propagated from
+                     UniProtKB/Swiss-Prot (Q13885.1); phosphorylation site"
+     misc_feature    253..255
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P07437; propagated from
+                     UniProtKB/Swiss-Prot (Q13885.1); acetylation site"
+     misc_feature    595..597
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="Phosphoserine, by CDK1.
+                     /evidence=ECO:0000269|PubMed:16371510; propagated from
+                     UniProtKB/Swiss-Prot (Q13885.1); phosphorylation site"
+     misc_feature    934..936
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P07437; propagated from
+                     UniProtKB/Swiss-Prot (Q13885.1); phosphorylation site"
+     misc_feature    949..951
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P07437; propagated from
+                     UniProtKB/Swiss-Prot (Q13885.1); phosphorylation site"
+     misc_feature    1033..1035
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P07437; propagated from
+                     UniProtKB/Swiss-Prot (Q13885.1); methylation site"
+     misc_feature    1345..1416
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13885.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            139..247
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            248..358
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            359..1616
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1594..1599
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="hexamer: AATAAA"
+     polyA_site      1616
+                     /gene="TUBB2A"
+                     /gene_synonym="CDCBM5; TUBB; TUBB2"
+                     /note="major polyA site"
+ORIGIN      
+        1 aggtctctgc gcagcccagc ccgccggtcc acgccgcgca ccgctccgag ggccagcgcc
+       61 acccgctccg cagccggcac catgcgcgag atcgtgcaca tccaggcggg ccagtgcggc
+      121 aaccagatcg gcgccaagtt ttgggaggtc atcagcgatg agcatgggat cgaccccaca
+      181 ggcagttacc atggagacag tgacttgcag ctggagagaa tcaacgtgta ctacaatgag
+      241 gctgctggta acaaatatgt acctcgggcc atcctggtgg atctggagcc tggcaccatg
+      301 gactctgtca ggtctggacc cttcggccag atcttcagac cagacaactt cgtgttcggc
+      361 cagagtggag ccgggaataa ctgggccaag ggccactaca cagagggagc cgagctggtc
+      421 gactcggtcc tggatgtggt gaggaaggag tcagagagct gtgactgtct ccagggcttc
+      481 cagctgaccc actctctggg gggcggcacg gggtccggga tgggcaccct gctcatcagc
+      541 aagatccggg aagagtaccc agaccgcatc atgaacacct tcagcgtcat gccctcaccc
+      601 aaggtgtcag acacggtggt ggagccctac aacgccaccc tctctgtcca ccagctggtg
+      661 gaaaacacag atgaaaccta ctccattgat aacgaggccc tgtatgacat ctgcttccgc
+      721 accctgaagc tgaccacccc cacctacggg gacctcaacc acctggtgtc ggccaccatg
+      781 agcggggtca ccacctgcct gcgcttcccg ggccagctga acgcagacct gcgcaagctg
+      841 gcggtgaaca tggtgccctt ccctcgcctg cacttcttca tgcccggctt cgcgcccctg
+      901 accagccggg gcagccagca gtaccgggcg ctcacggtgc ccgagctcac ccagcagatg
+      961 ttcgactcca agaacatgat ggccgcctgc gacccgcgcc acggccgcta cctgacggtg
+     1021 gctgccatct tccggggccg catgtccatg aaggaggtgg acgagcagat gctcaacgtg
+     1081 cagaacaaga acagcagcta cttcgtggag tggatcccca acaacgtgaa gacggccgtg
+     1141 tgcgacatcc cgccccgcgg cctgaagatg tcggccacct tcatcggcaa cagcacggcc
+     1201 atccaggagc tgttcaagcg catctccgag cagttcacgg ccatgttccg gcgcaaggcc
+     1261 ttcctgcact ggtacacggg cgagggcatg gacgagatgg agttcaccga ggccgagagc
+     1321 aacatgaacg acctggtgtc cgagtaccag cagtaccagg acgccacggc cgacgaacaa
+     1381 ggggagttcg aggaggagga gggcgaggac gaggcttaaa aacttctcag atcaatcgtg
+     1441 catccttagt gaacttctgt tgtcctcaag catggtcttt ctacttgtaa actatggtgc
+     1501 tcagttttgc ctctgttaga aattcacact gttgatgtaa tgatgtggaa ctcctctaaa
+     1561 aattacagta ttgtctgtga aggtatctat actaataaaa aagcatgtgt agaaaa
+//
+

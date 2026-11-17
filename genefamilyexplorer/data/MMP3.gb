@@ -1,0 +1,294 @@
+LOCUS       NM_002422               1822 bp    mRNA    linear   PRI 04-JUN-2026
+DEFINITION  Homo sapiens matrix metallopeptidase 3 (MMP3), mRNA.
+ACCESSION   NM_002422
+VERSION     NM_002422.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1822)
+  AUTHORS   Billeson,K., Baldimtsi,E., Wahlberg,J. and Whiss,P.A.
+  TITLE     Growth Differentiation Factor 15 and Matrix Metalloproteinase 3 in
+            Plasma as Biomarkers for Neuropathy and Nephropathy in Type 1
+            Diabetes
+  JOURNAL   Int J Mol Sci 25 (13), 7328 (2024)
+   PUBMED   39000435
+  REMARK    GeneRIF: Growth Differentiation Factor 15 and Matrix
+            Metalloproteinase 3 in Plasma as Biomarkers for Neuropathy and
+            Nephropathy in Type 1 Diabetes.
+REFERENCE   2  (bases 1 to 1822)
+  AUTHORS   Xie,Y., Lin,T., Jin,Y., Berezowitz,A.G., Wang,X.L., Lu,J., Cai,Y.
+            and Guzman,R.J.
+  TITLE     Smooth muscle cell-specific matrix metalloproteinase 3 deletion
+            reduces osteogenic transformation and medial artery calcification
+  JOURNAL   Cardiovasc Res 120 (6), 658-670 (2024)
+   PUBMED   38454645
+  REMARK    GeneRIF: Smooth muscle cell-specific matrix metalloproteinase 3
+            deletion reduces osteogenic transformation and medial artery
+            calcification.
+REFERENCE   3  (bases 1 to 1822)
+  AUTHORS   Yin,Y., Zhang,Y., Zhang,X., Zhang,Q., Wang,J., Yang,T., Liang,C.,
+            Li,W., Liu,J., Ma,X., Duan,J., Shi,W. and Tian,Y.
+  TITLE     Association of MMP3, MMP14, and MMP25 gene polymorphisms with
+            cerebral stroke risk: a case-control study
+  JOURNAL   BMC Med Genomics 16 (1), 297 (2023)
+   PUBMED   37986083
+  REMARK    GeneRIF: Association of MMP3, MMP14, and MMP25 gene polymorphisms
+            with cerebral stroke risk: a case-control study.
+REFERENCE   4  (bases 1 to 1822)
+  AUTHORS   Nehring,P., Gromadzka,G., Jastrzebski,M. and Przybylkowski,A.
+  TITLE     Genetic Variants in Matrix Metalloproteinases MMP3 (rs3025058) and
+            MMP9 (rs3918242) Associated with Colonic Diverticulosis
+  JOURNAL   Medicina (Kaunas) 59 (11), 2031 (2023)
+   PUBMED   38004080
+  REMARK    GeneRIF: Genetic Variants in Matrix Metalloproteinases MMP3
+            (rs3025058) and MMP9 (rs3918242) Associated with Colonic
+            Diverticulosis.
+REFERENCE   5  (bases 1 to 1822)
+  AUTHORS   Shih,M.L., Lee,J.C., Cheng,S.Y., Lawal,B., Ho,C.L., Wu,C.C.,
+            Tzeng,D.T.W., Chen,J.H. and Wu,A.T.H.
+  TITLE     Transcriptomic discovery of a theranostic signature
+            (SERPINE1/MMP3/COL1A1/SPP1) for head and neck squamous cell
+            carcinomas and identification of antrocinol as a candidate drug
+  JOURNAL   Comput Biol Med 150, 106185 (2022)
+   PUBMED   37859283
+  REMARK    GeneRIF: Transcriptomic discovery of a theranostic signature
+            (SERPINE1/MMP3/COL1A1/SPP1) for head and neck squamous cell
+            carcinomas and identification of antrocinol as a candidate drug.
+REFERENCE   6  (bases 1 to 1822)
+  AUTHORS   Ogata,Y., Enghild,J.J. and Nagase,H.
+  TITLE     Matrix metalloproteinase 3 (stromelysin) activates the precursor
+            for the human matrix metalloproteinase 9
+  JOURNAL   J Biol Chem 267 (6), 3581-3584 (1992)
+   PUBMED   1371271
+REFERENCE   7  (bases 1 to 1822)
+  AUTHORS   Nagase,H., Enghild,J.J., Suzuki,K. and Salvesen,G.
+  TITLE     Stepwise activation mechanisms of the precursor of matrix
+            metalloproteinase 3 (stromelysin) by proteinases and
+            (4-aminophenyl)mercuric acetate
+  JOURNAL   Biochemistry 29 (24), 5783-5789 (1990)
+   PUBMED   2383557
+REFERENCE   8  (bases 1 to 1822)
+  AUTHORS   Sirum,K.L. and Brinckerhoff,C.E.
+  TITLE     Cloning of the genes for human stromelysin and stromelysin 2:
+            differential expression in rheumatoid synovial fibroblasts
+  JOURNAL   Biochemistry 28 (22), 8691-8698 (1989)
+   PUBMED   2605216
+REFERENCE   9  (bases 1 to 1822)
+  AUTHORS   Quinones,S., Saus,J., Otani,Y., Harris,E.D. Jr. and Kurkinen,M.
+  TITLE     Transcriptional regulation of human stromelysin
+  JOURNAL   J Biol Chem 264 (14), 8339-8344 (1989)
+   PUBMED   2785989
+REFERENCE   10 (bases 1 to 1822)
+  AUTHORS   Whitham,S.E., Murphy,G., Angel,P., Rahmsdorf,H.J., Smith,B.J.,
+            Lyons,A., Harris,T.J., Reynolds,J.J., Herrlich,P. and Docherty,A.J.
+  TITLE     Comparison of human stromelysin and collagenase by cloning and
+            sequence analysis
+  JOURNAL   Biochem J 240 (3), 913-916 (1986)
+   PUBMED   3030290
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA982602.1, BC074815.2,
+            AK223291.1 and AI628953.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 22, 2018 this sequence version replaced NM_002422.4.
+            
+            Summary: Proteins of the matrix metalloproteinase (MMP) family are
+            involved in the breakdown of extracellular matrix in normal
+            physiological processes, such as embryonic development,
+            reproduction, and tissue remodeling, as well as in disease
+            processes, such as arthritis and metastasis. Most MMP's are
+            secreted as inactive proproteins which are activated when cleaved
+            by extracellular proteinases. This gene encodes an enzyme which
+            degrades fibronectin, laminin, collagens III, IV, IX, and X, and
+            cartilage proteoglycans. The enzyme is thought to be involved in
+            wound repair, progression of atherosclerosis, and tumor initiation.
+            The gene is part of a cluster of MMP genes which localize to
+            chromosome 11q22.3. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803613.9567.1,
+                                           SRR5189667.122637.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2467146, SAMEA2467147
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000299855.10/ ENSP00000299855.5
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-18                DA982602.1         81-98
+            19-1529             BC074815.2         1-1511
+            1530-1817           AK223291.1         1529-1816
+            1818-1822           AI628953.1         5-9                 c
+FEATURES             Location/Qualifiers
+     source          1..1822
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q22.2"
+     gene            1..1822
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="matrix metallopeptidase 3"
+                     /db_xref="GeneID:4314"
+                     /db_xref="HGNC:HGNC:7173"
+                     /db_xref="MIM:185250"
+     exon            1..168
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    46..48
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="upstream in-frame stop codon"
+     CDS             64..1497
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /EC_number="3.4.24.17"
+                     /note="proteoglycanase; matrix metalloproteinase 3
+                     (stromelysin 1, progelatinase); transin-1; stromelysin-1"
+                     /codon_start=1
+                     /product="stromelysin-1 preproprotein"
+                     /protein_id="NP_002413.1"
+                     /db_xref="CCDS:CCDS8323.1"
+                     /db_xref="GeneID:4314"
+                     /db_xref="HGNC:HGNC:7173"
+                     /db_xref="MIM:185250"
+                     /translation="MKSLPILLLLCVAVCSAYPLDGAARGEDTSMNLVQKYLENYYDL
+                     KKDVKQFVRRKDSGPVVKKIREMQKFLGLEVTGKLDSDTLEVMRKPRCGVPDVGHFRT
+                     FPGIPKWRKTHLTYRIVNYTPDLPKDAVDSAVEKALKVWEEVTPLTFSRLYEGEADIM
+                     ISFAVREHGDFYPFDGPGNVLAHAYAPGPGINGDAHFDDDEQWTKDTTGTNLFLVAAH
+                     EIGHSLGLFHSANTEALMYPLYHSLTDLTRFRLSQDDINGIQSLYGPPPDSPETPLVP
+                     TEPVPPEPGTPANCDPALSFDAVSTLRGEILIFKDRHFWRKSLRKLEPELHLISSFWP
+                     SLPSGVDAAYEVTSKDLVFIFKGNQFWAIRGNEVRAGYPRGIHTLGFPPTVRKIDAAI
+                     SDKEKNKTYFFVEDKYWRFDEKRNSMEPGFPKQIAEDFPGIDSKIDAVFEEFGFFYFF
+                     TGSSQLEFDPNAKKVTHTLKSNSWLNC"
+     sig_peptide     64..114
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     misc_feature    331..354
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08254.2);
+                     Region: Cysteine switch. /evidence=ECO:0000250"
+     mat_peptide     361..1494
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /product="Stromelysin-1. /id=PRO_0000028729"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08254.2)"
+     misc_feature    847..924
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08254.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    922..1071
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08254.2);
+                     Region: Hemopexin 1"
+     misc_feature    1072..1212
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08254.2);
+                     Region: Hemopexin 2"
+     misc_feature    1216..1362
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08254.2);
+                     Region: Hemopexin 3"
+     misc_feature    1363..1494
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P08254.2);
+                     Region: Hemopexin 4"
+     exon            169..413
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            414..562
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            563..688
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            689..853
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            854..998
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            999..1132
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1133..1292
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1293..1396
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1397..1822
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1796..1801
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="hexamer: AATAAA"
+     polyA_site      1822
+                     /gene="MMP3"
+                     /gene_synonym="CHDS6; MMP-3; SL-1; STMY; STMY1; STR1"
+                     /note="major polyA site"
+ORIGIN      
+        1 acaaggaggc aggcaagaca gcaaggcata gagacaacat agagctaagt aaagccagtg
+       61 gaaatgaaga gtcttccaat cctactgttg ctgtgcgtgg cagtttgctc agcctatcca
+      121 ttggatggag ctgcaagggg tgaggacacc agcatgaacc ttgttcagaa atatctagaa
+      181 aactactacg acctcaaaaa agatgtgaaa cagtttgtta ggagaaagga cagtggtcct
+      241 gttgttaaaa aaatccgaga aatgcagaag ttccttggat tggaggtgac ggggaagctg
+      301 gactccgaca ctctggaggt gatgcgcaag cccaggtgtg gagttcctga tgttggtcac
+      361 ttcagaacct ttcctggcat cccgaagtgg aggaaaaccc accttacata caggattgtg
+      421 aattatacac cagatttgcc aaaagatgct gttgattctg ctgttgagaa agctctgaaa
+      481 gtctgggaag aggtgactcc actcacattc tccaggctgt atgaaggaga ggctgatata
+      541 atgatctctt ttgcagttag agaacatgga gacttttacc cttttgatgg acctggaaat
+      601 gttttggccc atgcctatgc ccctgggcca gggattaatg gagatgccca ctttgatgat
+      661 gatgaacaat ggacaaagga tacaacaggg accaatttat ttctcgttgc tgctcatgaa
+      721 attggccact ccctgggtct ctttcactca gccaacactg aagctttgat gtacccactc
+      781 tatcactcac tcacagacct gactcggttc cgcctgtctc aagatgatat aaatggcatt
+      841 cagtccctct atggacctcc ccctgactcc cctgagaccc ccctggtacc cacggaacct
+      901 gtccctccag aacctgggac gccagccaac tgtgatcctg ctttgtcctt tgatgctgtc
+      961 agcactctga ggggagaaat cctgatcttt aaagacaggc acttttggcg caaatccctc
+     1021 aggaagcttg aacctgaatt gcatttgatc tcttcatttt ggccatctct tccttcaggc
+     1081 gtggatgccg catatgaagt tactagcaag gacctcgttt tcatttttaa aggaaatcaa
+     1141 ttctgggcta tcagaggaaa tgaggtacga gctggatacc caagaggcat ccacacccta
+     1201 ggtttccctc caaccgtgag gaaaatcgat gcagccattt ctgataagga aaagaacaaa
+     1261 acatatttct ttgtagagga caaatactgg agatttgatg agaagagaaa ttccatggag
+     1321 ccaggctttc ccaagcaaat agctgaagac tttccaggga ttgactcaaa gattgatgct
+     1381 gtttttgaag aatttgggtt cttttatttc tttactggat cttcacagtt ggagtttgac
+     1441 ccaaatgcaa agaaagtgac acacactttg aagagtaaca gctggcttaa ttgttgaaag
+     1501 agatatgtag aaggcacaat atgggcactt taaatgaagc taataattct tcacctaagt
+     1561 ctctgtgaat tgaaatgttc gttttctcct gcctgtgctg tgactcgagt cacactcaag
+     1621 ggaacttgag cgtgaatctg tatcttgccg gtcattttta tgttattaca gggcattcaa
+     1681 atgggctgct gcttagcttg caccttgtca catagagtga tctttcccaa gagaagggga
+     1741 agcactcgtg tgcaacagac aagtgactgt atctgtgtag actatttgct tatttaataa
+     1801 agacgatttg tcagttattt ta
+//
+

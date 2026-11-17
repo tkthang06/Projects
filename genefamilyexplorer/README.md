@@ -2,21 +2,29 @@
 
 **Live app: [genefamilytkthang.streamlit.app](https://genefamilytkthang.streamlit.app/)**
 
-A Streamlit app that follows human genes from DNA to protein structure. It pulls each gene from NCBI, finds its open reading frames (ORFs) and CpG islands, shows the protein's AlphaFold structure with its active site, and compares the genes side by side. The default set is the ADAMTS family of extracellular proteases (ADAMTS1, 4, 5, 8, 9, 15), with GAPDH as an unrelated outgroup. Any human gene symbol works.
+A Streamlit app that follows human genes from DNA to protein structure. It pulls each gene from NCBI, finds its open reading frames (ORFs) and CpG islands, shows the protein's AlphaFold structure with its active site, and compares the genes side by side. The default set is the ADAMTS family of extracellular proteases (ADAMTS1, 4, 5, 8, 9, 15), with GAPDH as an unrelated outgroup. Any human protein-coding gene works.
 
-![Single gene view](figures/app_single_gene.jpg)
+![Overview: the header traces the focus gene from chromosome band to AlphaFold model](figures/app_overview.jpg)
 
 ## What it does
 
+**Choosing genes (sidebar).** Start from a ready-made gene set (ADAMTS proteases, matrix metalloproteinases, housekeeping genes or cancer genes), or search NCBI Gene directly: one word matches gene symbols and prefixes (`MMP`, `ADAMTS*`), several words match gene and protein names (`matrix metallopeptidase`). Pick results to add them to the list. The **focus gene** drives the header and the Gene and Protein tabs.
+
+**The header** follows the focus gene along the chain chromosome band → gene → mRNA → coding sequence → protein → structure, with the real numbers for that gene. Its gradient is AlphaFold's confidence scale.
+
 | Tab | Shows |
 |---|---|
-| **Genes** | Each gene's RefSeq Select mRNA, genomic location and lengths |
-| **Single gene** | Interactive (zoom, pan, hover) sliding-window GC with CpG islands; six-frame ORF map of the mRNA with the annotated CDS in red; ORF and island tables |
-| **Protein structure** | The AlphaFold model in 3D, colored by prediction confidence, with the zinc active site's histidines and glutamate as sticks; confidence along the protein |
-| **Compare genes** | Feature heatmap, GC-corrected genomic signature distances, PCA of gene features, GC / CpG in 1 kb windows with a Kruskal-Wallis test |
-| **Your sequence** | Upload or paste any FASTA: GC, CpG islands, ORFs, reverse complement, translation |
+| **Overview** | Every loaded gene with its full name, chromosome band, location and lengths, linked to its NCBI Gene page and RefSeq mRNA record |
+| **Gene** | Sliding-window GC with CpG islands and a six-frame ORF map of the mRNA (zoom, pan and hover on both); a check that the longest ORF is NCBI's coding sequence; FASTA and CSV downloads; links to NCBI |
+| **Protein structure** | The AlphaFold model in 3D. Style (cartoon, cartoon + surface, sticks), color (AlphaFold confidence, rainbow from N to C terminus, secondary structure), zoom to the active site, residue labels, spin and a dark background. Hover any residue to see its name and confidence. Below: confidence along the protein, and links to UniProt and the AlphaFold Database |
+| **Compare genes** | A feature heatmap with plain-language names (hover a cell for what the feature means, and open the glossary below it), GC-corrected genomic signature distances, PCA of all features, and GC or CpG in 1 kb windows with a Kruskal-Wallis test |
+| **Your sequence** | Upload or paste any FASTA (or load the GAPDH example): GC, CpG islands, ORFs, reverse complement and translation, all downloadable |
+
+![Gene view](figures/app_single_gene.jpg)
 
 ![Protein structure view](figures/app_protein.jpg)
+
+![Compare genes view](figures/app_compare.jpg)
 
 ## How it's built
 
@@ -24,15 +32,20 @@ A Streamlit app that follows human genes from DNA to protein structure. It pulls
 sequence.py   core DNA functions, pure Python: FASTA parsing, GC, reverse complement,
               translation, six-frame ORFs, CpG islands (O(n) prefix sums),
               dinucleotide relative abundance (Karlin's genomic signature), k-mers
-ncbi.py       fetch_gene(symbol): mRNA + genomic region from NCBI E-utilities, cached in data/
+ncbi.py       fetch_gene(symbol): mRNA + genomic region + NCBI Gene info from E-utilities, cached in data/;
+              search_genes(query): human protein-coding genes by symbol prefix or name
 structure.py  fetch_structure(symbol): UniProt entry -> AlphaFold model, cached in data/;
               per-residue confidence (pLDDT); zinc active-site motif search
-compare.py    gene x feature table, genomic signature distance, PCA (SVD), windowed statistics, charts
-app.py        Streamlit interface only (Altair for interactive tracks, py3Dmol for 3D);
-              all analysis comes from the modules above
+compare.py    gene x feature table (with readable names and explanations), genomic signature distance,
+              PCA (SVD), windowed statistics; matplotlib charts for the README figures
+charts.py     every chart in the app (Altair: zoom, pan, hover) and the py3Dmol protein viewer
+app.py        Streamlit layout only; analysis and visuals come from the modules above
+.streamlit/   theme: AlphaFold-blue palette, IBM Plex type
 ```
 
-Everything runs on one chain, and each link is checked: mRNA → longest ORF → protein → AlphaFold structure → active site. For all six ADAMTS genes, the protein translated from the mRNA's longest ORF is identical to the AlphaFold model's sequence.
+Everything runs on one chain, and each link is checked: mRNA → longest ORF → protein → AlphaFold structure → active site. Across the 24 genes in the built-in gene sets, the longest ORF was NCBI's coding sequence in 23. The exception is MYC, whose coding sequence starts at a CTG codon instead of ATG; the app explains this instead of reporting a mismatch. The AlphaFold sequence matched the RefSeq protein in 22 of the 24; TUBB and KRAS use a different isoform, and the app flags this.
+
+NCBI requests are rate-limited (3 per second) and retried when NCBI answers "too many requests", and nothing is cached unless it's real sequence data.
 
 The analysis is written by hand. Biopython is used to check it, not to do it:
 
@@ -51,7 +64,8 @@ The analysis is written by hand. Biopython is used to check it, not to do it:
   - **ADAMTS5 and ADAMTS9**, the two AT-rich genes with very long introns.
 
   ADAMTS1 and ADAMTS5 are also neighbors on chromosome 21, yet they aren't close (δ* = 52), so genomic neighborhood isn't the whole story.
-- **Every ADAMTS protease has the zinc active site, and AlphaFold is most confident there.** The pattern HExxH.....H appears exactly once in each of the six ADAMTS proteins (residues 361–444) and not at all in GAPDH. The textbook motif HExxHxxGxxH also requires a glycine at position 8, but only ADAMTS5 has it; the other five read HELGHVFNMPH or close to it. Mean confidence (pLDDT) across the active site is 92–97, while the first 200 residues average only 54–60. Those first residues are likely the signal peptide and prodomain, the parts trimmed off before the enzyme becomes active.
+- **Every ADAMTS protease, and every MMP, has the zinc active site, and AlphaFold is most confident there.** The pattern HExxH.....H appears exactly once in each of the six ADAMTS proteins (residues 361–444) and each of the six MMPs in the MMP gene set, and in none of the housekeeping or cancer genes. The textbook motif HExxHxxGxxH also requires a glycine at position 8, but only ADAMTS5 has it; the other five read HELGHVFNMPH or close to it. Mean confidence (pLDDT) across the active site is 92–97, while the first 200 residues average only 54–60. Those first residues are likely the signal peptide and prodomain, the parts trimmed off before the enzyme becomes active.
+- **Neighbors cluster beyond ADAMTS too.** MMP1, MMP3 and MMP13 all sit at chromosome band 11q22.2, which is easy to see in the Overview tab with the MMP gene set loaded.
 - **Most genes start in a CpG island; ADAMTS4 doesn't.** Six of the seven genes have an island within 2 kb of their 5' end. ADAMTS4's first island is 7.7 kb in.
 
 | Genomic signature distance (GC-corrected) | PCA of gene features |
@@ -81,6 +95,6 @@ Gene and structure data are downloaded the first time a gene is used, then read 
 ## Limits
 
 - Human genes only, using one transcript per gene (RefSeq Select). The structure is UniProt's canonical isoform, and the app warns if it differs from the RefSeq protein.
-- The ORF finder uses ATG starts and the standard genetic code, and doesn't report nested ORFs.
+- The ORF finder uses ATG starts and the standard genetic code, and doesn't report nested ORFs. Proteins with a non-ATG start, such as MYC, aren't recovered.
 - CpG islands use the Gardiner-Garden & Frommer thresholds (200 bp, GC ≥ 50%, obs/exp ≥ 0.6). The stricter Takai-Jones settings are available as function arguments.
 - AlphaFold models are predictions. Low-confidence regions (orange) shouldn't be read as real structure.

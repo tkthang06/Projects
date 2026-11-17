@@ -14,6 +14,31 @@ from sequence import cpg_islands, cpg_obs_exp, dinucleotide_rho, find_orfs, gc_c
 
 DEFAULT_GENES = ["ADAMTS1", "ADAMTS4", "ADAMTS5", "ADAMTS8", "ADAMTS9", "ADAMTS15", "GAPDH"]
 
+# Column -> (readable label with unit, what it means). Used for chart axes, tooltips and the glossary.
+FEATURES = {
+    "region_kb": ("Gene length (kb)", "Exons plus introns, start to end of the gene on its chromosome."),
+    "protein_aa": ("Protein length (aa)", "Amino acids in the protein the mRNA encodes."),
+    "utr5_bp": ("5′ UTR (bp)", "mRNA before the start codon: not translated, helps control translation."),
+    "utr3_bp": ("3′ UTR (bp)", "mRNA after the stop codon: not translated, often controls mRNA stability."),
+    "coding_share_%": ("Coding share of gene (%)", "How much of the gene ends up as protein code; the rest is introns and UTRs."),
+    "gc_region_%": ("GC, whole gene (%)", "Share of G and C bases across exons and introns."),
+    "gc_cds_%": ("GC, coding sequence (%)", "Share of G and C bases in the protein-coding part only."),
+    "gc3_%": ("GC at 3rd codon base (%)", "The 3rd base of a codon can usually change without changing the amino acid, "
+                                          "so it tracks the GC level of the surrounding genome."),
+    "cpg_oe_region": ("CpG ratio, observed/expected", "CG pairs seen versus expected from C and G counts. Human DNA "
+                                                      "sits well below 1 because methylated CpGs mutate away."),
+    "cpg_islands": ("CpG islands (count)", "Stretches of 200+ bp with GC ≥ 50% and CpG ratio ≥ 0.6, "
+                                           "often marking promoters."),
+    "island_cover_%": ("CpG island coverage (%)", "Share of the gene covered by CpG islands."),
+    "island_at_5p": ("CpG island at gene start", "Whether a CpG island begins within 2 kb of the gene's 5′ end, "
+                                                       "where promoters sit."),
+    "orfs_per_kb": ("Chance ORFs per kb", "Open reading frames of 100+ aa in the gene region per kb. Almost all are "
+                                          "chance hits in introns; AT-rich DNA has more stop codons, so fewer."),
+    "longest_region_orf_aa": ("Longest gene-region ORF (aa)", "Longest ORF in the gene region. Much shorter than the "
+                                                              "real protein, which is split across exons."),
+}
+WINDOW_METRICS = {"gc_%": "GC (%)", "cpg_oe": "CpG ratio, observed/expected"}
+
 
 def gene_features(g):
     """One row of numbers describing a gene (g comes from ncbi.fetch_gene)."""
@@ -91,13 +116,16 @@ def kruskal_by_gene(windows, column="gc_%"):
 
 def plot_feature_heatmap(features):
     z = (features - features.mean()) / features.std().replace(0, 1)
-    fig, ax = plt.subplots(figsize=(11, 0.5 * len(features) + 2))
-    im = ax.imshow(z.to_numpy(float), cmap="RdBu_r", vmin=-2.5, vmax=2.5, aspect="auto")
-    ax.set_xticks(range(len(z.columns)), z.columns, rotation=45, ha="right")
+    fig, ax = plt.subplots(figsize=(12, 0.5 * len(features) + 3))
+    cmap = matplotlib.colors.LinearSegmentedColormap.from_list("gfe", ["#0053D6", "#F7F9FC", "#FF7D45"])
+    im = ax.imshow(z.to_numpy(float), cmap=cmap, vmin=-2.5, vmax=2.5, aspect="auto")
+    ax.set_xticks(range(len(z.columns)), [FEATURES[c][0] for c in z.columns], rotation=40, ha="right")
     ax.set_yticks(range(len(z.index)), z.index)
     for i in range(len(features.index)):  # print the real value, color shows the z-score
         for j in range(len(features.columns)):
-            ax.text(j, i, f"{features.iat[i, j]:.3g}", ha="center", va="center", fontsize=7)
+            v = features.iat[i, j]
+            ax.text(j, i, f"{v:,.0f}" if abs(v) >= 100 or float(v).is_integer() else f"{v:.3g}",
+                    ha="center", va="center", fontsize=7)
     fig.colorbar(im, ax=ax, label="z-score across genes")
     ax.set_title("Gene features (color = how unusual vs the other genes)")
     fig.tight_layout()
@@ -136,8 +164,8 @@ def plot_windows(windows, column="gc_%"):
     fig, ax = plt.subplots(figsize=(8, 4))
     ax.boxplot([windows.loc[windows.gene == g, column].dropna() for g in order], tick_labels=order)
     stat, p = kruskal_by_gene(windows, column)
-    ax.set_ylabel(column)
-    ax.set_title(f"{column} in 1 kb windows  (Kruskal-Wallis H={stat:.1f}, p={p:.2g}, exploratory)")
+    ax.set_ylabel(WINDOW_METRICS[column])
+    ax.set_title(f"{WINDOW_METRICS[column]} in 1 kb windows  (Kruskal-Wallis H={stat:.1f}, p={p:.2g}, exploratory)")
     fig.tight_layout()
     return fig
 

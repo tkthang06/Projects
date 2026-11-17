@@ -1,0 +1,355 @@
+LOCUS       NM_004994               2336 bp    mRNA    linear   PRI 04-JUN-2026
+DEFINITION  Homo sapiens matrix metallopeptidase 9 (MMP9), mRNA.
+ACCESSION   NM_004994
+VERSION     NM_004994.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2336)
+  AUTHORS   Khan,S., Khan,N.U., Khan,Y., Shehzad,I., Alanzi,A.R. and Chen,T.
+  TITLE     Preliminary investigation of MMP8 (rs11225395) and MMP9 (rs3787268)
+            polymorphisms association with breast cancer risk in pashtun women
+            of Pakistan
+  JOURNAL   Mol Biol Rep 51 (1), 1034 (2024)
+   PUBMED   39361067
+  REMARK    GeneRIF: Preliminary investigation of MMP8 (rs11225395) and MMP9
+            (rs3787268) polymorphisms association with breast cancer risk in
+            pashtun women of Pakistan.
+REFERENCE   2  (bases 1 to 2336)
+  AUTHORS   Riguetto,C.M., Barbosa,E.B., Atihe,C.C., Reis,F., Alves,M. and
+            Zantut-Wittmann,D.E.
+  TITLE     Interaction of MMP-9 in the active phase of Graves' disease with
+            and without ophthalmopathy
+  JOURNAL   Am J Physiol Endocrinol Metab 327 (4), E577-E584 (2024)
+   PUBMED   39259164
+  REMARK    GeneRIF: Interaction of MMP-9 in the active phase of Graves'
+            disease with and without ophthalmopathy.
+REFERENCE   3  (bases 1 to 2336)
+  AUTHORS   Xue,R., Fan,Z. and An,Y.
+  TITLE     Knockdown of PRDX2 Inhibits the Proliferation, Growth, Migration,
+            Invasion, and MMP9 Activity of Ewing's Sarcoma Cells Cultured In
+            Vitro
+  JOURNAL   Cancer Rep (Hoboken) 7 (9), e2122 (2024)
+   PUBMED   39234629
+  REMARK    GeneRIF: Knockdown of PRDX2 Inhibits the Proliferation, Growth,
+            Migration, Invasion, and MMP9 Activity of Ewing's Sarcoma Cells
+            Cultured In Vitro.
+REFERENCE   4  (bases 1 to 2336)
+  AUTHORS   Chiu,K.L., He,J.L., Chen,G.L., Shen,T.C., Chen,L.H., Chen,J.C.,
+            Tsai,C.W., Chang,W.S., Hsia,T.C. and Bau,D.T.
+  TITLE     Impacts of Matrix Metalloproteinase-9 Promoter Genotypes on Asthma
+            Risk
+  JOURNAL   In Vivo 38 (5), 2144-2151 (2024)
+   PUBMED   39187355
+  REMARK    GeneRIF: Impacts of Matrix Metalloproteinase-9 Promoter Genotypes
+            on Asthma Risk.
+REFERENCE   5  (bases 1 to 2336)
+  AUTHORS   Ishibashi,R., Itani,M., Kawashima,A., Arakawa,Y. and Aoki,T.
+  TITLE     JNK2-MMP-9 axis facilitates the progression of intracranial
+            aneurysms
+  JOURNAL   Sci Rep 14 (1), 19458 (2024)
+   PUBMED   39169203
+  REMARK    GeneRIF: JNK2-MMP-9 axis facilitates the progression of
+            intracranial aneurysms.
+            Erratum:[Sci Rep. 2025 Sep 18;15(1):32593. doi:
+            10.1038/s41598-025-17846-w. PMID: 40968147]
+REFERENCE   6  (bases 1 to 2336)
+  AUTHORS   Triebel,S., Blaser,J., Reinke,H. and Tschesche,H.
+  TITLE     A 25 kDa alpha 2-microglobulin-related protein is a component of
+            the 125 kDa form of human gelatinase
+  JOURNAL   FEBS Lett 314 (3), 386-388 (1992)
+   PUBMED   1281792
+REFERENCE   7  (bases 1 to 2336)
+  AUTHORS   Okada,Y., Gonoji,Y., Naka,K., Tomita,K., Nakanishi,I., Iwata,K.,
+            Yamashita,K. and Hayakawa,T.
+  TITLE     Matrix metalloproteinase 9 (92-kDa gelatinase/type IV collagenase)
+            from HT 1080 human fibrosarcoma cells. Purification and activation
+            of the precursor and enzymic properties
+  JOURNAL   J Biol Chem 267 (30), 21712-21719 (1992)
+   PUBMED   1400481
+REFERENCE   8  (bases 1 to 2336)
+  AUTHORS   Ogata,Y., Enghild,J.J. and Nagase,H.
+  TITLE     Matrix metalloproteinase 3 (stromelysin) activates the precursor
+            for the human matrix metalloproteinase 9
+  JOURNAL   J Biol Chem 267 (6), 3581-3584 (1992)
+   PUBMED   1371271
+REFERENCE   9  (bases 1 to 2336)
+  AUTHORS   Tschesche,H., Knauper,V., Kramer,S., Michaelis,J., Oberhoff,R. and
+            Reinke,H.
+  TITLE     Latent collagenase and gelatinase from human neutrophils and their
+            activation
+  JOURNAL   Matrix Suppl 1, 245-255 (1992)
+   PUBMED   1480034
+REFERENCE   10 (bases 1 to 2336)
+  AUTHORS   Masure,S., Proost,P., Van Damme,J. and Opdenakker,G.
+  TITLE     Purification and identification of 91-kDa neutrophil gelatinase.
+            Release by the activating peptide interleukin-8
+  JOURNAL   Eur J Biochem 198 (2), 391-398 (1991)
+   PUBMED   1645657
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from J05070.1, CN288579.1,
+            AW468235.1 and BC006093.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_004994.2.
+            
+            Summary: Proteins of the matrix metalloproteinase (MMP) family are
+            involved in the breakdown of extracellular matrix in normal
+            physiological processes, such as embryonic development,
+            reproduction, and tissue remodeling, as well as in disease
+            processes, such as arthritis and metastasis. Most MMP's are
+            secreted as inactive proproteins which are activated when cleaved
+            by extracellular proteinases. The enzyme encoded by this gene
+            degrades type IV and V collagens. Studies in rhesus monkeys suggest
+            that the enzyme is involved in IL-8-induced mobilization of
+            hematopoietic progenitor cells from bone marrow, and murine studies
+            suggest a role in tumor-associated tissue remodeling. [provided by
+            RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: J05070.1, BC006093.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000372330.3/ ENSP00000361405.3
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-854               J05070.1           1-854
+            855-1406            CN288579.1         43-594
+            1407-1739           J05070.1           1407-1739
+            1740-1743           AW468235.1         612-615             c
+            1744-2161           J05070.1           1744-2161
+            2162-2336           BC006093.1         2148-2322
+FEATURES             Location/Qualifiers
+     source          1..2336
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="20"
+                     /map="20q13.12"
+     gene            1..2336
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="matrix metallopeptidase 9"
+                     /db_xref="GeneID:4318"
+                     /db_xref="HGNC:HGNC:7176"
+                     /db_xref="MIM:120361"
+     exon            1..157
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             20..2143
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /EC_number="3.4.24.35"
+                     /note="type V collagenase; matrix metalloproteinase 9
+                     (gelatinase B, 92kDa gelatinase, 92kDa type IV
+                     collagenase); macrophage gelatinase; matrix
+                     metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa
+                     type IV collagenase)"
+                     /codon_start=1
+                     /product="matrix metalloproteinase-9 preproprotein"
+                     /protein_id="NP_004985.2"
+                     /db_xref="CCDS:CCDS13390.1"
+                     /db_xref="GeneID:4318"
+                     /db_xref="HGNC:HGNC:7176"
+                     /db_xref="MIM:120361"
+                     /translation="MSLWQPLVLVLLVLGCCFAAPRQRQSTLVLFPGDLRTNLTDRQL
+                     AEEYLYRYGYTRVAEMRGESKSLGPALLLLQKQLSLPETGELDSATLKAMRTPRCGVP
+                     DLGRFQTFEGDLKWHHHNITYWIQNYSEDLPRAVIDDAFARAFALWSAVTPLTFTRVY
+                     SRDADIVIQFGVAEHGDGYPFDGKDGLLAHAFPPGPGIQGDAHFDDDELWSLGKGVVV
+                     PTRFGNADGAACHFPFIFEGRSYSACTTDGRSDGLPWCSTTANYDTDDRFGFCPSERL
+                     YTQDGNADGKPCQFPFIFQGQSYSACTTDGRSDGYRWCATTANYDRDKLFGFCPTRAD
+                     STVMGGNSAGELCVFPFTFLGKEYSTCTSEGRGDGRLWCATTSNFDSDKKWGFCPDQG
+                     YSLFLVAAHEFGHALGLDHSSVPEALMYPMYRFTEGPPLHKDDVNGIRHLYGPRPEPE
+                     PRPPTTTTPQPTAPPTVCPTGPPTVHPSERPTAGPTGPPSAGPTGPPTAGPSTATTVP
+                     LSPVDDACNVNIFDAIAEIGNQLYLFKDGKYWRFSEGRGSRPQGPFLIADKWPALPRK
+                     LDSVFEERLSKKLFFFSGRQVWVYTGASVLGPRRLDKLGLGADVAQVTGALRSGRGKM
+                     LLFSGRRLWRFDVKAQMVDPRSASEVDRMFPGVPLDTHDVFQYREKAYFCQDRFYWRV
+                     SSRSELNQVDQVGYVTYDILQCPED"
+     sig_peptide     20..76
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     proprotein      77..2140
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /product="matrix metalloproteinase-9 proprotein"
+     misc_feature    131..133
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P14780.3); glycosylation site"
+     misc_feature    194..199
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="Cleavage, by MMP3.
+                     /evidence=ECO:0000269|PubMed:1371271; propagated from
+                     UniProtKB/Swiss-Prot (P14780.3); cleavage site"
+     misc_feature    308..331
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14780.3);
+                     Region: Cysteine switch.
+                     /evidence=ECO:0000303|PubMed:12077439"
+     misc_feature    335..340
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="Cleavage, by MMP3.
+                     /evidence=ECO:0000269|PubMed:1371271; propagated from
+                     UniProtKB/Swiss-Prot (P14780.3); cleavage site"
+     mat_peptide     338..2140
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /product="82 kDa matrix metalloproteinase-9.
+                     /evidence=ECO:0000305|PubMed:1371271. /id=PRO_0000028756"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14780.3)"
+     misc_feature    377..379
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P14780.3); glycosylation site"
+     misc_feature    398..400
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P14780.3); glycosylation site"
+     misc_feature    1310..1543
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14780.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1571..1708
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14780.3);
+                     Region: Hemopexin 1"
+     misc_feature    1709..1843
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14780.3);
+                     Region: Hemopexin 2"
+     misc_feature    1847..1990
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14780.3);
+                     Region: Hemopexin 3"
+     misc_feature    1991..2131
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14780.3);
+                     Region: Hemopexin 4"
+     exon            158..390
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            391..539
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            540..668
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            669..842
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            843..1016
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1017..1193
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1194..1349
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1350..1629
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1630..1769
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1770..1920
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1921..2024
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2025..2336
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2311..2316
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="hexamer: AATAAA"
+     polyA_site      2336
+                     /gene="MMP9"
+                     /gene_synonym="CLG4B; GELB; MANDP2; MMP-9"
+                     /note="major polyA site"
+ORIGIN      
+        1 agacacctct gccctcacca tgagcctctg gcagcccctg gtcctggtgc tcctggtgct
+       61 gggctgctgc tttgctgccc ccagacagcg ccagtccacc cttgtgctct tccctggaga
+      121 cctgagaacc aatctcaccg acaggcagct ggcagaggaa tacctgtacc gctatggtta
+      181 cactcgggtg gcagagatgc gtggagagtc gaaatctctg gggcctgcgc tgctgcttct
+      241 ccagaagcaa ctgtccctgc ccgagaccgg tgagctggat agcgccacgc tgaaggccat
+      301 gcgaacccca cggtgcgggg tcccagacct gggcagattc caaacctttg agggcgacct
+      361 caagtggcac caccacaaca tcacctattg gatccaaaac tactcggaag acttgccgcg
+      421 ggcggtgatt gacgacgcct ttgcccgcgc cttcgcactg tggagcgcgg tgacgccgct
+      481 caccttcact cgcgtgtaca gccgggacgc agacatcgtc atccagtttg gtgtcgcgga
+      541 gcacggagac gggtatccct tcgacgggaa ggacgggctc ctggcacacg cctttcctcc
+      601 tggccccggc attcagggag acgcccattt cgacgatgac gagttgtggt ccctgggcaa
+      661 gggcgtcgtg gttccaactc ggtttggaaa cgcagatggc gcggcctgcc acttcccctt
+      721 catcttcgag ggccgctcct actctgcctg caccaccgac ggtcgctccg acggcttgcc
+      781 ctggtgcagt accacggcca actacgacac cgacgaccgg tttggcttct gccccagcga
+      841 gagactctac acccaggacg gcaatgctga tgggaaaccc tgccagtttc cattcatctt
+      901 ccaaggccaa tcctactccg cctgcaccac ggacggtcgc tccgacggct accgctggtg
+      961 cgccaccacc gccaactacg accgggacaa gctcttcggc ttctgcccga cccgagctga
+     1021 ctcgacggtg atggggggca actcggcggg ggagctgtgc gtcttcccct tcactttcct
+     1081 gggtaaggag tactcgacct gtaccagcga gggccgcgga gatgggcgcc tctggtgcgc
+     1141 taccacctcg aactttgaca gcgacaagaa gtggggcttc tgcccggacc aaggatacag
+     1201 tttgttcctc gtggcggcgc atgagttcgg ccacgcgctg ggcttagatc attcctcagt
+     1261 gccggaggcg ctcatgtacc ctatgtaccg cttcactgag gggcccccct tgcataagga
+     1321 cgacgtgaat ggcatccggc acctctatgg tcctcgccct gaacctgagc cacggcctcc
+     1381 aaccaccacc acaccgcagc ccacggctcc cccgacggtc tgccccaccg gaccccccac
+     1441 tgtccacccc tcagagcgcc ccacagctgg ccccacaggt cccccctcag ctggccccac
+     1501 aggtcccccc actgctggcc cttctacggc cactactgtg cctttgagtc cggtggacga
+     1561 tgcctgcaac gtgaacatct tcgacgccat cgcggagatt gggaaccagc tgtatttgtt
+     1621 caaggatggg aagtactggc gattctctga gggcaggggg agccggccgc agggcccctt
+     1681 ccttatcgcc gacaagtggc ccgcgctgcc ccgcaagctg gactcggtct ttgaggagcg
+     1741 gctctccaag aagcttttct tcttctctgg gcgccaggtg tgggtgtaca caggcgcgtc
+     1801 ggtgctgggc ccgaggcgtc tggacaagct gggcctggga gccgacgtgg cccaggtgac
+     1861 cggggccctc cggagtggca gggggaagat gctgctgttc agcgggcggc gcctctggag
+     1921 gttcgacgtg aaggcgcaga tggtggatcc ccggagcgcc agcgaggtgg accggatgtt
+     1981 ccccggggtg cctttggaca cgcacgacgt cttccagtac cgagagaaag cctatttctg
+     2041 ccaggaccgc ttctactggc gcgtgagttc ccggagtgag ttgaaccagg tggaccaagt
+     2101 gggctacgtg acctatgaca tcctgcagtg ccctgaggac tagggctccc gtcctgcttt
+     2161 ggcagtgcca tgtaaatccc cactgggacc aaccctgggg aaggagccag tttgccggat
+     2221 acaaactggt attctgttct ggaggaaagg gaggagtgga ggtgggctgg gccctctctt
+     2281 ctcacctttg ttttttgttg gagtgtttct aataaacttg gattctctaa ccttta
+//
+

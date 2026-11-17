@@ -1,0 +1,350 @@
+LOCUS       NM_002421               1971 bp    mRNA    linear   PRI 04-JUN-2026
+DEFINITION  Homo sapiens matrix metallopeptidase 1 (MMP1), transcript variant
+            1, mRNA.
+ACCESSION   NM_002421
+VERSION     NM_002421.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1971)
+  AUTHORS   Zhang,S., Cheng,L., Su,Y., Qian,Z., Wang,Z., Chen,C., Li,R.,
+            Zhang,A., He,J., Mao,J., Wang,H. and Chen,J.
+  TITLE     AGBL4 promotes malignant progression of glioblastoma via modulation
+            of MMP-1 and inflammatory pathways
+  JOURNAL   Front Immunol 15, 1420182 (2024)
+   PUBMED   39007144
+  REMARK    GeneRIF: AGBL4 promotes malignant progression of glioblastoma via
+            modulation of MMP-1 and inflammatory pathways.
+REFERENCE   2  (bases 1 to 1971)
+  AUTHORS   Mastalier Manolescu,B.S., Lazar,A.M., Tiplica,G.S., Zurac,S.A.,
+            Rebosapca,A., Andreescu,B. and Popp,C.G.
+  TITLE     MMP1, MMP9, MMP11 and MMP13 in melanoma and its metastasis - key
+            points in understanding the mechanisms and celerity of tumor
+            dissemination
+  JOURNAL   Rom J Morphol Embryol 65 (1), 45-52 (2024)
+   PUBMED   38527983
+  REMARK    GeneRIF: MMP1, MMP9, MMP11 and MMP13 in melanoma and its metastasis
+            - key points in understanding the mechanisms and celerity of tumor
+            dissemination.
+REFERENCE   3  (bases 1 to 1971)
+  AUTHORS   Xi,C., Song,Z., Cui,Q., Zhao,Y., Li,K. and Kang,H.
+  TITLE     Elevated MMP1 Expression in Carcinoma-Associated Fibroblasts of
+            Breast Cancer Contributes to Tumor Progression and Unfavorable
+            Prognosis
+  JOURNAL   Ann Clin Lab Sci 54 (1), 66-75 (2024)
+   PUBMED   38514057
+  REMARK    GeneRIF: Elevated MMP1 Expression in Carcinoma-Associated
+            Fibroblasts of Breast Cancer Contributes to Tumor Progression and
+            Unfavorable Prognosis.
+REFERENCE   4  (bases 1 to 1971)
+  AUTHORS   Chen,L.H., Li,C.H., Wang,S.C., Chiu,K.L., Wu,M.F., Yang,J.S.,
+            Tsai,C.W., Chang,W.S., Hsia,T.C. and Bau,D.T.
+  TITLE     Association of Matrix Metalloproteinase-1 Promoter Polymorphisms
+            With Asthma Risk
+  JOURNAL   In Vivo 38 (1), 365-371 (2024)
+   PUBMED   38148093
+  REMARK    GeneRIF: Association of Matrix Metalloproteinase-1 Promoter
+            Polymorphisms With Asthma Risk.
+REFERENCE   5  (bases 1 to 1971)
+  AUTHORS   Rohani,M.G. and Parks,W.C.
+  TITLE     Matrix remodeling by MMPs during wound repair
+  JOURNAL   Matrix Biol 44-46, 113-121 (2015)
+   PUBMED   25770908
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 1971)
+  AUTHORS   Desrochers,P.E., Mookhtiar,K., Van Wart,H.E., Hasty,K.A. and
+            Weiss,S.J.
+  TITLE     Proteolytic inactivation of alpha 1-proteinase inhibitor and alpha
+            1-antichymotrypsin by oxidatively activated human neutrophil
+            metalloproteinases
+  JOURNAL   J Biol Chem 267 (7), 5005-5012 (1992)
+   PUBMED   1311327
+REFERENCE   7  (bases 1 to 1971)
+  AUTHORS   Desrochers,P.E., Jeffrey,J.J. and Weiss,S.J.
+  TITLE     Interstitial collagenase (matrix metalloproteinase-1) expresses
+            serpinase activity
+  JOURNAL   J Clin Invest 87 (6), 2258-2265 (1991)
+   PUBMED   1645757
+REFERENCE   8  (bases 1 to 1971)
+  AUTHORS   Springman,E.B., Angleton,E.L., Birkedal-Hansen,H. and Van Wart,H.E.
+  TITLE     Multiple modes of activation of latent human fibroblast
+            collagenase: evidence for the role of a Cys73 active-site zinc
+            complex in latency and a 'cysteine switch' mechanism for activation
+  JOURNAL   Proc Natl Acad Sci U S A 87 (1), 364-368 (1990)
+   PUBMED   2153297
+REFERENCE   9  (bases 1 to 1971)
+  AUTHORS   Clark,I.M. and Cawston,T.E.
+  TITLE     Fragments of human fibroblast collagenase. Purification and
+            characterization
+  JOURNAL   Biochem J 263 (1), 201-206 (1989)
+   PUBMED   2557822
+REFERENCE   10 (bases 1 to 1971)
+  AUTHORS   Brinckerhoff,C.E., Ruby,P.L., Austin,S.D., Fini,M.E. and White,H.D.
+  TITLE     Molecular cloning of human synovial cell collagenase and selection
+            of a single gene from genomic DNA
+  JOURNAL   J Clin Invest 79 (2), 542-546 (1987)
+   PUBMED   3027129
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DC385245.1, BC013875.2 and
+            AP000619.5.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 22, 2018 this sequence version replaced NM_002421.3.
+            
+            Summary: This gene encodes a member of the peptidase M10 family of
+            matrix metalloproteinases (MMPs). Proteins in this family are
+            involved in the breakdown of extracellular matrix in normal
+            physiological processes, such as embryonic development,
+            reproduction, and tissue remodeling, as well as in disease
+            processes, such as arthritis and metastasis. The encoded
+            preproprotein is proteolytically processed to generate the mature
+            protease. This secreted protease breaks down the interstitial
+            collagens, including types I, II, and III. The gene is part of a
+            cluster of MMP genes on chromosome 11. Mutations in this gene are
+            associated with chronic obstructive pulmonary disease (COPD).
+            Alternative splicing results in multiple transcript variants, at
+            least one of which encodes an isoform that is proteolytically
+            processed. [provided by RefSeq, Jan 2016].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X54925.1, AK024818.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000315274.7/ ENSP00000322788.6
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-26                DC385245.1         76-101
+            27-715              BC013875.2         1-689
+            716-716             AP000619.5         47113-47113         c
+            717-1540            BC013875.2         691-1514
+            1541-1541           AP000619.5         41877-41877         c
+            1542-1971           BC013875.2         1516-1945
+FEATURES             Location/Qualifiers
+     source          1..1971
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q22.2"
+     gene            1..1971
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="matrix metallopeptidase 1"
+                     /db_xref="GeneID:4312"
+                     /db_xref="HGNC:HGNC:7155"
+                     /db_xref="MIM:120353"
+     exon            1..173
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             69..1478
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /EC_number="3.4.24.7"
+                     /note="isoform 1 preproprotein is encoded by transcript
+                     variant 1; fibroblast collagenase; matrix metalloprotease
+                     1; matrix metallopeptidase 1 (interstitial collagenase)"
+                     /codon_start=1
+                     /product="interstitial collagenase isoform 1
+                     preproprotein"
+                     /protein_id="NP_002412.1"
+                     /db_xref="CCDS:CCDS8322.1"
+                     /db_xref="GeneID:4312"
+                     /db_xref="HGNC:HGNC:7155"
+                     /db_xref="MIM:120353"
+                     /translation="MHSFPPLLLLLFWGVVSHSFPATLETQEQDVDLVQKYLEKYYNL
+                     KNDGRQVEKRRNSGPVVEKLKQMQEFFGLKVTGKPDAETLKVMKQPRCGVPDVAQFVL
+                     TEGNPRWEQTHLTYRIENYTPDLPRADVDHAIEKAFQLWSNVTPLTFTKVSEGQADIM
+                     ISFVRGDHRDNSPFDGPGGNLAHAFQPGPGIGGDAHFDEDERWTNNFREYNLHRVAAH
+                     ELGHSLGLSHSTDIGALMYPSYTFSGDVQLAQDDIDGIQAIYGRSQNPVQPIGPQTPK
+                     ACDSKLTFDAITTIRGEVMFFKDRFYMRTNPFYPEVELNFISVFWPQLPNGLEAAYEF
+                     ADRDEVRFFKGNKYWAVQGQNVLHGYPKDIYSSFGFPRTVKHIDAALSEENTGKTYFF
+                     VANKYWRYDEYKRSMDPGYPKMIAHDFPGIGHKVDAVFMKDGFFYFFHGTRQYKFDPK
+                     TKRILTLQKANSWFNCRKN"
+     sig_peptide     69..131
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     misc_feature    237..239
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:25171405; propagated from
+                     UniProtKB/Swiss-Prot (P03956.3); phosphorylation site"
+     misc_feature    336..359
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03956.3);
+                     Region: Cysteine switch.
+                     /evidence=ECO:0000269|PubMed:15611040,
+                     ECO:0000269|PubMed:2153297"
+     misc_feature    360..896
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03956.3);
+                     Region: Metalloprotease"
+     mat_peptide     366..1475
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /product="Interstitial collagenase. /id=PRO_0000028704"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03956.3)"
+     mat_peptide     366..875
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /product="22 kDa interstitial collagenase.
+                     /id=PRO_0000028705"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03956.3)"
+     misc_feature    426..428
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:10092871. /id=CAR_000105;
+                     propagated from UniProtKB/Swiss-Prot (P03956.3);
+                     glycosylation site"
+     misc_feature    495..497
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="Not glycosylated.
+                     /evidence=ECO:0000269|PubMed:10092871; propagated from
+                     UniProtKB/Swiss-Prot (P03956.3); other site"
+     misc_feature    873..878
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="Cleavage, by autolysis.
+                     /evidence=ECO:0000269|PubMed:2557822; propagated from
+                     UniProtKB/Swiss-Prot (P03956.3); cleavage site"
+     mat_peptide     876..1475
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /product="27 kDa interstitial collagenase.
+                     /id=PRO_0000028706"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03956.3)"
+     misc_feature    888..890
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000269|PubMed:25171405; propagated from
+                     UniProtKB/Swiss-Prot (P03956.3); phosphorylation site"
+     misc_feature    891..1040
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03956.3);
+                     Region: Hemopexin 1"
+     misc_feature    1041..1181
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03956.3);
+                     Region: Hemopexin 2"
+     misc_feature    1146..1148
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="Phosphotyrosine, by PKDCC.
+                     /evidence=ECO:0000269|PubMed:25171405; propagated from
+                     UniProtKB/Swiss-Prot (P03956.3); phosphorylation site"
+     misc_feature    1188..1334
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03956.3);
+                     Region: Hemopexin 3"
+     misc_feature    1335..1466
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03956.3);
+                     Region: Hemopexin 4"
+     exon            174..418
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     exon            419..567
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     exon            568..693
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     exon            694..849
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     exon            850..967
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     exon            968..1101
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1102..1264
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1265..1368
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1369..1971
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1942..1947
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="hexamer: AATAAA"
+     polyA_site      1971
+                     /gene="MMP1"
+                     /gene_synonym="CLG"
+                     /note="major polyA site"
+ORIGIN      
+        1 atattggagc agcaagaggc tgggaagcca tcacttacct tgcactgaga aagaagacaa
+       61 aggccagtat gcacagcttt cctccactgc tgctgctgct gttctggggt gtggtgtctc
+      121 acagcttccc agcgactcta gaaacacaag agcaagatgt ggacttagtc cagaaatacc
+      181 tggaaaaata ctacaacctg aagaatgatg ggaggcaagt tgaaaagcgg agaaatagtg
+      241 gcccagtggt tgaaaaattg aagcaaatgc aggaattctt tgggctgaaa gtgactggga
+      301 aaccagatgc tgaaaccctg aaggtgatga agcagcccag atgtggagtg cctgatgtgg
+      361 ctcagtttgt cctcactgag gggaaccctc gctgggagca aacacatctg acctacagga
+      421 ttgaaaatta cacgccagat ttgccaagag cagatgtgga ccatgccatt gagaaagcct
+      481 tccaactctg gagtaatgtc acacctctga cattcaccaa ggtctctgag ggtcaagcag
+      541 acatcatgat atcttttgtc aggggagatc atcgggacaa ctctcctttt gatggacctg
+      601 gaggaaatct tgctcatgct tttcaaccag gcccaggtat tggaggggat gctcattttg
+      661 atgaagatga aaggtggacc aacaatttca gagagtacaa cttacatcgt gttgcagctc
+      721 atgaactcgg ccattctctt ggactctccc attctactga tatcggggct ttgatgtacc
+      781 ctagctacac cttcagtggt gatgttcagc tagctcagga tgacattgat ggcatccaag
+      841 ccatatatgg acgttcccaa aatcctgtcc agcccatcgg cccacaaacc ccaaaagcgt
+      901 gtgacagtaa gctaaccttt gatgctataa ctacgattcg gggagaagtg atgttcttta
+      961 aagacagatt ctacatgcgc acaaatccct tctacccgga agttgagctc aatttcattt
+     1021 ctgttttctg gccacaactg ccaaatgggc ttgaagctgc ttacgaattt gccgacagag
+     1081 atgaagtccg gtttttcaaa gggaataagt actgggctgt tcagggacag aatgtgctac
+     1141 acggataccc caaggacatc tacagctcct ttggcttccc tagaactgtg aagcatatcg
+     1201 atgctgctct ttctgaggaa aacactggaa aaacctactt ctttgttgct aacaaatact
+     1261 ggaggtatga tgaatataaa cgatctatgg atccaggtta tcccaaaatg atagcacatg
+     1321 actttcctgg aattggccac aaagttgatg cagttttcat gaaagatgga tttttctatt
+     1381 tctttcatgg aacaagacaa tacaaatttg atcctaaaac gaagagaatt ttgactctcc
+     1441 agaaagctaa tagctggttc aactgcagga aaaattgaac attactaatt tgaatggaaa
+     1501 acacatggtg tgagtccaaa gaaggtgttt tcctgaagaa ctgtctattt tctcagtcat
+     1561 ttttaacctc tagagtcact gatacacaga atataatctt atttatacct cagtttgcat
+     1621 atttttttac tatttagaat gtagcccttt ttgtactgat ataatttagt tccacaaatg
+     1681 gtgggtacaa aaagtcaagt ttgtggctta tggattcata taggccagag ttgcaaagat
+     1741 cttttccaga gtatgcaact ctgacgttga tcccagagag cagcttcagt gacaaacata
+     1801 tcctttcaag acagaaagag acaggagaca tgagtctttg ccggaggaaa agcagctcaa
+     1861 gaacacatgt gcagtcactg gtgtcaccct ggataggcaa gggataactc ttctaacaca
+     1921 aaataagtgt tttatgtttg gaataaagtc aaccttgttt ctactgtttt a
+//
+

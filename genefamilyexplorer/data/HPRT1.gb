@@ -1,0 +1,247 @@
+LOCUS       NM_000194               1395 bp    mRNA    linear   PRI 06-SEP-2026
+DEFINITION  Homo sapiens hypoxanthine phosphoribosyltransferase 1 (HPRT1),
+            mRNA.
+ACCESSION   NM_000194
+VERSION     NM_000194.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1395)
+  AUTHORS   Yin,J., Wang,X., Ge,X., Ding,F., Shi,Z., Ge,Z., Huang,G., Zhao,N.,
+            Chen,D., Zhang,J., Agnihotri,S., Cao,Y., Ji,J., Lin,F., Wang,Q.,
+            Zhou,Q., Wang,X., You,Y., Lu,Z. and Qian,X.
+  TITLE     Hypoxanthine phosphoribosyl transferase 1 metabolizes temozolomide
+            to activate AMPK for driving chemoresistance of glioblastomas
+  JOURNAL   Nat Commun 14 (1), 5913 (2023)
+   PUBMED   37737247
+  REMARK    GeneRIF: Hypoxanthine phosphoribosyl transferase 1 metabolizes
+            temozolomide to activate AMPK for driving chemoresistance of
+            glioblastomas.
+REFERENCE   2  (bases 1 to 1395)
+  AUTHORS   Akram,Z., Mahjabeen,I., Umair,M., Fahim,M., Kayani,M.A., Fatima,L.,
+            Ahmad,M.W., Jahan,S., Afsar,T., Almajwal,A., Alruwaili,N.W.,
+            Khawar,I.A. and Razak,S.
+  TITLE     Expression variation of OGG1 and HPRT gene and DNA damage in
+            arsenic exposed industrial workers
+  JOURNAL   PLoS One 17 (9), e0273211 (2022)
+   PUBMED   36178927
+  REMARK    GeneRIF: Expression variation of OGG1 and HPRT gene and DNA damage
+            in arsenic exposed industrial workers.
+REFERENCE   3  (bases 1 to 1395)
+  AUTHORS   Pinho,S.A., Costa,C.F., Deus,C.M., Pinho,S.L.C., Miranda-Santos,I.,
+            Afonso,G., Bagshaw,O., Stuart,J.A., Oliveira,P.J. and
+            Cunha-Oliveira,T.
+  TITLE     Mitochondrial and metabolic remodelling in human skin fibroblasts
+            in response to glucose availability
+  JOURNAL   FEBS J 289 (17), 5198-5217 (2022)
+   PUBMED   35213938
+REFERENCE   4  (bases 1 to 1395)
+  AUTHORS   Ueda,S., Hirata,T. and Sakasegawa,S.I.
+  TITLE     Hypoxanthine-guanine phosphoribosyltransferase is activated via
+            positive cooperativity between guanine and IMP
+  JOURNAL   FEBS Lett 596 (8), 1072-1080 (2022)
+   PUBMED   35114018
+  REMARK    GeneRIF: Hypoxanthine-guanine phosphoribosyltransferase is
+            activated via positive cooperativity between guanine and IMP.
+REFERENCE   5  (bases 1 to 1395)
+  AUTHORS   Lohmann,K., Lange,L., Klein,C. and Zech,M.
+  TITLE     Monogenic Isolated Dystonia Overview
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301334
+REFERENCE   6  (bases 1 to 1395)
+  AUTHORS   Jinnah,H.A.
+  TITLE     HPRT1 Disorders
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301328
+REFERENCE   7  (bases 1 to 1395)
+  AUTHORS   Sculley,D.G., Dawson,P.A., Emmerson,B.T. and Gordon,R.B.
+  TITLE     A review of the molecular basis of hypoxanthine-guanine
+            phosphoribosyltransferase (HPRT) deficiency
+  JOURNAL   Hum Genet 90 (3), 195-207 (1992)
+   PUBMED   1487231
+  REMARK    Review article
+REFERENCE   8  (bases 1 to 1395)
+  AUTHORS   Sege-Peterson,K., Chambers,J., Page,T., Jones,O.W. and Nyhan,W.L.
+  TITLE     Characterization of mutations in phenotypic variants of
+            hypoxanthine phosphoribosyltransferase deficiency
+  JOURNAL   Hum Mol Genet 1 (6), 427-432 (1992)
+   PUBMED   1301916
+REFERENCE   9  (bases 1 to 1395)
+  AUTHORS   Lightfoot,T., Joshi,R., Nuki,G. and Snyder,F.F.
+  TITLE     The point mutation of hypoxanthine-guanine
+            phosphoribosyltransferase (HPRTEdinburgh) and detection by
+            allele-specific polymerase chain reaction
+  JOURNAL   Hum Genet 88 (6), 695-696 (1992)
+   PUBMED   1551676
+REFERENCE   10 (bases 1 to 1395)
+  AUTHORS   Holden,J.A. and Kelley,W.N.
+  TITLE     Human hypoxanthine-guanine phosphoribosyltransferase. Evidence for
+            tetrameric structure
+  JOURNAL   J Biol Chem 253 (12), 4459-4463 (1978)
+   PUBMED   659426
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC004383.1, M31642.1 and
+            BC000578.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 22, 2018 this sequence version replaced NM_000194.2.
+            
+            Summary: The protein encoded by this gene is a transferase, which
+            catalyzes conversion of hypoxanthine to inosine monophosphate and
+            guanine to guanosine monophosphate via transfer of the
+            5-phosphoribosyl group from 5-phosphoribosyl 1-pyrophosphate. This
+            enzyme plays a central role in the generation of purine nucleotides
+            through the purine salvage pathway. Mutations in this gene result
+            in Lesch-Nyhan syndrome or gout.[provided by RefSeq, Jun 2009].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR3476690.174892.1,
+                                           SRR3476690.20350.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000298556.8/ ENSP00000298556.7
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-62                AC004383.1         44723-44784
+            63-1393             M31642.1           1-1331
+            1394-1395           BC000578.2         1286-1287
+FEATURES             Location/Qualifiers
+     source          1..1395
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xq26.2-q26.3"
+     gene            1..1395
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /note="hypoxanthine phosphoribosyltransferase 1"
+                     /db_xref="GeneID:3251"
+                     /db_xref="HGNC:HGNC:5157"
+                     /db_xref="MIM:308000"
+     exon            1..174
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             148..804
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /EC_number="2.4.2.8"
+                     /note="HGPRTase; hypoxanthine-guanine
+                     phosphoribosyltransferase 1; testicular tissue protein Li
+                     89; hypoxanthine guanine phosphoribosyl transferase"
+                     /codon_start=1
+                     /product="hypoxanthine-guanine phosphoribosyltransferase"
+                     /protein_id="NP_000185.1"
+                     /db_xref="CCDS:CCDS14641.1"
+                     /db_xref="GeneID:3251"
+                     /db_xref="HGNC:HGNC:5157"
+                     /db_xref="MIM:308000"
+                     /translation="MATRSPGVVISDDEPGYDLDLFCIPNHYAEDLERVFIPHGLIMD
+                     RTERLARDVMKEMGGHHIVALCVLKGGYKFFADLLDYIKALNRNSDRSIPMTVDFIRL
+                     KSYCNDQSTGDIKVIGGDDLSTLTGKNVLIVEDIIDTGKTMQTLLSLVRQYNPKMVKV
+                     ASLLVKRTPRSVGYKPDFVGFEIPDKFVVGYALDYNEYFRDLNHVCVISETGKAKYKA
+                     "
+     misc_feature    151..153
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /note="N-acetylalanine.
+                     /evidence=ECO:0000269|PubMed:7107641; propagated from
+                     UniProtKB/Swiss-Prot (P00492.2); acetylation site"
+     misc_feature    454..456
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P00493; propagated from
+                     UniProtKB/Swiss-Prot (P00492.2); acetylation site"
+     misc_feature    571..573
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P27605; propagated from
+                     UniProtKB/Swiss-Prot (P00492.2); phosphorylation site"
+     exon            175..281
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            282..465
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            466..531
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            532..549
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            550..632
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            633..679
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            680..756
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            757..1395
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1375..1380
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /note="hexamer: AATAAA"
+     polyA_site      1395
+                     /gene="HPRT1"
+                     /gene_synonym="HGPRT; HPRT"
+                     /note="major polyA site"
+ORIGIN      
+        1 agcttcaggc ggctgcgacg agccctcagg cgaacctctc ggctttcccg cgcggcgccg
+       61 cctcttgctg cgcctccgcc tcctcctctg ctccgccacc ggcttcctcc tcctgagcag
+      121 tcagcccgcg cgccggccgg ctccgttatg gcgacccgca gccctggcgt cgtgattagt
+      181 gatgatgaac caggttatga ccttgattta ttttgcatac ctaatcatta tgctgaggat
+      241 ttggaaaggg tgtttattcc tcatggacta attatggaca ggactgaacg tcttgctcga
+      301 gatgtgatga aggagatggg aggccatcac attgtagccc tctgtgtgct caaggggggc
+      361 tataaattct ttgctgacct gctggattac atcaaagcac tgaatagaaa tagtgataga
+      421 tccattccta tgactgtaga ttttatcaga ctgaagagct attgtaatga ccagtcaaca
+      481 ggggacataa aagtaattgg tggagatgat ctctcaactt taactggaaa gaatgtcttg
+      541 attgtggaag atataattga cactggcaaa acaatgcaga ctttgctttc cttggtcagg
+      601 cagtataatc caaagatggt caaggtcgca agcttgctgg tgaaaaggac cccacgaagt
+      661 gttggatata agccagactt tgttggattt gaaattccag acaagtttgt tgtaggatat
+      721 gcccttgact ataatgaata cttcagggat ttgaatcatg tttgtgtcat tagtgaaact
+      781 ggaaaagcaa aatacaaagc ctaagatgag agttcaagtt gagtttggaa acatctggag
+      841 tcctattgac atcgccagta aaattatcaa tgttctagtt ctgtggccat ctgcttagta
+      901 gagctttttg catgtatctt ctaagaattt tatctgtttt gtactttaga aatgtcagtt
+      961 gctgcattcc taaactgttt atttgcacta tgagcctata gactatcagt tccctttggg
+     1021 cggattgttg tttaacttgt aaatgaaaaa attctcttaa accacagcac tattgagtga
+     1081 aacattgaac tcatatctgt aagaaataaa gagaagatat attagttttt taattggtat
+     1141 tttaattttt atatatgcag gaaagaatag aagtgattga atattgttaa ttataccacc
+     1201 gtgtgttaga aaagtaagaa gcagtcaatt ttcacatcaa agacagcatc taagaagttt
+     1261 tgttctgtcc tggaattatt ttagtagtgt ttcagtaatg ttgactgtat tttccaactt
+     1321 gttcaaatta ttaccagtga atctttgtca gcagttccct tttaaatgca aatcaataaa
+     1381 ttcccaaaaa tttaa
+//
+
