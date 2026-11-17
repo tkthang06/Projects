@@ -1,0 +1,279 @@
+{
+  "cpi_ref_quarter": "2026 Q1",
+  "split": {
+    "train": "2012-2022 (2020 Q2-2021 Q4 removed)",
+    "validation": "2023",
+    "test": "2024 Q1 - 2026 Q1",
+    "n_train": 211972,
+    "n_val": 23902,
+    "n_test": 58035
+  },
+  "features": [
+    "nsmiles",
+    "log_passengers",
+    "large_ms",
+    "lf_ms",
+    "low_is_largest",
+    "prior_rel",
+    "carrier_lg",
+    "carrier_low",
+    "quarter",
+    "city_a",
+    "city_b",
+    "cluster"
+  ],
+  "best_params": {
+    "max_depth": 6,
+    "learning_rate": 0.15,
+    "min_child_weight": 10,
+    "subsample": 0.8,
+    "colsample_bytree": 0.7
+  },
+  "n_trees": 136,
+  "val_mae": 29.83535514655027,
+  "grid": [
+    {
+      "max_depth": 6,
+      "learning_rate": 0.15,
+      "min_child_weight": 10,
+      "subsample": 1.0,
+      "colsample_bytree": 1.0,
+      "n_trees": 110,
+      "val_mae": 30.050228732690623
+    },
+    {
+      "max_depth": 6,
+      "learning_rate": 0.15,
+      "min_child_weight": 1,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "n_trees": 104,
+      "val_mae": 29.85650783360156
+    },
+    {
+      "max_depth": 9,
+      "learning_rate": 0.15,
+      "min_child_weight": 10,
+      "subsample": 1.0,
+      "colsample_bytree": 1.0,
+      "n_trees": 41,
+      "val_mae": 31.01299950701171
+    },
+    {
+      "max_depth": 6,
+      "learning_rate": 0.3,
+      "min_child_weight": 1,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "n_trees": 90,
+      "val_mae": 30.346793081849867
+    },
+    {
+      "max_depth": 9,
+      "learning_rate": 0.3,
+      "min_child_weight": 10,
+      "subsample": 1.0,
+      "colsample_bytree": 1.0,
+      "n_trees": 19,
+      "val_mae": 31.37268591180197
+    },
+    {
+      "max_depth": 9,
+      "learning_rate": 0.3,
+      "min_child_weight": 1,
+      "subsample": 1.0,
+      "colsample_bytree": 1.0,
+      "n_trees": 20,
+      "val_mae": 31.497241547341446
+    },
+    {
+      "max_depth": 6,
+      "learning_rate": 0.15,
+      "min_child_weight": 10,
+      "subsample": 0.8,
+      "colsample_bytree": 0.7,
+      "n_trees": 136,
+      "val_mae": 29.83535514655027
+    },
+    {
+      "max_depth": 9,
+      "learning_rate": 0.3,
+      "min_child_weight": 10,
+      "subsample": 0.8,
+      "colsample_bytree": 1.0,
+      "n_trees": 18,
+      "val_mae": 31.556330258524927
+    }
+  ],
+  "test": {
+    "overall": {
+      "mae": 24.473218296432297,
+      "rmse": 32.72412414133491,
+      "mape": 0.08688756716565225,
+      "r2": 0.8250079118358546,
+      "bias": 4.802621483690671,
+      "n": 58035
+    },
+    "by_cluster": {
+      "Small Regional": {
+        "mae": 25.1180008253257,
+        "rmse": 36.770254954388335,
+        "mape": 0.12474538335365741,
+        "r2": 0.8569737479336238,
+        "bias": 1.7424961824291119,
+        "n": 8498
+      },
+      "Busy Hub-to-Hub": {
+        "mae": 19.19418004883107,
+        "rmse": 25.12685457495607,
+        "mape": 0.06672416607495366,
+        "r2": 0.8741952515198508,
+        "bias": -0.6817585774591305,
+        "n": 17240
+      },
+      "Cluster 2: low traffic": {
+        "mae": 27.121490812706533,
+        "rmse": 35.09261312752383,
+        "mape": 0.08768953988256024,
+        "r2": 0.7041218734404144,
+        "bias": 8.535341459674303,
+        "n": 32297
+      }
+    },
+    "sampling_change": {
+      "before_2025Q3": {
+        "mae": 24.708448243126245,
+        "rmse": 32.86062307552015,
+        "mape": 0.08524702453933766,
+        "r2": 0.8328089683586435,
+        "bias": 6.440304820138424,
+        "n": 38092
+      },
+      "from_2025Q3": {
+        "mae": 24.02391883649819,
+        "rmse": 32.46181012239325,
+        "mape": 0.090021075149485,
+        "r2": 0.8044811166869723,
+        "bias": 1.6745748682382444,
+        "n": 19943
+      }
+    }
+  },
+  "baselines": {
+    "same_quarter_last_year": {
+      "coverage": 0.9181356078228655,
+      "baseline": {
+        "mae": 28.95268842607724,
+        "rmse": 39.736451489610864,
+        "mape": 0.09999459279526432,
+        "r2": 0.7358347887156573,
+        "bias": 13.76878184083559,
+        "n": 53284
+      },
+      "model_same_rows": {
+        "mae": 23.118871893401895,
+        "rmse": 30.42699088682412,
+        "mape": 0.08006858712593584,
+        "r2": 0.8451128212230443,
+        "bias": 3.7946394347457626,
+        "n": 53284
+      }
+    },
+    "xgboost_no_cluster": {
+      "mae": 24.69708128041116,
+      "rmse": 32.975705487636446,
+      "mape": 0.0877178122536745,
+      "r2": 0.8223069090585262,
+      "bias": 5.114462572647016,
+      "n": 58035,
+      "n_trees": 102,
+      "val_mae": 30.11238372874444
+    }
+  },
+  "cluster_verdict": "Model 1 improves results: adding the cluster feature lowers test MAE by $0.22 (0.9%), from $24.70 to $24.47.",
+  "feature_importance_gain": {
+    "nsmiles": 8.71707820892334,
+    "log_passengers": 1.837914228439331,
+    "large_ms": 1.768886685371399,
+    "lf_ms": 3.0449976921081543,
+    "low_is_largest": 0.2589806020259857,
+    "prior_rel": 32.96131896972656,
+    "carrier_lg": 18.286296844482422,
+    "carrier_low": 5.443587303161621,
+    "quarter": 0.2951452136039734,
+    "city_a": 1.230723261833191,
+    "city_b": 1.6833970546722412,
+    "cluster": 2.682314157485962
+  },
+  "clusters": {
+    "k": 3,
+    "inertia": {
+      "3": 24107.318935621617,
+      "4": 19977.81179996119,
+      "5": 16957.267077596618,
+      "6": 15667.204001214643,
+      "7": 14591.192170597258,
+      "8": 13760.758723218996
+    },
+    "silhouette": {
+      "3": 0.28977910715624006,
+      "4": 0.28342824496690117,
+      "5": 0.2874053596829903,
+      "6": 0.2228357010679857,
+      "7": 0.22367990045294653,
+      "8": 0.22995597624819544
+    },
+    "names": {
+      "0": "Small Regional",
+      "1": "Busy Hub-to-Hub",
+      "2": "Cluster 2: low traffic"
+    },
+    "centroids": [
+      {
+        "cluster": 0,
+        "name": "Small Regional",
+        "routes": 1645,
+        "miles": 739.0,
+        "passengers_per_day": 26.6,
+        "largest_carrier_share": 0.922,
+        "low_fare_carrier_share": 0.835,
+        "q3_q1_passenger_ratio": 1.117,
+        "z_nsmiles": -0.55,
+        "z_log_passengers": -0.19,
+        "z_large_ms": 1.54,
+        "z_lf_ms": 1.64,
+        "z_seasonality": -0.18
+      },
+      {
+        "cluster": 1,
+        "name": "Busy Hub-to-Hub",
+        "routes": 1923,
+        "miles": 1240.0,
+        "passengers_per_day": 179.3,
+        "largest_carrier_share": 0.509,
+        "low_fare_carrier_share": 0.304,
+        "q3_q1_passenger_ratio": 1.45,
+        "z_nsmiles": 0.31,
+        "z_log_passengers": 1.3,
+        "z_large_ms": -0.71,
+        "z_lf_ms": -0.68,
+        "z_seasonality": 0.72
+      },
+      {
+        "cluster": 2,
+        "name": "Cluster 2: low traffic",
+        "routes": 4700,
+        "miles": 1098.0,
+        "passengers_per_day": 18.5,
+        "largest_carrier_share": 0.595,
+        "low_fare_carrier_share": 0.39,
+        "q3_q1_passenger_ratio": 1.1,
+        "z_nsmiles": 0.07,
+        "z_log_passengers": -0.46,
+        "z_large_ms": -0.25,
+        "z_lf_ms": -0.3,
+        "z_seasonality": -0.23
+      }
+    ]
+  }
+}

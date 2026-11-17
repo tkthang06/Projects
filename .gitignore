@@ -3,5 +3,6 @@
 !/.gitignore
 !/README.md
 !/genefamilyexplorer/
+!/farescope/
 
 __pycache__/
