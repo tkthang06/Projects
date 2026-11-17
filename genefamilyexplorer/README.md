@@ -1,5 +1,7 @@
 # Gene Family Explorer
 
+**Live app: [genefamilytkthang.streamlit.app](https://genefamilytkthang.streamlit.app/)**
+
 A Streamlit app that pulls human genes from NCBI, finds their open reading frames (ORFs) and CpG islands, and compares the genes side by side. The default set is the ADAMTS family of extracellular proteases (ADAMTS1, 4, 5, 8, 9, 15), with GAPDH as an unrelated outgroup. Any human gene symbol works.
 
 ![Single gene view](figures/app_single_gene.jpg)
