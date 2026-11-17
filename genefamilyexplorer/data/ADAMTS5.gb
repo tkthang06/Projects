@@ -1,0 +1,509 @@
+LOCUS       NM_007038               9621 bp    mRNA    linear   PRI 16-JUN-2026
+DEFINITION  Homo sapiens ADAM metallopeptidase with thrombospondin type 1 motif
+            5 (ADAMTS5), mRNA.
+ACCESSION   NM_007038
+VERSION     NM_007038.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 9621)
+  AUTHORS   Gao,S., Jia,M., Wang,J., Sun,Q., Liu,F., Yu,L., Guo,Y., Li,N. and
+            Wei,L.
+  TITLE     Association of ADAMTS-5 gene polymorphisms with the susceptibility
+            to knee osteoarthritis in a Chinese Han population
+  JOURNAL   J Orthop Surg Res 19 (1), 513 (2024)
+   PUBMED   39192347
+  REMARK    GeneRIF: Association of ADAMTS-5 gene polymorphisms with the
+            susceptibility to knee osteoarthritis in a Chinese Han population.
+REFERENCE   2  (bases 1 to 9621)
+  AUTHORS   Hao,X. and Wu,X.
+  TITLE     SP1-mediated ADAMTS5 transcription promotes IL-1beta-induced
+            chondrocyte injury via Wnt/beta-catenin pathway in osteoarthritis
+  JOURNAL   Mol Med Rep 30 (2) (2024)
+   PUBMED   38940327
+  REMARK    GeneRIF: SP1-mediated ADAMTS5 transcription promotes
+            IL-1beta-induced chondrocyte injury via Wnt/beta-catenin pathway in
+            osteoarthritis.
+REFERENCE   3  (bases 1 to 9621)
+  AUTHORS   Chen,Z., Du,F., Zhang,R., Wu,Q., Lu,Z., Zhang,R.L. and Wang,Q.
+  TITLE     ADAMTS5 Promotes Permeability of the Blood-Brain Barrier during
+            Treponema pallidum Subspecies pallidum Invading the Central Nervous
+            System
+  JOURNAL   ACS Infect Dis 10 (4), 1222-1231 (2024)
+   PUBMED   38536197
+  REMARK    GeneRIF: ADAMTS5 Promotes Permeability of the Blood-Brain Barrier
+            during Treponema pallidum Subspecies pallidum Invading the Central
+            Nervous System.
+REFERENCE   4  (bases 1 to 9621)
+  AUTHORS   Su,J.Q., Lai,P.Y., Hu,P.H., Hu,J.M., Chang,P.K., Chen,C.Y.,
+            Wu,J.J., Lin,Y.J., Sun,C.A., Yang,T., Hsu,C.H., Lin,H.C. and
+            Chou,Y.C.
+  TITLE     Differential DNA methylation analysis of SUMF2, ADAMTS5, and PXDN
+            provides novel insights into colorectal cancer prognosis prediction
+            in Taiwan
+  JOURNAL   World J Gastroenterol 28 (8), 825-839 (2022)
+   PUBMED   35317099
+  REMARK    GeneRIF: Differential DNA methylation analysis of SUMF2, ADAMTS5,
+            and PXDN provides novel insights into colorectal cancer prognosis
+            prediction in Taiwan.
+REFERENCE   5  (bases 1 to 9621)
+  AUTHORS   He,S., Li,J., Ma,D., Liu,Z. and Lv,N.
+  TITLE     MicroRNA-148a targets ADAMTS5 to inhibit proliferation of
+            endometriosis cells
+  JOURNAL   Pak J Pharm Sci 35 (1(Special)), 335-341 (2022)
+   PUBMED   35236644
+  REMARK    GeneRIF: MicroRNA-148a targets ADAMTS5 to inhibit proliferation of
+            endometriosis cells.
+REFERENCE   6  (bases 1 to 9621)
+  AUTHORS   Tang,B.L.
+  TITLE     ADAMTS: a novel family of extracellular matrix proteases
+  JOURNAL   Int J Biochem Cell Biol 33 (1), 33-44 (2001)
+   PUBMED   11167130
+  REMARK    Review article
+REFERENCE   7  (bases 1 to 9621)
+  AUTHORS   Mercuri,F.A., Maciewicz,R.A., Tart,J., Last,K. and Fosang,A.J.
+  TITLE     Mutations in the interglobular domain of aggrecan alter matrix
+            metalloproteinase and aggrecanase cleavage patterns. Evidence that
+            matrix metalloproteinase cleavage interferes with aggrecanase
+            activity
+  JOURNAL   J Biol Chem 275 (42), 33038-33045 (2000)
+   PUBMED   11032846
+REFERENCE   8  (bases 1 to 9621)
+  AUTHORS   Hurskainen,T.L., Hirohata,S., Seldin,M.F. and Apte,S.S.
+  TITLE     ADAM-TS5, ADAM-TS6, and ADAM-TS7, novel members of a new family of
+            zinc metalloproteases. General features and genomic distribution of
+            the ADAM-TS family
+  JOURNAL   J Biol Chem 274 (36), 25555-25563 (1999)
+   PUBMED   10464288
+REFERENCE   9  (bases 1 to 9621)
+  AUTHORS   Abbaszade,I., Liu,R.Q., Yang,F., Rosenfeld,S.A., Ross,O.H.,
+            Link,J.R., Ellis,D.M., Tortorella,M.D., Pratta,M.A., Hollis,J.M.,
+            Wynn,R., Duke,J.L., George,H.J., Hillman,M.C. Jr., Murphy,K.,
+            Wiswall,B.H., Copeland,R.A., Decicco,C.P., Bruckner,R., Nagase,H.,
+            Itoh,Y., Newton,R.C., Magolda,R.L., Trzaskos,J.M., Burn,T.C. et al.
+  TITLE     Cloning and characterization of ADAMTS11, an aggrecanase from the
+            ADAMTS family
+  JOURNAL   J Biol Chem 274 (33), 23443-23450 (1999)
+   PUBMED   10438522
+REFERENCE   10 (bases 1 to 9621)
+  AUTHORS   Fosang,A.J., Last,K., Fujii,Y., Seiki,M. and Okada,Y.
+  TITLE     Membrane-type 1 MMP (MMP-14) cleaves at three sites in the aggrecan
+            interglobular domain
+  JOURNAL   FEBS Lett 430 (3), 186-190 (1998)
+   PUBMED   9688535
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK094057.1, AP001601.1,
+            AF142099.1, AP001600.1 and CA313018.1.
+            
+            On Nov 22, 2018 this sequence version replaced NM_007038.4.
+            
+            Summary: This gene encodes a member of the ADAMTS (a disintegrin
+            and metalloproteinase with thrombospondin motifs) protein family.
+            Members of the family share several distinct protein modules,
+            including a propeptide region, a metalloproteinase domain, a
+            disintegrin-like domain, and a thrombospondin type 1 (TS) motif.
+            Individual members of this family differ in the number of
+            C-terminal TS motifs, and some have unique C-terminal domains. The
+            encoded preproprotein is proteolytically processed to generate the
+            mature enzyme. This enzyme contains two C-terminal TS motifs and
+            functions as an aggrecanase that cleaves aggrecan, a major
+            proteoglycan of cartilage, and may mediate cartilage destruction in
+            osteoarthritis. [provided by RefSeq, Feb 2016].
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF142099.1, SRR14038195.1319587.1
+                                           [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000284987.6/ ENSP00000284987.5
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-431               AK094057.1         33-463
+            432-1110            AP001601.1         30235-30913         c
+            1111-2771           AF142099.1         536-2196
+            2772-2772           AP001600.1         79167-79167         c
+            2773-3537           AF142099.1         2198-2962
+            3538-9157           AP001600.1         67517-73136         c
+            9158-9621           CA313018.1         28-491              c
+FEATURES             Location/Qualifiers
+     source          1..9621
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="21"
+                     /map="21q21.3"
+     gene            1..9621
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="ADAM metallopeptidase with thrombospondin type 1
+                     motif 5"
+                     /db_xref="GeneID:11096"
+                     /db_xref="HGNC:HGNC:221"
+                     /db_xref="MIM:605007"
+     exon            1..1801
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    656..658
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="upstream in-frame stop codon"
+     CDS             698..3490
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="aggrecanase-2; a disintegrin-like and
+                     metalloprotease (reprolysin type) with thrombospondin type
+                     1 motif, 5 (aggrecanase-2); a disintegrin and
+                     metalloproteinase with thrombospondin motifs 5; a
+                     disintegrin and metalloproteinase with thrombospondin
+                     motifs 11"
+                     /codon_start=1
+                     /product="A disintegrin and metalloproteinase with
+                     thrombospondin motifs 5 preproprotein"
+                     /protein_id="NP_008969.2"
+                     /db_xref="CCDS:CCDS13579.1"
+                     /db_xref="GeneID:11096"
+                     /db_xref="HGNC:HGNC:221"
+                     /db_xref="MIM:605007"
+                     /translation="MLLGWASLLLCAFRLPLAAVGPAATPAQDKAGQPPTAAAAAQPR
+                     RRQGEEVQERAEPPGHPHPLAQRRRSKGLVQNIDQLYSGGGKVGYLVYAGGRRFLLDL
+                     ERDGSVGIAGFVPAGGGTSAPWRHRSHCFYRGTVDGSPRSLAVFDLCGGLDGFFAVKH
+                     ARYTLKPLLRGPWAEEEKGRVYGDGSARILHVYTREGFSFEALPPRASCETPASTPEA
+                     HEHAPAHSNPSGRAALASQLLDQSALSPAGGSGPQTWWRRRRRSISRARQVELLLVAD
+                     ASMARLYGRGLQHYLLTLASIANRLYSHASIENHIRLAVVKVVVLGDKDKSLEVSKNA
+                     ATTLKNFCKWQHQHNQLGDDHEEHYDAAILFTREDLCGHHSCDTLGMADVGTICSPER
+                     SCAVIEDDGLHAAFTVAHEIGHLLGLSHDDSKFCEETFGSTEDKRLMSSILTSIDASK
+                     PWSKCTSATITEFLDDGHGNCLLDLPRKQILGPEELPGQTYDATQQCNLTFGPEYSVC
+                     PGMDVCARLWCAVVRQGQMVCLTKKLPAVEGTPCGKGRICLQGKCVDKTKKKYYSTSS
+                     HGNWGSWGSWGQCSRSCGGGVQFAYRHCNNPAPRNNGRYCTGKRAIYRSCSLMPCPPN
+                     GKSFRHEQCEAKNGYQSDAKGVKTFVEWVPKYAGVLPADVCKLTCRAKGTGYYVVFSP
+                     KVTDGTECRLYSNSVCVRGKCVRTGCDGIIGSKLQYDKCGVCGGDNSSCTKIVGTFNK
+                     KSKGYTDVVRIPEGATHIKVRQFKAKDQTRFTAYLALKKKNGEYLINGKYMISTSETI
+                     IDINGTVMNYSGWSHRDDFLHGMGYSATKEILIVQILATDPTKPLDVRYSFFVPKKST
+                     PKVNSVTSHGSNKVGSHTSQPQWVTGPWLACSRTCDTGWHTRTVQCQDGNRKLAKGCP
+                     LSQRPSAFKQCLLKKC"
+     sig_peptide     698..745
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="/evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UNA0.2)"
+     misc_feature    767..904
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UNA0.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1313..1390
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UNA0.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1316..1339
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UNA0.2);
+                     Region: Cysteine switch. /evidence=ECO:0000250"
+     misc_feature    1478..1480
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="Cleavage, by furin and PCSK7.
+                     /evidence=ECO:0000269|PubMed:18992360; propagated from
+                     UniProtKB/Swiss-Prot (Q9UNA0.2); cleavage site"
+     mat_peptide     1481..3487
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /product="A disintegrin and metalloproteinase with
+                     thrombospondin motifs 5. /id=PRO_0000029171"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UNA0.2)"
+     misc_feature    2189..2191
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:18042673; propagated from
+                     UniProtKB/Swiss-Prot (Q9UNA0.2); glycosylation site"
+     misc_feature    2405..2407
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="C-linked (Man) tryptophan.
+                     /evidence=ECO:0000269|PubMed:19671700; propagated from
+                     UniProtKB/Swiss-Prot (Q9UNA0.2); glycosylation site"
+     misc_feature    2414..2416
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="C-linked (Man) tryptophan.
+                     /evidence=ECO:0000269|PubMed:19671700; propagated from
+                     UniProtKB/Swiss-Prot (Q9UNA0.2); glycosylation site"
+     misc_feature    2441..2443
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="O-linked (Fuc...) serine.
+                     /evidence=ECO:0000269|PubMed:19671700; propagated from
+                     UniProtKB/Swiss-Prot (Q9UNA0.2); glycosylation site"
+     misc_feature    2879..2881
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UNA0.2); glycosylation site"
+     misc_feature    2891..3319
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UNA0.2);
+                     Region: Spacer"
+     misc_feature    3101..3103
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UNA0.2); glycosylation site"
+     misc_feature    3116..3118
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UNA0.2); glycosylation site"
+     exon            1802..1934
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1935..2102
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2103..2386
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2387..2570
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2571..2746
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2747..2922
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2923..9621
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      9600..9605
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="hexamer: AATAAA"
+     polyA_site      9621
+                     /gene="ADAMTS5"
+                     /gene_synonym="ADAM-TS 11; ADAM-TS 5; ADAM-TS5; ADAMTS-11;
+                     ADAMTS-5; ADAMTS11; ADMP-2"
+                     /note="major polyA site"
+ORIGIN      
+        1 acagcgctcg cgctgctctc ggcgctcgca gctgccgact ggggatgacg gcgggcagga
+       61 ggagaccgca gccgaaggga cacagacacg ccgcttcacc agctcgcctc aggctgcccc
+      121 cctgcatttt tgttttaatt tttacggctt tttcccctct ctttcttccc ttcctcctgg
+      181 tcccagcaga gccaaggaaa cccacaaaat aagaaaggaa gtgggccccg gagcttggaa
+      241 cctccacagc cggcttgtcc agcgcagcgc gggggcggga ggctgcgcgc accagttgcc
+      301 agcccggtgc gcggtacctt tccttacttt tcttgaaaca gcgatcgtgc ctgcatttgg
+      361 tggttttttg gtttttgttt ttttcctttt cccgtatttg ctgaatctcc actatccgac
+      421 tttttttttt taatcttttc tttccccccc cccccacccc acctctttct ggagcacgaa
+      481 tccaaacatt ttcccaagca acaaagaaaa gttcgcacgc tggcaccgca gcccggacag
+      541 gctggcgctg ctgccgggcc cccctccctc cgacacttga ctcaatcctg caagcaagtg
+      601 tgtgtgtgtc cccatccccc gccccgttaa cttcatagca aataacaaat acccataaag
+      661 tcccagtcgc gcagcccctc cccgcgggca gcgcactatg ctgctcgggt gggcgtccct
+      721 gctgctgtgc gcgttccgcc tgcccctggc cgcggtcggc cccgccgcga cacctgccca
+      781 ggataaagcc gggcagcctc cgactgctgc agcagccgcc cagccccgcc ggcggcaggg
+      841 ggaggaggtg caggagcgag ccgagcctcc cggccacccg caccccctgg cgcagcggcg
+      901 caggagcaag gggctggtgc agaacatcga ccaactctac tccggcggcg gcaaggtggg
+      961 ctacctcgtc tacgcgggcg gccggaggtt cctcttggac ctggagcgag atggttcggt
+     1021 gggcattgct ggcttcgtgc ccgcaggagg cgggacgagt gcgccctggc gccaccggag
+     1081 ccactgcttc tatcggggca cagtggacgg tagtccccgc tctctggctg tctttgacct
+     1141 ctgtgggggt ctcgacggct tcttcgcggt caagcacgcg cgctacaccc taaagccact
+     1201 gctgcgcgga ccctgggcgg aggaagaaaa ggggcgcgtg tacggggatg ggtccgcacg
+     1261 gatcctgcac gtctacaccc gcgagggctt cagcttcgag gccctgccgc cgcgcgccag
+     1321 ctgcgaaacc cccgcgtcca caccggaggc ccacgagcat gctccggcgc acagcaaccc
+     1381 gagcggacgc gcagcactgg cctcgcagct cttggaccag tccgctctct cgcccgctgg
+     1441 gggctcagga ccgcagacgt ggtggcggcg gcggcgccgc tccatctccc gggcccgcca
+     1501 ggtggagctg cttctggtgg ctgacgcgtc catggcgcgg ttgtatggcc ggggcctgca
+     1561 gcattacctg ctgaccctgg cctccatcgc caataggctg tacagccatg ctagcatcga
+     1621 gaaccacatc cgcctggccg tggtgaaggt ggtggtgcta ggcgacaagg acaagagcct
+     1681 ggaagtgagc aagaacgctg ccaccacact caagaacttt tgcaagtggc agcaccaaca
+     1741 caaccagctg ggagatgacc atgaggagca ctacgatgca gctatcctgt ttactcggga
+     1801 ggatttatgt gggcatcatt catgtgacac cctgggaatg gcagacgttg ggaccatatg
+     1861 ttctccagag cgcagctgtg ctgtgattga agacgatggc ctccacgcag ccttcactgt
+     1921 ggctcacgaa atcggacatt tacttggcct ctcccatgac gattccaaat tctgtgaaga
+     1981 gacctttggt tccacagaag ataagcgctt aatgtcttcc atccttacca gcattgatgc
+     2041 atctaagccc tggtccaaat gcacttcagc caccatcaca gaattcctgg atgatggcca
+     2101 tggtaactgt ttgctggacc taccacgaaa gcagatcctg ggccccgaag aactcccagg
+     2161 acagacctac gatgccaccc agcagtgcaa cctgacattc gggcctgagt actccgtgtg
+     2221 tcccggcatg gatgtctgtg ctcgcctgtg gtgtgctgtg gtacgccagg gccagatggt
+     2281 ctgtctgacc aagaagctgc ctgcggtgga agggacgcct tgtggaaagg ggagaatctg
+     2341 cctgcagggc aaatgtgtgg acaaaaccaa gaaaaaatat tattcaacgt caagccatgg
+     2401 caactgggga tcttggggat cctggggcca gtgttctcgc tcatgtggag gaggagtgca
+     2461 gtttgcctat cgtcactgta ataaccctgc tcccagaaac aacggacgct actgcacagg
+     2521 gaagagggcc atctaccgct cctgcagtct catgccctgc ccacccaatg gtaaatcatt
+     2581 tcgtcatgaa cagtgtgagg ccaaaaatgg ctatcagtct gatgcaaaag gagtcaaaac
+     2641 ttttgtggaa tgggttccca aatatgcagg tgtcctgcca gcggatgtgt gcaagctgac
+     2701 ctgcagagcc aagggcactg gctactatgt ggtattttct ccaaaggtga ccgatggcac
+     2761 tgaatgtagg ctgtacagta attccgtctg cgtccggggg aagtgtgtga gaactggctg
+     2821 tgacggcatc attggctcaa agctgcagta tgacaagtgc ggagtatgtg gaggagacaa
+     2881 ctccagctgt acaaagattg ttggaacctt taataagaaa agtaagggtt acactgacgt
+     2941 ggtgaggatt cctgaagggg caacccacat aaaagttcga cagttcaaag ccaaagacca
+     3001 gactagattc actgcctatt tagccctgaa aaagaaaaac ggtgagtacc ttatcaatgg
+     3061 aaagtacatg atctccactt cagagactat cattgacatc aatggaacag tcatgaacta
+     3121 tagcggttgg agccacaggg atgacttcct gcatggcatg ggctactctg ccacgaagga
+     3181 aattctaata gtgcagattc ttgcaacaga ccccactaaa ccattagatg tccgttatag
+     3241 cttttttgtt cccaagaagt ccactccaaa agtaaactct gtcactagtc atggcagcaa
+     3301 taaagtggga tcacacactt cgcagccgca gtgggtcacg ggcccatggc tcgcctgctc
+     3361 taggacctgt gacacaggtt ggcacaccag aacggtgcag tgccaggatg gaaaccggaa
+     3421 gttagcaaaa ggatgtcctc tctcccaaag gccttctgcg tttaagcaat gcttgttgaa
+     3481 gaaatgttag cctgtggtta tgatcttatg cacaaagata actggaggat tcagcactga
+     3541 tgcagtcgtg gtgaacagga ggtctaccta acgcacagaa agtcatgctt cagtgacatt
+     3601 gtcaacagga gtccaattat gggcagaatc tgctctctgt gaccaaaaga ggatgtgcac
+     3661 tgcttcacgt gacagtggtg accttgcaat atagaaaaac ttgggagtta ttgaacatcc
+     3721 cctgggctta caagaaacac tgatgaatgt aaaatcaggg gacatttgaa gatggcagaa
+     3781 ctgtctcccc cttgtcacct acctctgata gaatgtcttt aatggtatca taatcatttt
+     3841 cacccataat acacagtagc ttcttcttac tgtttgtaaa tacattctcc cttggtatgt
+     3901 cactttatat cccctggttc tattaaaata tccatatata tttctataaa aaaagtgttt
+     3961 gaccaaagta ggtctgcagc tatttcaact tccttccgtt tccagaaaga gctgtggata
+     4021 ttttactgga aattaagaac ttgctgctgt tttaataaga tgtagtatat tttctgacta
+     4081 caggagataa aatttcagtc aaaaaaccat tttgacagca agtatcttct gagaaatttt
+     4141 gaaaagtaaa tagatctcag tgtatctagt cacttaaata catacacggg ttcatttact
+     4201 taaacctttg actgcctgta tttttttcag gtagctagcc aaattaatgc ataatttcag
+     4261 atgtagaagt agggtttgcg tgtgtgtgtg tgatcatact caagagtcta aaaactagtt
+     4321 tccttgtgtt ggaaatttaa aaggaaaaaa atcgtatttc actgtgtttt caatttatat
+     4381 tttcacaact actttctctc tccagagctt tcatctgata tctcacaatg tatgatatac
+     4441 gtacaaaaca cacagcaagt tttctatcat gtccaacaca ttcaacactg gtatacctcc
+     4501 taccagcaag cctttaaaat gcatttgtgt ttgcttattt gttttgttca agggttcagt
+     4561 aagacctaca atgttttgta tttcttgact tattttatta gaaacattaa agatcacttg
+     4621 gtagttagcc acattgagaa gtggttatca ttgttaatgt ggttaatgcc aaaaagtggt
+     4681 taatattaat aagactgttt ccacaccata ggcaataatt tcttaattta aaaaatctaa
+     4741 gtatattcct attgtactaa atatttttcc caactggaaa gcacttgatt gtacccgtaa
+     4801 gtgtttgagt gatgacatgt gatgattttc agaaagttgt tgtttttgtt tccatagcct
+     4861 gtttaagtag gttgtaagtt tgaatagtta gacatggaaa ttattttata agcacacacc
+     4921 taaagatatc tttttagatg ataaaatgta caccccccca tcaccaacct cacaacttag
+     4981 aaaatctaag ttgtttgatt tctttgggat ttcttttgtt gtgaaacact gcaaagccaa
+     5041 tttttcttta taaaaattca tagtaatcct gccaaatgtg cctattgtta aagatttgca
+     5101 tgtgaagatc ttagggaacc actgtttgag ttctacaagc tcatgagagt ttatttttat
+     5161 tataagatgt ttttaatata aaagaattat gtaactgatc actatattac atcatttcag
+     5221 tgggccagga aaatagatgt cttgctgttt tcagtatttt cttaagaaat tgcttttaaa
+     5281 acaaataatt gttttacaaa accaataatt atcctttgaa ttttcataga ctgactttgc
+     5341 ttttgacgta gaaatttttt ttctcaataa attatcactt tgagaaatga ggcctgtaca
+     5401 aggctgataa cctatatgtg atggagatca cccaatgcca agggcagaaa gcaaacctag
+     5461 ttaaataggt gagaaaaaaa ataataatcc cagtgccatt tgtctgtgca aagagaatta
+     5521 ggagagaggt taatgttact tttttccatt ttggaaataa ttttaatcaa gtaactcaaa
+     5581 tgtgacaaaa tttattttta ttttttgtgg ttatattccc aacaacatta aaaaatactc
+     5641 gaggcataaa tgtagttgtc tcctactctg cttctcttac tatactcata catttttaat
+     5701 atggtttatc aatgattcat gtttccctca aatagtgatg gtttacacct gtcatggaaa
+     5761 caatcctaga gagctcagag caattaaacc actattccat gcttttaagt agttttctcc
+     5821 acctttttct tatgagtctc actagattga ctgaggaatg tatgtctaaa ttcctggaga
+     5881 agatgatatg gattggaaac tgaaattcag agaaatggag tgttcaatag ataccacgaa
+     5941 ttgtgaacaa agggaaaatt ctatacaact caatctaagt cagtccactt tgacttcgta
+     6001 ctgtctttca cctttccatt gttgcatctt gaatttttta aaatgtctag aattcaggat
+     6061 gctaggggct acttctttaa aaaaaaaaaa aaaaaagaat tcgtctgaaa atgctcaggt
+     6121 ttgtaagaat ctaatctcac ttacataact aagcactcca taataagttt tattaagtac
+     6181 aaagggagcc agaaaaaatg acatttattt cttctagatc agaaaaattt aaattaagcc
+     6241 ctgccttgct gtttagaaat atgtgggcat tgttataatt tattcaataa atttatgttc
+     6301 ctttgccttc ctgtggaaac agttttatcc cactaaacta ggaattaggg gataaatcac
+     6361 aaacaaaaaa aaagttgcag cactgaaaaa aagtaattta ttgtttttgc aactggtatg
+     6421 tgaatttgtg tgataaaatt atttattctt atttaacaaa aatatgttca aatttttcta
+     6481 tatttaaaat gttttgctgt tgtcctactt tttaatttat gcttcatgtt tgtgtataaa
+     6541 gtacactttt acactttgtg agtttacata atatacagca ctggttgctt ttgtattttt
+     6601 ttacagaaag ctttctgtgt gaagcaggtg tatatgtata tattcctcat gtattcttat
+     6661 tctgatacta tcatttttct ttccaaggaa attttaatct gtcatgacca atagtgttca
+     6721 ttacttgtgc ctatgataat aggtttttta catcacatta acactatttt ttccaagtca
+     6781 caaataagaa aaacacttat tcaatgaaac aaggtgcaag ttttaaattt gggtacacaa
+     6841 atagcctaga agcttcctac agacgctaag acacagccaa taatcagatc ctttcacttc
+     6901 atcgagaaac ttggacaagt cgatattgat gtattagatg aaagttgtct acacacaact
+     6961 tctgagggat acaaacgata ataaaaccaa atgttgtctg tttctccttt agaaacacct
+     7021 cctaaaatta atatcattta gtctctagtg tctgtaggat tctacagatg agcacaaata
+     7081 gattgggttt gtataacaaa tgctaatagt cataactgtt tctacaaata tggggtgtcc
+     7141 attaagagaa tgtgatgttt tcctactgct gttgaatccc atggggtgat tataggactt
+     7201 gaaataggca gagtcacctc tgatgacatc agcttgcctc tgtgatttca cagtctgatc
+     7261 ctggcaacaa gacaaagcac ccttggacac acagccaatc tctggttgtg atatttcccc
+     7321 attgattcct tccttgttaa caaggtcatt ttaatggttc aggtgaggac agcagccaga
+     7381 ttcaaagtcc agaatttgtg ctgttacata gagttcacac tgtcaaataa cattgaattt
+     7441 aataatgatc aaatttttct agtagtcttt ggcagagtgt ataatctcat tggcatgatt
+     7501 ggtgaatatt actaatctct ttataatgaa agatgcttta caaatacctt atatttgcta
+     7561 acatttcaaa actactaaat aaatgaaata gccatgtgta cagaaatggt catttaaagc
+     7621 tttaatagaa ccaaattcaa gacaatgtat catttagaca cacagaaaag gaacttgtat
+     7681 gttttcccta ttatttttct catttgccaa caatctatag ttttaggtta tcaaacagat
+     7741 agatcaactt aactggctag tacattgaaa aatcttccta agaatccttt gttagcataa
+     7801 tctatagaga taatttctca aattatatca tcatgatgca tataaactct ataatgtata
+     7861 attgtgtttc atttatttaa tgtatgagaa catattgaaa tacaaaacca tgcattagcc
+     7921 aaaaaattgg aatacaggta gtgttcagat cagcaaaaca ttcagtctgg taaatgcctg
+     7981 cctggggcta tgatatcatt ctcaatgcag gttttatgga aaaactaaaa gaatatgttg
+     8041 ttagatgatg ttggttttga aaaaaaaaag acattaacat acacattagt tagcccagtt
+     8101 aattgcattc tactaatata gttgcacatt agcaataatt ttgctgtctc tggtctttat
+     8161 tttgtggctt caactaactg gaccatgtgg actgtaaagg tcaaatggaa aaaacgagca
+     8221 gtggcccctc atcctgtaag gtactgctac atcagagtga cctaaaagtc taacactgtg
+     8281 aggaaaactg tgatttgtag gaaaaaaaaa aaaaacaaat aaaaaacagg gcatgctttt
+     8341 taattttttt ccactttcct ttggcacacc caatgaacaa ttctaatttt tattgaggtg
+     8401 ctaacatctt tcgtgaccga ctgtcaaatg tggtattttt gagttactat ttttctacat
+     8461 gattttacag tttgcaagaa agacctctaa gctttgtgtc acggtagggc acaacttgat
+     8521 actcaaaatt tgaaaaataa gcacatccaa tgattgtttt gaccaacagt ggtcagtgac
+     8581 gtaaactgca tgtgcatctg aggacattta aggggtcatt aaaatttgag gagcatcagg
+     8641 ccggagtagc agacttttag atgagtcata tttcagcatt cactaagtcc tcagcattcc
+     8701 attcaaactg tcgtgtatat ttggcctgat tttttttcaa gctttgcaat aatttatgtt
+     8761 attggtaaac acttggtgac tatatctcag ccttttcttt aacaactcac aatatattag
+     8821 aaacacgtct acctatactg agagtatatt tacaatagaa gaacatactg tatgtgactt
+     8881 tgtaaagcta gacttttgat taagaaatat ataatctctg gatgctattt ttgcattata
+     8941 cactcaggca caacgtaaac cttgatggct catcttgcta caattacgag ttgaaaaaca
+     9001 ctacttacgt atttgtatga cctattagtc agaggaaatc atacatatgc tttgtaaata
+     9061 gactttgcag ataactaaat agactgaaga aatatgttgc atttgataga agcaattgca
+     9121 taaatatttg gtttctatat tagagtctgt gagtaaagtc aagtaataaa cctaagtagg
+     9181 tataacagat ttttaaacct tgaaacttgc tttgatggta gagaaaatca ttgaagattt
+     9241 acatactgta tataagatgt aaaatgtacg ctgcttatta ccctcaattt tccagaagca
+     9301 atggtatata atgcagttga aaaaccaaaa atcttggaaa actaagacgg gtcttgttta
+     9361 aaatgtctct cagctttggc aaccttcaaa tcttaatcaa ctatttaaag cattactgtg
+     9421 tcttgtagcc tgcattccac aacagctctg ttattcaggt aaaagacttg aactgagccg
+     9481 tttgggacct atactgtaat attttcattg aggaacaata tcctattttg taaagcattt
+     9541 ccctatgtgt gactttaaac tgtaaaatta aacactgctt ttgtgggttc agtgggcata
+     9601 ataaatataa attgtaaact a
+//
+

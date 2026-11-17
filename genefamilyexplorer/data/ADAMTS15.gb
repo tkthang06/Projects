@@ -1,0 +1,400 @@
+LOCUS       NM_139055               6006 bp    mRNA    linear   PRI 30-APR-2025
+DEFINITION  Homo sapiens ADAM metallopeptidase with thrombospondin type 1 motif
+            15 (ADAMTS15), mRNA.
+ACCESSION   NM_139055
+VERSION     NM_139055.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6006)
+  AUTHORS   Boschann,F., Cogulu,M.O., Pehlivan,D., Balachandran,S.,
+            Vallecillo-Garcia,P., Grochowski,C.M., Hansmeier,N.R., Coban
+            Akdemir,Z.H., Prada-Medina,C.A., Aykut,A., Fischer-Zirnsak,B.,
+            Badura,S., Durmaz,B., Ozkinay,F., Hagerling,R., Posey,J.E.,
+            Stricker,S., Gillessen-Kaesbach,G., Spielmann,M., Horn,D.,
+            Brockmann,K., Lupski,J.R., Kornak,U. and Schmidt,J.
+  TITLE     Biallelic variants in ADAMTS15 cause a novel form of distal
+            arthrogryposis
+  JOURNAL   Genet Med 24 (10), 2187-2193 (2022)
+   PUBMED   35962790
+  REMARK    GeneRIF: Biallelic variants in ADAMTS15 cause a novel form of
+            distal arthrogryposis.
+            Erratum:[Genet Med. 2023 May;25(5):100799. doi:
+            10.1016/j.gim.2023.100799. PMID: 36853234]
+REFERENCE   2  (bases 1 to 6006)
+  AUTHORS   Binder,M.J., McCoombe,S., Williams,E.D., McCulloch,D.R. and
+            Ward,A.C.
+  TITLE     ADAMTS-15 Has a Tumor Suppressor Role in Prostate Cancer
+  JOURNAL   Biomolecules 10 (5), 682 (2020)
+   PUBMED   32354091
+  REMARK    GeneRIF: ADAMTS-15 Has a Tumor Suppressor Role in Prostate Cancer.
+REFERENCE   3  (bases 1 to 6006)
+  AUTHORS   Gueye,N.A., Mead,T.J., Koch,C.D., Biscotti,C.V., Falcone,T. and
+            Apte,S.S.
+  TITLE     Versican Proteolysis by ADAMTS Proteases and Its Influence on Sex
+            Steroid Receptor Expression in Uterine Leiomyoma
+  JOURNAL   J Clin Endocrinol Metab 102 (5), 1631-1641 (2017)
+   PUBMED   28323982
+  REMARK    GeneRIF: ADAMTS4 and ADAMTS15 were upregulated in symptomatic
+            uterine leiomyomas.
+REFERENCE   4  (bases 1 to 6006)
+  AUTHORS   Wang,Y. and Tatakis,D.N.
+  TITLE     Human gingiva transcriptome during wound healing
+  JOURNAL   J Clin Periodontol 44 (4), 394-402 (2017)
+   PUBMED   28005267
+  REMARK    GeneRIF: ADAMTS15 expression is significantly upregulated in human
+            masticatory mucosa during wound healing
+REFERENCE   5  (bases 1 to 6006)
+  AUTHORS   Guo,C., Tsigkou,A. and Lee,M.H.
+  TITLE     ADAMTS13 and 15 are not regulated by the full length and N-terminal
+            domain forms of TIMP-1, -2, -3 and -4
+  JOURNAL   Biomed Rep 4 (1), 73-78 (2016)
+   PUBMED   26870338
+REFERENCE   6  (bases 1 to 6006)
+  AUTHORS   Molokwu,C.N., Adeniji,O.O., Chandrasekharan,S., Hamdy,F.C. and
+            Buttle,D.J.
+  TITLE     Androgen regulates ADAMTS15 gene expression in prostate cancer
+            cells
+  JOURNAL   Cancer Invest 28 (7), 698-710 (2010)
+   PUBMED   20590445
+  REMARK    GeneRIF: ADAMTS-15 but not ADAMTS-1 expression was downregulated by
+            androgen in LNCaP prostate cancer cells, possibly through androgen
+            response elements associated with the gene
+REFERENCE   7  (bases 1 to 6006)
+  AUTHORS   Viloria,C.G., Obaya,A.J., Moncada-Pazos,A., Llamazares,M.,
+            Astudillo,A., Capella,G., Cal,S. and Lopez-Otin,C.
+  TITLE     Genetic inactivation of ADAMTS15 metalloprotease in human
+            colorectal cancer
+  JOURNAL   Cancer Res 69 (11), 4926-4934 (2009)
+   PUBMED   19458070
+  REMARK    GeneRIF: ADAMTS15 may be target of inactivating mutations in human
+            cancer.
+REFERENCE   8  (bases 1 to 6006)
+  AUTHORS   Porter,S., Span,P.N., Sweep,F.C., Tjan-Heijnen,V.C.,
+            Pennington,C.J., Pedersen,T.X., Johnsen,M., Lund,L.R., Romer,J. and
+            Edwards,D.R.
+  TITLE     ADAMTS8 and ADAMTS15 expression predicts survival in human breast
+            carcinoma
+  JOURNAL   Int J Cancer 118 (5), 1241-1247 (2006)
+   PUBMED   16152618
+  REMARK    GeneRIF: ADAMTS8 and ADAMTS15 have emerged as novel predictors of
+            survival in patients with breast carcinoma
+REFERENCE   9  (bases 1 to 6006)
+  AUTHORS   Cross,N.A., Chandrasekharan,S., Jokonya,N., Fowles,A., Hamdy,F.C.,
+            Buttle,D.J. and Eaton,C.L.
+  TITLE     The expression and regulation of ADAMTS-1, -4, -5, -9, and -15, and
+            TIMP-3 by TGFbeta1 in prostate cells: relevance to the accumulation
+            of versican
+  JOURNAL   Prostate 63 (3), 269-275 (2005)
+   PUBMED   15599946
+  REMARK    GeneRIF: negative effect of TGFbeta1 on ADAMTS-1, -5, -9, and -15
+            coupled with increases in their inhibitor, TIMP-3 may aid the
+            accumulation of versican in the stromal compartment of the prostate
+            in BPH and prostate cancer
+REFERENCE   10 (bases 1 to 6006)
+  AUTHORS   Cal,S., Obaya,A.J., Llamazares,M., Garabaya,C., Quesada,V. and
+            Lopez-Otin,C.
+  TITLE     Cloning, expression analysis, and structural characterization of
+            seven novel human ADAMTSs, a family of metalloproteinases with
+            disintegrin and thrombospondin-1 domains
+  JOURNAL   Gene 283 (1-2), 49-62 (2002)
+   PUBMED   11867212
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AP002986.2 and AP003459.2.
+            
+            On Sep 17, 2020 this sequence version replaced NM_139055.3.
+            
+            Summary: This gene encodes a member of the ADAMTS (a disintegrin
+            and metalloproteinase with thrombospondin motifs) protein family.
+            ADAMTS family members share several distinct protein modules,
+            including a propeptide region, a metalloproteinase domain, a
+            disintegrin-like domain, and a thrombospondin type 1 (TS) motif.
+            Individual members of this family differ in the number of
+            C-terminal TS motifs, and some have unique C-terminal domains. The
+            encoded preproprotein is proteolytically processed to generate the
+            mature enzyme, which may play a role in versican processing during
+            skeletal muscle development. This gene may function as a tumor
+            suppressor in colorectal and breast cancers. [provided by RefSeq,
+            May 2016].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR11853566.5727.1,
+                                           SRR18074967.3117889.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968189, SAMEA1968540
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000299164.4/ ENSP00000299164.2
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1286              AP002986.2         133786-135071
+            1287-1419           AP002986.2         146630-146762
+            1420-1587           AP002986.2         147228-147395
+            1588-1871           AP002986.2         147638-147921
+            1872-2049           AP002986.2         154403-154580
+            2050-2231           AP003459.2         1346-1527
+            2232-2407           AP003459.2         1634-1809
+            2408-6006           AP003459.2         3473-7071
+FEATURES             Location/Qualifiers
+     source          1..6006
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q24.3"
+     gene            1..6006
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="ADAM metallopeptidase with thrombospondin type 1
+                     motif 15"
+                     /db_xref="GeneID:170689"
+                     /db_xref="HGNC:HGNC:16305"
+                     /db_xref="MIM:607509"
+     exon            1..1286
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    135..137
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="upstream in-frame stop codon"
+     CDS             330..3182
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="a disintegrin and metalloproteinase with
+                     thrombospondin motifs 15; a disintegrin-like and
+                     metalloprotease (reprolysin type) with thrombospondin type
+                     1 motif, 15, preproprotein; metalloprotease disintegrin 15
+                     with thrombospondin domains"
+                     /codon_start=1
+                     /product="A disintegrin and metalloproteinase with
+                     thrombospondin motifs 15 preproprotein"
+                     /protein_id="NP_620686.1"
+                     /db_xref="CCDS:CCDS8488.1"
+                     /db_xref="GeneID:170689"
+                     /db_xref="HGNC:HGNC:16305"
+                     /db_xref="MIM:607509"
+                     /translation="MLLLGILTLAFAGRTAGGSEPEREVVVPIRLDPDINGRRYYWRG
+                     PEDSGDQGLIFQITAFQEDFYLHLTPDAQFLAPAFSTEHLGVPLQGLTGGSSDLRRCF
+                     YSGDVNAEPDSFAAVSLCGGLRGAFGYRGAEYVISPLPNASAPAAQRNSQGAHLLQRR
+                     GVPGGPSGDPTSRCGVASGWNPAILRALDPYKPRRAGFGESRSRRRSGRAKRFVSIPR
+                     YVETLVVADESMVKFHGADLEHYLLTLLATAARLYRHPSILNPINIVVVKVLLLRDRD
+                     SGPKVTGNAALTLRNFCAWQKKLNKVSDKHPEYWDTAILFTRQDLCGATTCDTLGMAD
+                     VGTMCDPKRSCSVIEDDGLPSAFTTAHELGHVFNMPHDNVKVCEEVFGKLRANHMMSP
+                     TLIQIDRANPWSACSAAIITDFLDSGHGDCLLDQPSKPISLPEDLPGASYTLSQQCEL
+                     AFGVGSKPCPYMQYCTKLWCTGKAKGQMVCQTRHFPWADGTSCGEGKLCLKGACVERH
+                     NLNKHRVDGSWAKWDPYGPCSRTCGGGVQLARRQCTNPTPANGGKYCEGVRVKYRSCN
+                     LEPCPSSASGKSFREEQCEAFNGYNHSTNRLTLAVAWVPKYSGVSPRDKCKLICRANG
+                     TGYFYVLAPKVVDGTLCSPDSTSVCVQGKCIKAGCDGNLGSKKRFDKCGVCGGDNKSC
+                     KKVTGLFTKPMHGYNFVVAIPAGASSIDIRQRGYKGLIGDDNYLALKNSQGKYLLNGH
+                     FVVSAVERDLVVKGSLLRYSGTGTAVESLQASRPILEPLTVEVLSVGKMTPPRVRYSF
+                     YLPKEPREDKSSHPKDPRGPSVLHNSVLSLSNQVEQPDDRPPARWVAGSWGPCSASCG
+                     SGLQKRAVDCRGSAGQRTVPACDAAHRPVETQACGEPCPTWELSAWSPCSKSCGRGFQ
+                     RRSLKCVGHGGRLLARDQCNLHRKPQELDFCVLRPC"
+     sig_peptide     330..380
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     misc_feature    750..752
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q8TE58.1); glycosylation site"
+     misc_feature    780..845
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8TE58.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    843..866
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8TE58.1);
+                     Region: Cysteine switch. /evidence=ECO:0000250"
+     mat_peptide     966..3179
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /product="A disintegrin and metalloproteinase with
+                     thrombospondin motifs 15. /id=PRO_0000029193"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8TE58.1)"
+     misc_feature    2100..2102
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q8TE58.1); glycosylation site"
+     misc_feature    2196..2198
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q8TE58.1); glycosylation site"
+     misc_feature    2364..2366
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q8TE58.1); glycosylation site"
+     misc_feature    2430..2843
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8TE58.1);
+                     Region: Spacer"
+     misc_feature    2721..2795
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8TE58.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            1287..1419
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1420..1587
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1588..1871
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1872..2049
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2050..2231
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2232..2407
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2408..6006
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      5980..5985
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="hexamer: AATAAA"
+     polyA_site      6006
+                     /gene="ADAMTS15"
+                     /gene_synonym="DA12"
+                     /note="major polyA site"
+ORIGIN      
+        1 gcgctgcgag tggctgcggt tgcgagaagc cgcccggcac cttccgctag ttctcggctg
+       61 caaatcttcg tccttgcact tgacagcgat tgtacttaag ctcccagggc gcgctttgct
+      121 tggaaaggca caggtaggaa gcgcgggctg ccgggtgcac gctcgccgcc ctgggaggag
+      181 tctccctccc ttggctctcc tttctgggaa ctgccggctg tcccgtagcg ttggcggttc
+      241 cagagtgcgg gctgcacgga gaccgcggca gcggccggag agcccggccc agccccttcc
+      301 cacagcgcgg cggtgcgctg cccggcgcca tgcttctgct gggcatccta accctggctt
+      361 tcgccgggcg aaccgctgga ggctctgagc cagagcggga ggtagtcgtt cccatccgac
+      421 tggacccgga cattaacggc cgccgctact actggcgggg tcccgaggac tccggggatc
+      481 agggactcat ttttcagatc acagcatttc aggaggactt ttacctacac ctgacgccgg
+      541 atgctcagtt cttggctccc gccttctcca ctgagcatct gggcgtcccc ctccaggggc
+      601 tcaccggggg ctcttcagac ctgcgacgct gcttctattc tggggacgtg aacgccgagc
+      661 cggactcgtt cgctgctgtg agcctgtgcg gggggctccg cggagccttt ggctaccgag
+      721 gcgccgagta tgtcattagc ccgctgccca atgctagcgc gccggcggcg cagcgcaaca
+      781 gccagggcgc acaccttctc cagcgccggg gtgttccggg cgggccttcc ggagacccca
+      841 cctctcgctg cggggtggcc tcgggctgga accccgccat cctacgggcc ctggaccctt
+      901 acaagccgcg gcgggcgggc ttcggggaga gtcgtagccg gcgcaggtct gggcgcgcca
+      961 agcgtttcgt gtctatcccg cggtacgtgg agacgctggt ggtcgcggac gagtcaatgg
+     1021 tcaagttcca cggcgcggac ctggaacatt atctgctgac gctgctggca acggcggcgc
+     1081 gactctaccg ccatcccagc atcctcaacc ccatcaacat cgttgtggtc aaggtgctgc
+     1141 ttcttagaga tcgtgactcc gggcccaagg tcaccggcaa tgcggccctg acgctgcgca
+     1201 acttctgtgc ctggcagaag aagctgaaca aagtgagtga caagcacccc gagtactggg
+     1261 acactgccat cctcttcacc aggcaggacc tgtgtggagc caccacctgt gacaccctgg
+     1321 gcatggctga tgtgggtacc atgtgtgacc ccaagagaag ctgctctgtc attgaggacg
+     1381 atgggcttcc atcagccttc accactgccc acgagctggg ccacgtgttc aacatgcccc
+     1441 atgacaatgt gaaagtctgt gaggaggtgt ttgggaagct ccgagccaac cacatgatgt
+     1501 ccccgaccct catccagatc gaccgtgcca acccctggtc agcctgcagt gctgccatca
+     1561 tcaccgactt cctggacagc gggcacggtg actgcctcct ggaccaaccc agcaagccca
+     1621 tctccctgcc cgaggatctg ccgggcgcca gctacaccct gagccagcag tgcgagctgg
+     1681 cttttggcgt gggctccaag ccctgtcctt acatgcagta ctgcaccaag ctgtggtgca
+     1741 ccgggaaggc caagggacag atggtgtgcc agacccgcca cttcccctgg gccgatggca
+     1801 ccagctgtgg cgagggcaag ctctgcctca aaggggcctg cgtggagaga cacaacctca
+     1861 acaagcacag ggtggatggt tcctgggcca aatgggatcc ctatggcccc tgctcgcgca
+     1921 catgtggtgg gggcgtgcag ctggccagga ggcagtgcac caaccccacc cctgccaacg
+     1981 ggggcaagta ctgcgaggga gtgagggtga aataccgatc ctgcaatctg gagccctgcc
+     2041 ccagctcagc ctccggaaag agcttccggg aggagcagtg tgaggctttc aacggctaca
+     2101 accacagcac caaccggctc actctcgccg tggcatgggt gcccaagtac tccggcgtgt
+     2161 ctccccggga caagtgcaag ctcatctgcc gagccaatgg cactggctac ttctatgtgc
+     2221 tggcacccaa ggtggtggac ggcacgctgt gctctcctga ctccacctcc gtctgtgtcc
+     2281 aaggcaagtg catcaaggct ggctgtgatg ggaacctggg ctccaagaag agattcgaca
+     2341 agtgtggggt gtgtggggga gacaataaga gctgcaagaa ggtgactgga ctcttcacca
+     2401 agcccatgca tggctacaat ttcgtggtgg ccatccccgc aggcgcctca agcatcgaca
+     2461 tccgccagcg cggttacaaa gggctgatcg gggatgacaa ctacctggct ctgaagaaca
+     2521 gccaaggcaa gtacctgctc aacgggcatt tcgtggtgtc ggcggtggag cgggacctgg
+     2581 tggtgaaggg cagtctgctg cggtacagcg gcacgggcac agcggtggag agcctgcagg
+     2641 cttcccggcc catcctggag ccgctgaccg tggaggtcct ctccgtgggg aagatgacac
+     2701 cgccccgggt ccgctactcc ttctatctgc ccaaagagcc tcgggaggac aagtcctctc
+     2761 atcccaagga cccccgggga ccctctgtct tgcacaacag cgtcctcagc ctctccaacc
+     2821 aggtggagca gccggacgac aggccccctg cacgctgggt ggctggcagc tgggggccgt
+     2881 gctccgcgag ctgcggcagt ggcctgcaga agcgggcggt ggactgccgg ggctccgccg
+     2941 ggcagcgcac ggtccctgcc tgtgatgcag cccatcggcc cgtggagaca caagcctgcg
+     3001 gggagccctg ccccacctgg gagctcagcg cctggtcacc ctgctccaag agctgcggcc
+     3061 ggggatttca gaggcgctca ctcaagtgtg tgggccacgg aggccggctg ctggcccggg
+     3121 accagtgcaa cttgcaccgc aagccccagg agctggactt ctgcgtcctg aggccgtgct
+     3181 gagtggggtc atcgctttct ccccctcact ctccacccca ctgatatgcc agcgttctgc
+     3241 cagctggagt agcgggcaga ggacggtggc caggggctca cgccacgatg tcacccacat
+     3301 ccggggacaa ggaccatggg ctggggcgag aggttccctc ctcctccctg gactgggcag
+     3361 agggaagccc aggaactccc gcacagtcta cctcaggccc cgctcctcgg gccggttgcg
+     3421 gggagaggct ttgaggtgca gggcagaagg tgctgaggcc cagtttccaa ggaacttgga
+     3481 ggatgggcac cttccaggca gaacttcagg gaccccggcc cccagaacgg aggccacagg
+     3541 ctgctggaag agccatgtcc cagcagcttg gcaccctcag gtggccccat gggctctgag
+     3601 ccgtgtctga acgaggcagg gttttcacgg tgcttttagc ccactttcct ttttgaactg
+     3661 acatggacta agcaataaaa gctggctggg gctgggcaga agccacgggg agagtgagat
+     3721 tagggcccct ggagcctggc actccacctt ggaagacgtg gacgtgcaca gggagtcccg
+     3781 aggtttctca tcctgcactc ttggccctcc tataaagaag cagcctctcc ttcctctgat
+     3841 gtgcagggtg taggactagt ggtagggctg ccacggaagt gtcctctgag gctctgcagg
+     3901 tagcggggaa agccagtagg gagtctgctg tcttcttcaa gatggagccg gccattacag
+     3961 aaagatgttg acatttgcta ggggctatgc agtctgtggc tgatgcaggg agttttcaga
+     4021 aagttctgga gggttctgct gtcactggac tggggttggt gctgagctct gggcctggct
+     4081 ttgggagatg tcaccctggg atagggagga ggaagctgca tttctaatgg cttcctcctc
+     4141 cagagaggca cgtatatgca ggctgacatc cgagggtctg tgtcgcctca gacagccctg
+     4201 acagtggcca cagtcccgta cccattgtga ggggctgggg catgcctagg agggctaggt
+     4261 gctgaacatc tatgtgccta taaactcgtc ttcgttccaa acagctactg ctgtctgccc
+     4321 tgggcacgtc acgttgcatc ctaggcctta gcttctccac tgtttgctac ctcagattat
+     4381 gccctctggg aacccagccg tatccctccc ctaggacagt ggtgacctgg tccttccacc
+     4441 acactcagtc tttggagagc gagctgtcca gccacagaaa tgagggtgtg gtgcgtggct
+     4501 tcctgctccc cacagcccag ccccctgttg gggctccaaa gccgaagaca gggcctcttc
+     4561 agactccttg ggagtaggtt tcaggaggca ccaagaatca atgactgacc cagggggcct
+     4621 ggcagccact agtatgaact gctggagacc tgtctgtctt atagacatgt caggaaaata
+     4681 gaaacaggca ttttctctag ctccaagtgg ggagatattt tggggtcaca gcttctttgg
+     4741 ctaagcaggg tgtttcttga aggttcagat gccccactgt gtacatggga tattctgctt
+     4801 ctgagtgtag gtgatgaatc caggtcctca gtggagaatt ttctggagct aagatcaaag
+     4861 catgtgtctt cctgggagag aagagttccg ttcttttatg tgggtttccc taatagtcag
+     4921 aatccacaaa ccagccagcc agccagccaa gcctctgcga tgatgttctc atccggtcta
+     4981 acgctgggct ggaaaccttg gacagagttc atgcgggggc agagggggtg ccagtctctg
+     5041 aggcagggct gcagtcaccc ctgaagaact aagtgaacag gaacccctct gtgccagtga
+     5101 ccactgtggg gctaaaggga caaaaaggac cagggtacca ggcagaagca gatccttgat
+     5161 agctgacgac agcactgcgc cctgtgcttg gtgcactccc tccttcagga ggagagggtg
+     5221 gcatggggtc tgtgcgggat ggcaggggga ttgggtgggt gggaagagag gtgccatcgg
+     5281 taggaggctg gcctccagta gaggagagca gcttttgcca tcagtcactt tacaaaccat
+     5341 ttcaaggaag gacaacctct ctggctcctg acacaagcca ggcctcggtg cttttatctg
+     5401 ttgtggtggt ttttcttctt tcccttttta aaagacgcat gaccaagaca acctagggag
+     5461 tttgtcttgc ttgcctttga ctatttcctt aatccaacca tgctctcgag ggctgagcag
+     5521 agactagact caaggcacag gtttctggtg atggagtaaa gttacagcgg tatctcatgt
+     5581 ctacacaaga agaggaacgt tctgaaagct ccaacaactt cttgaggggg atggaccaat
+     5641 acagctttgg gctcaggatt ccctagcctc ctctgcccat cgcgtgcact gattggagga
+     5701 gtctggccca aacactctca tatgaacctc gacatgctgg agtggggtct ggcaggagct
+     5761 gatgacagtt tgagggactt gagtgtccct agcctggcag ttggctcccg gaagcactag
+     5821 acactgacac tcattggtag accctccctc cccgccgttg tgtttggttc ttttgcactc
+     5881 catgtactgc agaaggatgg aaggacctgg gtgctggctg ggctgtgtat actgtgtata
+     5941 caagggagct ggctgctgag gtgaccacag ccttctccta ataaagctgt aagtatttaa
+     6001 aacctg
+//
+

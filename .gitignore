@@ -1,0 +1,7 @@
+# This folder also holds coursework; only the listed projects are tracked.
+/*
+!/.gitignore
+!/README.md
+!/genefamilyexplorer/
+
+__pycache__/

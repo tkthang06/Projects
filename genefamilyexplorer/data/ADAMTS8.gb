@@ -1,0 +1,350 @@
+LOCUS       NM_007037               3628 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens ADAM metallopeptidase with thrombospondin type 1 motif
+            8 (ADAMTS8), mRNA.
+ACCESSION   NM_007037
+VERSION     NM_007037.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3628)
+  AUTHORS   Ma,F., Liu,H., Xia,T., Zhang,Z., Ma,S., Hao,Y., Shen,J., Jiang,Y.
+            and Li,N.
+  TITLE     HSFAS mediates fibroblast proliferation, migration,
+            trans-differentiation and apoptosis in hypertrophic scars via
+            interacting with ADAMTS8
+  JOURNAL   Acta Biochim Biophys Sin (Shanghai) 56 (3), 440-451 (2024)
+   PUBMED   38006215
+  REMARK    GeneRIF: HSFAS mediates fibroblast proliferation, migration,
+            trans-differentiation and apoptosis in hypertrophic scars via
+            interacting with ADAMTS8.
+REFERENCE   2  (bases 1 to 3628)
+  AUTHORS   Zhang,Q., Kanyomse,Q., Luo,C., Mo,Q., Zhao,X., Wang,L., Peng,W. and
+            Ren,G.
+  TITLE     The Prognostic Value of ADAMTS8 and Its Role as a Tumor Suppressor
+            in Breast Cancer
+  JOURNAL   Cancer Invest 41 (2), 119-132 (2023)
+   PUBMED   36346393
+  REMARK    GeneRIF: The Prognostic Value of ADAMTS8 and Its Role as a Tumor
+            Suppressor in Breast Cancer.
+REFERENCE   3  (bases 1 to 3628)
+  AUTHORS   Zhou,B., Liu,Y., Ma,G., Wang,X., Chang,B., Lu,H. and Feng,X.
+  TITLE     ADAMTS8 inhibits glioma development in vitro and in vivo
+  JOURNAL   Folia Neuropathol 61 (2), 144-152 (2023)
+   PUBMED   37587889
+  REMARK    GeneRIF: ADAMTS8 inhibits glioma development in vitro and in vivo.
+REFERENCE   4  (bases 1 to 3628)
+  AUTHORS   Zhang,Y., Hu,K., Qu,Z., Xie,Z. and Tian,F.
+  TITLE     ADAMTS8 inhibited lung cancer progression through suppressing VEGFA
+  JOURNAL   Biochem Biophys Res Commun 598, 1-8 (2022)
+   PUBMED   35149432
+  REMARK    GeneRIF: ADAMTS8 inhibited lung cancer progression through
+            suppressing VEGFA.
+REFERENCE   5  (bases 1 to 3628)
+  AUTHORS   Santamaria,S., Martin,D.R., Dong,X., Yamamoto,K., Apte,S.S. and
+            Ahnstrom,J.
+  TITLE     Post-translational regulation and proteolytic activity of the
+            metalloproteinase ADAMTS8
+  JOURNAL   J Biol Chem 297 (5), 101323 (2021)
+   PUBMED   34687701
+  REMARK    GeneRIF: Post-translational regulation and proteolytic activity of
+            the metalloproteinase ADAMTS8.
+REFERENCE   6  (bases 1 to 3628)
+  AUTHORS   Porter,S., Span,P.N., Sweep,F.C., Tjan-Heijnen,V.C.,
+            Pennington,C.J., Pedersen,T.X., Johnsen,M., Lund,L.R., Romer,J. and
+            Edwards,D.R.
+  TITLE     ADAMTS8 and ADAMTS15 expression predicts survival in human breast
+            carcinoma
+  JOURNAL   Int J Cancer 118 (5), 1241-1247 (2006)
+   PUBMED   16152618
+  REMARK    GeneRIF: ADAMTS8 and ADAMTS15 have emerged as novel predictors of
+            survival in patients with breast carcinoma
+REFERENCE   7  (bases 1 to 3628)
+  AUTHORS   Dunn,J.R., Panutsopulos,D., Shaw,M.W., Heighway,J., Dormer,R.,
+            Salmo,E.N., Watson,S.G., Field,J.K. and Liloglou,T.
+  TITLE     METH-2 silencing and promoter hypermethylation in NSCLC
+  JOURNAL   Br J Cancer 91 (6), 1149-1154 (2004)
+   PUBMED   15328519
+  REMARK    GeneRIF: Downdownregulation of METH-2 expression in primary NSCLC,
+            often associated with promoter hypermethylation, is a frequent
+            event, which may be related to the development of the disease.
+REFERENCE   8  (bases 1 to 3628)
+  AUTHORS   Collins-Racie,L.A., Flannery,C.R., Zeng,W., Corcoran,C.,
+            Annis-Freeman,B., Agostino,M.J., Arai,M., DiBlasio-Smith,E.,
+            Dorner,A.J., Georgiadis,K.E., Jin,M., Tan,X.Y., Morris,E.A. and
+            LaVallie,E.R.
+  TITLE     ADAMTS-8 exhibits aggrecanase activity and is expressed in human
+            articular cartilage
+  JOURNAL   Matrix Biol 23 (4), 219-230 (2004)
+   PUBMED   15296936
+  REMARK    GeneRIF: Ability of ADAMTS-8 to cleave aggrecan at
+            aggrecanase-susceptible Glu373-Ala374 peptide bond. Presence of
+            ADAMTS-8 mRNA transcripts in normal and osteoarthritic human
+            cartilage. (ADAMTS-8)
+REFERENCE   9  (bases 1 to 3628)
+  AUTHORS   Georgiadis,K.E., Hirohata,S., Seldin,M.F. and Apte,S.S.
+  TITLE     ADAM-TS8, a novel metalloprotease of the ADAM-TS family located on
+            mouse chromosome 9 and human chromosome 11
+  JOURNAL   Genomics 62 (2), 312-315 (1999)
+   PUBMED   10610729
+REFERENCE   10 (bases 1 to 3628)
+  AUTHORS   Vazquez,F., Hastings,G., Ortega,M.A., Lane,T.F., Oikemus,S.,
+            Lombardo,M. and Iruela-Arispe,M.L.
+  TITLE     METH-1, a human ortholog of ADAMTS-1, and METH-2 are members of a
+            new family of proteins with angio-inhibitory activity
+  JOURNAL   J Biol Chem 274 (33), 23349-23357 (1999)
+   PUBMED   10438512
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF060153.1, BX424609.2,
+            AP002986.2 and BC089435.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 22, 2018 this sequence version replaced NM_007037.5.
+            
+            Summary: This gene encodes a member of the ADAMTS (a disintegrin
+            and metalloproteinase with thrombospondin motifs) protein family.
+            Members of the family share several distinct protein modules,
+            including a propeptide region, a metalloproteinase domain, a
+            disintegrin-like domain, and a thrombospondin type 1 (TS) motif.
+            Individual members of this family differ in the number of
+            C-terminal TS motifs, and some have unique C-terminal domains. The
+            encoded preproprotein is proteolytically processed to generate the
+            mature enzyme. This enzyme contains two C-terminal TS motifs, and
+            disrupts angiogenesis in vivo. A number of disorders have been
+            mapped in the vicinity of this gene, most notably lung neoplasms.
+            Reduced expression of this gene has been observed in multiple human
+            cancers and this gene has been proposed as a potential tumor
+            suppressor. [provided by RefSeq, Feb 2016].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF060153.1, SRR14038196.2400245.1
+                                           [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000257359.7/ ENSP00000257359.6
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-191               AF060153.1         385-575
+            192-547             BX424609.2         133-488
+            548-609             AP002986.2         113142-113203       c
+            610-3628            BC089435.1         374-3392
+FEATURES             Location/Qualifiers
+     source          1..3628
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q24.3"
+     gene            1..3628
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="ADAM metallopeptidase with thrombospondin type 1
+                     motif 8"
+                     /db_xref="GeneID:11095"
+                     /db_xref="HGNC:HGNC:224"
+                     /db_xref="MIM:605175"
+     exon            1..1043
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    213..215
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="upstream in-frame stop codon"
+     CDS             324..2993
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="a disintegrin-like and metalloprotease (reprolysin
+                     type) with thrombospondin type 1 motif, 8; METH-2; METH-8;
+                     ADAMTS-8"
+                     /codon_start=1
+                     /product="A disintegrin and metalloproteinase with
+                     thrombospondin motifs 8 preproprotein"
+                     /protein_id="NP_008968.4"
+                     /db_xref="CCDS:CCDS41732.1"
+                     /db_xref="GeneID:11095"
+                     /db_xref="HGNC:HGNC:224"
+                     /db_xref="MIM:605175"
+                     /translation="MLPAPAAPRWPPLLLLLLLLLPLARGAPARPAAGGQASELVVPT
+                     RLPGSAGELALHLSAFGKGFVLRLAPDDSFLAPEFKIERLGGSGRATGGERGLRGCFF
+                     SGTVNGEPESLAAVSLCRGLSGSFLLDGEEFTIQPQGAGGSLAQPHRLQRWGPAGARP
+                     LPRGPEWEVETGEGQRQERGDHQEDSEEESQEEEAEGASEPPPPLGATSRTKRFVSEA
+                     RFVETLLVADASMAAFYGADLQNHILTLMSVAARIYKHPSIKNSINLMVVKVLIVEDE
+                     KWGPEVSDNGGLTLRNFCNWQRRFNQPSDRHPEHYDTAILLTRQNFCGQEGLCDTLGV
+                     ADIGTICDPNKSCSVIEDEGLQAAHTLAHELGHVLSMPHDDSKPCTRLFGPMGKHHVM
+                     APLFVHLNQTLPWSPCSAMYLTELLDGGHGDCLLDAPAAALPLPTGLPGRMALYQLDQ
+                     QCRQIFGPDFRHCPNTSAQDVCAQLWCHTDGAEPLCHTKNGSLPWADGTPCGPGHLCS
+                     EGSCLPEEEVERPKPVADGGWAPWGPWGECSRTCGGGVQFSHRECKDPEPQNGGRYCL
+                     GRRAKYQSCHTEECPPDGKSFREQQCEKYNAYNYTDMDGNLLQWVPKYAGVSPRDRCK
+                     LFCRARGRSEFKVFEAKVIDGTLCGPETLAICVRGQCVKAGCDHVVDSPRKLDKCGVC
+                     GGKGNSCRKVSGSLTPTNYGYNDIVTIPAGATNIDVKQRSHPGVQNDGNYLALKTADG
+                     QYLLNGNLAISAIEQDILVKGTILKYSGSIATLERLQSFRPLPEPLTVQLLTVPGEVF
+                     PPKVKYTFFVPNDVDFSMQSSKERATTNIIQPLLHAQWVLGDWSECSSTCGAGWQRRT
+                     VECRDPSGQASATCNKALKPEDAKPCESQLCPL"
+     sig_peptide     324..401
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     misc_feature    735..953
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UP79.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     mat_peptide     963..2990
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /product="A disintegrin and metalloproteinase with
+                     thrombospondin motifs 8. /id=PRO_0000029179"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UP79.2)"
+     misc_feature    1353..1355
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UP79.2); glycosylation site"
+     misc_feature    1521..1523
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UP79.2); glycosylation site"
+     misc_feature    1716..1718
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UP79.2); glycosylation site"
+     misc_feature    1791..1793
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UP79.2); glycosylation site"
+     misc_feature    2118..2120
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9UP79.2); glycosylation site"
+     misc_feature    2391..2816
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UP79.2);
+                     Region: Spacer"
+     exon            1044..1283
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1284..1419
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1420..1587
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1588..1889
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1890..2073
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2074..2246
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2247..2422
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2423..3628
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3606..3611
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="hexamer: ACTAAA"
+     polyA_site      3628
+                     /gene="ADAMTS8"
+                     /gene_synonym="ADAM-TS8; METH2"
+                     /note="major polyA site"
+ORIGIN      
+        1 ggtgcttccc ggggtgggga ggaggcagga ggcggctgcg cggggctggc gcgggcaggg
+       61 gcggaggacg ggcgcacgcg ggccggggcc agctgctcgc gctcggctcg ggggcggcgg
+      121 cgcgggagga gcgggctgcg ccagccagag gggccgccgg gggagcgctc ccgccgccgg
+      181 gccccgcggg ccgagtcggc cttgcacccg attgattccg cttttcctgg agagagcggc
+      241 cgggccgcgc tcgggccgcc agcacctgcc cgcgcctggc gggcttcttc cctctcctgc
+      301 gcgcagccac cgccgcagcc cccatgctcc ccgcccccgc cgccccccgg tggcctccgc
+      361 tcctgctgct gctgctgctg ctgctgccgc tggcccgcgg cgccccggcc cggcccgcag
+      421 ccggggggca ggcctcggag ctggtggtgc ccacgcggtt gcccggcagc gcgggcgagc
+      481 tcgcgctcca cctgtccgcc ttcggcaagg gcttcgtgct gcgcctggcg cccgacgaca
+      541 gcttcctagc gcccgagttc aagatcgagc gcctcggggg ctccggccgg gcgaccgggg
+      601 gcgagcgggg gctgcgcggc tgcttcttct ccggcaccgt gaatggggag cccgagtcgc
+      661 tggcggcggt cagcctgtgc cgcgggctga gcggctcctt cctgctggac ggcgaggagt
+      721 tcaccatcca gccgcagggc gcggggggct ccctggctca gccgcaccgc ctgcagcgct
+      781 ggggtcccgc cggagcccgc cccctcccgc gaggacccga gtgggaggtg gagacgggag
+      841 agggtcagag gcaggagaga ggagaccacc aggaggacag cgaggaggag agccaagaag
+      901 aggaggcaga aggcgctagc gagccgccac cgcccctggg ggccacgagt aggaccaagc
+      961 ggtttgtgtc tgaggcgcgc ttcgtggaga cgctgctggt ggccgatgcg tccatggctg
+     1021 ccttctacgg ggccgacctg cagaaccaca tcctgacgtt aatgtctgtg gcagcccgaa
+     1081 tctacaagca ccccagcatc aagaattcca tcaacctgat ggtggtaaaa gtgctgatcg
+     1141 tagaagatga aaaatggggc ccagaggtgt ccgacaatgg ggggcttaca ctgcgtaact
+     1201 tctgcaactg gcagcggcgt ttcaaccagc ccagcgaccg ccacccagag cactacgaca
+     1261 cggccatcct gctcaccaga cagaacttct gtgggcagga ggggctgtgt gacaccctgg
+     1321 gtgtggcaga catcgggacc atttgtgacc ccaacaaaag ctgctccgtg atcgaggatg
+     1381 aggggctcca ggcggcccac accctggccc atgaactagg gcacgtcctc agcatgcccc
+     1441 acgacgactc caagccctgc acacggctct tcgggcccat gggcaagcac cacgtgatgg
+     1501 caccgctgtt cgtccacctg aaccagacgc tgccctggtc cccctgcagc gccatgtatc
+     1561 tcacagagct tctggacggc gggcacggag actgtctcct ggatgcccct gctgcggccc
+     1621 tgcccctccc cacaggcctc ccgggccgca tggccctgta ccagctggac cagcagtgca
+     1681 ggcagatctt tgggccggat ttccgccact gccccaacac ctctgctcag gacgtctgcg
+     1741 cccagctttg gtgccacact gatggggctg agcccctgtg ccacacgaag aatggcagcc
+     1801 tgccctgggc tgacggcacg ccgtgcgggc ctgggcacct ctgctcagaa ggcagctgtc
+     1861 tacctgagga ggaagtggag aggcccaagc ccgtggcaga tggaggctgg gcaccgtggg
+     1921 gaccctgggg agaatgttct cggacctgtg gaggaggagt acagttttca caccgtgagt
+     1981 gcaaggaccc cgagcctcag aatggaggaa gatactgcct gggtcggaga gccaagtacc
+     2041 agtcatgcca cacggaggaa tgcccccctg acgggaaaag cttcagggag cagcagtgtg
+     2101 agaagtataa tgcctacaat tacactgaca tggacgggaa tctcctgcag tgggtcccca
+     2161 agtatgctgg ggtgtccccc cgggaccgct gcaagttgtt ctgccgagcc cgggggagga
+     2221 gcgagttcaa agtgttcgag gccaaggtga ttgatggcac cctgtgtggg ccagaaacac
+     2281 tggccatctg tgtccgtggc cagtgtgtca aggccggctg tgaccatgtg gtggactcgc
+     2341 ctcggaagct ggacaaatgc ggggtgtgtg ggggcaaagg caactcctgc aggaaggtct
+     2401 ccgggtccct cacccccacc aattatggct acaatgacat tgtcaccatc ccagctggtg
+     2461 ccactaatat tgacgtgaag cagcggagcc acccgggtgt gcagaacgat gggaactacc
+     2521 tggcgctgaa gacggctgat gggcagtacc tgctcaacgg caacctggcc atctctgcca
+     2581 tagagcagga catcttggtg aaggggacca tcctgaagta cagcggctcc atcgccaccc
+     2641 tggagcgcct gcagagcttc cggcccttgc cagagcctct gacagtgcag ctcctgacag
+     2701 tccctggcga ggtcttcccc ccaaaagtca aatacacctt ctttgttcct aatgacgtgg
+     2761 actttagcat gcagagcagc aaagagagag caaccaccaa catcatccag ccgctgctcc
+     2821 acgcacagtg ggtgctgggg gactggtctg agtgctctag cacctgcggg gccggctggc
+     2881 agaggcgaac tgtagagtgc agggacccct ccggccaggc ctctgccacc tgcaacaagg
+     2941 ctctgaaacc cgaggatgcc aagccctgcg aaagccagct gtgccccctg tgattcaggg
+     3001 gggcaggggc cagtcttgtg ctcctggaca tgcggtactg aggtgcagac aagggtctcc
+     3061 actgtggtga ctgggtccct tggccatatc aaggcagcac ggcccaccca ggcctcccat
+     3121 tgccgcaacc cctccagtac tgcacaaatt cctaaggggg aagaggagag ggtatggggc
+     3181 ggcagaccct atcatcaact gtccagtgga ctggaccttg ctcgggttca agtagagggc
+     3241 ataggttaaa aggtaaaagt gcacttattg actcagacag gacactcagc gtcagtctgt
+     3301 ttgcaaagga ctagcaaact taaatgaaaa aaaaaattct atctggtttc cccgataaat
+     3361 aatctacctc acaggggaaa aaattagtac aagagaggcg tggggcaggg agtcaatggt
+     3421 gaatgtcaaa gcaggctcca aagctggacc ccaagctgtc ttcaagaatg accacgactg
+     3481 tcttcagtgt taaaatccat cacctaaagg gccgcagcgt cgcagggttt ggagagccac
+     3541 atgttctcag gctgccacct gcaggggtgg atccatttca agtatttatg caaatgtgtc
+     3601 tctgaactaa agtgtgatct tatgccaa
+//
+
